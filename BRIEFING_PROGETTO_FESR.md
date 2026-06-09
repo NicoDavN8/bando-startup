@@ -209,27 +209,145 @@ Qualsiasi criterio sotto il minimo = RESPINTI
 
 ---
 
+## ❓ DOMANDE APERTE — RISPOSTE RICHIESTE
+
+### 1️⃣ PROGETTO TECNICO — Che cosa state sviluppando?
+
+**Domanda:**  
+Che cosa esattamente state sviluppando nei 18 mesi? (Software? Piattaforma? Integrazione? Altro?)
+
+**Risposta:**  
+[INSERIRE RISPOSTA]
+
+---
+
+### 2️⃣ DELIVERABLES SPECIFICI — Obiettivi misurabili 18 mesi
+
+**Domanda:**  
+Quali sono gli obiettivi CONCRETI e MISURABILI che consegnerete? Il bando richiede "chiarezza".
+
+**Esempi:**
+- Prototipo funzionante con X feature
+- Integrazione con Y sistemi
+- Raggiungimento di Z benchmark di performance
+- Certificazione/compliance W
+- Altro?
+
+**Risposta:**  
+[INSERIRE RISPOSTA]
+
+---
+
+### 3️⃣ TEAM OPERATIVO — Costi personale
+
+**Domanda A:**  
+La risorsa Co.Co.Co full-time: qual è il costo lordo mensile? (Es: €2.000? €3.000? €2.500?)
+
+**Risposta:**  
+[INSERIRE RISPOSTA]
+
+**Domanda B:**  
+I 3 soci lavoreranno al progetto? Se sì, quante ore/settimana ciascuno dedica?  
+(Servono per il calcolo UCS)
+
+**Risposta:**  
+[INSERIRE RISPOSTA — dettagliare per Simon, Nicolò, Damiano]
+
+---
+
+### 4️⃣ HARDWARE — GPU e specifiche tecniche
+
+**Domanda A:**  
+Quale GPU state pensando di acquistare? (Es: RTX 4090, A100, RTX 4080, altro?)
+
+**Risposta:**  
+[INSERIRE RISPOSTA]
+
+**Domanda B:**  
+Costo totale PC + GPU? (Ammortamento su 18 mesi)
+
+**Risposta:**  
+[INSERIRE RISPOSTA]
+
+**Domanda C:**  
+Specifiche CPU/RAM/Storage? (Serve per giustificare l'investimento)
+
+**Risposta:**  
+[INSERIRE RISPOSTA]
+
+---
+
+### 5️⃣ SOFTWARE — Licenze LLM indispensabili
+
+**Domanda:**  
+Quali licenze LLM vi servono? (OpenAI GPT? Anthropic Claude? Meta Llama? Altro? Mix?)
+
+Quanto costeranno in 18 mesi?
+
+**Risposta:**  
+[INSERIRE RISPOSTA]
+
+---
+
+### 6️⃣ CONSULENZE SPECIALIZZATE
+
+**Domanda A:**  
+Chi farà l'**assessment tecnologico** (obbligatorio entro anno 1)? Costo preventivato?
+
+**Risposta:**  
+[INSERIRE RISPOSTA]
+
+**Domanda B:**  
+Quali altre consulenze vi servono? (Es: compliance normative, CE Marking, GDPR, altro?)
+
+**Risposta:**  
+[INSERIRE RISPOSTA]
+
+---
+
+### 7️⃣ COMPLIANCE NORMATIVE EUROPEE
+
+**Domanda:**  
+Quali compliance europee servono per il vostro prodotto/servizio?
+
+Selezionare tra:
+- [ ] CE Marking
+- [ ] GDPR compliance
+- [ ] Ecodesign (ESPR — reg. UE 2024/1781)
+- [ ] Altro (specificare): ___________
+
+**Risposta:**  
+[INSERIRE RISPOSTA]
+
+---
+
+### 8️⃣ PARTNERSHIP — Dettagli collaborazione
+
+**Domanda A:**  
+UTMB Italia — quale è il ruolo specifico nella collaborazione? (Che cosa fanno/ricevono?)
+
+**Risposta:**  
+[INSERIRE RISPOSTA]
+
+**Domanda B:**  
+Tor/Vda Trailers — quale è il ruolo specifico nella collaborazione?
+
+**Risposta:**  
+[INSERIRE RISPOSTA]
+
+---
+
 ## 🔴 PROSSIMI PASSI (URGENTI)
 
-1. **Dettagliare il progetto tecnico:**
-   - Cosa sviluppate esattamente?
-   - Deliverables concreti (18 mesi)
-   - Compliance normative
-
-2. **Precisare i costi:**
-   - Costo Co.Co.Co/mese
-   - GPU specifica + costo
-   - Licenze LLM dettagliate
-   - Chi fa assessment tecnologico
-
-3. **Richiedere commercialista:**
+1. **Rispondi a tutte le domande qui sopra** ✅
+2. **Scarica la repo del progetto** e dammela in pasto
+3. **Richiedere al commercialista:**
    - Verbale CdA con delega firma Simon
    - Provvisorio 2025 + 2026
    - Calcolo UCS per soci
-
-4. **Rediggere contenuti:**
+4. **Redigiamo insieme:**
    - Business plan sintetico
-   - Piano di sviluppo (approx. 15-20 pagine)
+   - Piano di sviluppo (15-20 pagine)
    - Budget forecast dettagliato
 
 ---
