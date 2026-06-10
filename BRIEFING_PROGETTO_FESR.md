@@ -371,14 +371,53 @@ Quali altre consulenze vi servono? (Es: compliance normative, CE Marking, GDPR, 
 **Domanda:**  
 Quali compliance europee servono per il vostro prodotto/servizio?
 
-Selezionare tra:
-- [ ] CE Marking
-- [ ] GDPR compliance
-- [ ] Ecodesign (ESPR — reg. UE 2024/1781)
-- [ ] Altro (specificare): ___________
+**Risposta:**
 
-**Risposta:**  
-[INSERIRE RISPOSTA]
+#### ✅ GDPR (Reg. UE 2016/679) — GIÀ IMPLEMENTATO in produzione
+
+EMSy gestisce dati clinici sensibili di pazienti (referti, dati sanitari) caricati dagli operatori sanitari. La piattaforma ha un sistema di anonimizzazione PII già in produzione con architettura a **3 layer indipendenti**:
+
+1. **Regex medico-italiano** — riconosce CF, P.IVA, IBAN, date di nascita, email, numeri di telefono italiani
+2. **OpenMed NER** — modello AI clinico italiano (66M parametri, `OpenMed-PII-Italian-LiteClinical-Small-66M-v1`) su Cloud Run in `europe-west1`; nessun dato grezzo lascia l'UE
+3. **System prompt anti-PII** — istruzioni esplicite che vietano al LLM di rivelare dati identificativi anche se presenti nel testo
+
+**Principi GDPR applicati (Privacy by Design):**
+- Data minimization: solo testo deidentificato fluisce al LLM, mai il documento originale
+- Single-cloud EU: Document AI (`eu`), Cloud Run (`europe-west1`), storage Vercel Blob (`eu`)
+- Audit trail completo su Cloud Logging GCP in regione EU (tipo entità, timestamp, modello — senza PII)
+- Fail-closed by design: se il sistema di anonimizzazione fallisce, l'upload viene bloccato (503), non processato senza protezione
+
+Nel Piano di sviluppo: consulenza specializzata per validazione formale del sistema e redazione del fascicolo documentale GDPR completo (data retention policy, DPA, diagramma architetturale per audit).
+
+---
+
+#### ⚖️ EU AI Act (Reg. UE 2024/1689) — IN VALUTAZIONE
+
+EMSy è un sistema AI in ambito sanitario. Secondo il Reg. UE 2024/1689:
+- **Rischio alto (Allegato III):** sistemi AI destinati a essere usati come dispositivi medici o per diagnosi — classificazione dipende dal positioning finale del prodotto
+- **Rischio limitato:** sistemi di supporto decisionale che non producono diagnosi autonome ma assistono il clinico (scenario più probabile per EMSy)
+
+La classificazione definitiva sarà determinata nel Piano di sviluppo in coordinamento con la valutazione CE Marking/MDR.
+
+---
+
+#### ⚖️ CE Marking / EU MDR (Reg. UE 2017/745) — DECISIONE STRATEGICA IN CORSO
+
+Da valutare in base al posizionamento del prodotto come Software as a Medical Device (SaMD). Se EMSy viene classificato come SaMD Classe I o IIa, il percorso di marcatura CE sarà avviato nel corso del Piano di sviluppo. La decisione è in corso tra i soci.
+
+---
+
+#### ✅ DNSH — Do No Significant Harm (obbligatorio per il bando)
+
+La piattaforma EMSy è software-first: nessuna produzione manifatturiera, nessuna emissione diretta. Il DNSH è automaticamente soddisfatto per le voci personale e licenze software.
+
+Per l'hardware acquistato (workstation sviluppo): acquisto da fornitori certificati con garanzia di conformità **RoHS** (Direttiva 2011/65/UE — no sostanze pericolose) e **WEEE** (Direttiva 2012/19/UE — raccolta separata rifiuti elettronici).
+
+---
+
+#### ⭐ ESPR — Ecodesign for Sustainable Products (Reg. UE 2024/1781) — PREMIALITÀ +5 PUNTI
+
+Applicabile per l'hardware acquistato nel Piano di sviluppo. L'acquisto di workstation con certificazione Ecodesign (efficienza energetica, durabilità, riparabilità) attiva la **premialità +5 punti** prevista dal bando. Da documentare con scheda tecnica del prodotto al momento dell'acquisto.
 
 ---
 
