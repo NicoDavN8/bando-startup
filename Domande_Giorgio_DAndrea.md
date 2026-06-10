@@ -15,7 +15,13 @@ Il bando prevede un assessment tecnologico obbligatorio entro anno 1. La Regione
 
 ---
 
-~~## 3. Scostamento voci di budget~~ ✅ RISPOSTA TROVATA NEL PDF (Art. 10, comma 7)
+## 3. Costi infrastruttura cloud / hosting — ammissibilità
+
+I costi ricorrenti di infrastruttura cloud (es. database hosted Neon, piattaforma di deployment Vercel, API LLM via OpenRouter) sono ammissibili come "licenze e diritti di utilizzo di software" nella voce Software/LLM? In caso affermativo, è necessario dimostrare che tali costi siano esclusivamente o prevalentemente imputabili al Piano di sviluppo, o è sufficiente che siano funzionali al progetto?
+
+---
+
+~~## 4. Scostamento voci di budget~~ ✅ RISPOSTA TROVATA NEL PDF (Art. 10, comma 7)
 - Fino al 20% per voce per fase: solo comunicazione, nessuna autorizzazione
 - Oltre il 20%: richiesta autorizzazione preventiva alla Struttura regionale
 
