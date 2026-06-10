@@ -285,7 +285,25 @@ Quali licenze LLM vi servono? (OpenAI GPT? Anthropic Claude? Meta Llama? Altro? 
 Quanto costeranno in 18 mesi?
 
 **Risposta:**  
-[INSERIRE RISPOSTA]
+La piattaforma EMSy utilizza un'architettura multi-modello che richiede accesso continuativo a diversi servizi LLM e infrastrutture cloud. I costi mensili stimati a regime (con margine di sicurezza del 10%) sono:
+
+| Servizio | Tipologia | €/mese stimato |
+|---|---|---|
+| NEON (PostgreSQL hosted) | Database cloud | €100 |
+| OpenRouter (routing multi-LLM) | API LLM — Anthropic, Meta, Mistral, ecc. | €33 |
+| Vercel (deployment + edge) | Hosting/CDN | €40 |
+| AWS Bedrock (LLM compute) | API LLM — scadenza crediti AWS Activate | €450 |
+| Claude Max aziendale (Anthropic) | Piano AI aziendale sviluppo | €100 |
+| Google & servizi minori | Misc. SaaS | €5 |
+| Margine +10% | Buffer crescita utenti/costi | €73 |
+| **Totale mensile stimato** | | **€800/mese** |
+
+**Totale 18 mesi: €14.400**
+
+Note:
+- Neon e Vercel coprono al 100% la piattaforma EMSy (unico prodotto aziendale) → 100% imputabile al progetto
+- I crediti AWS Activate e NVIDIA già ricevuti coprono parte dei costi LLM nella fase iniziale, riducendo l'esborso reale dei primi mesi
+- Il budget allocato è €21.240 — margine residuo di €6.840 (~32%) per picchi di utilizzo o nuovi servizi AI nel corso del Piano
 
 ---
 
