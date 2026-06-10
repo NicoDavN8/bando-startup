@@ -328,13 +328,13 @@ Selezionare tra:
 UTMB Italia — quale è il ruolo specifico nella collaborazione? (Che cosa fanno/ricevono?)
 
 **Risposta:**  
-[INSERIRE RISPOSTA]
+UTMB Italia è partner contrattuale di EMSy per la validazione clinica della piattaforma in contesti di medicina d'emergenza ad alta complessità. Il contesto operativo degli eventi UTMB (trail running in alta quota, condizioni estreme, ambienti remoti con connettività limitata) rappresenta uno scenario di test ideale per le funzionalità sviluppate nel Piano di sviluppo. La collaborazione prevede l'utilizzo della piattaforma EMSy Events e dell'AI Assistant da parte del personale sanitario degli eventi, fornendo dati reali e feedback operativo per il miglioramento continuo del sistema.
 
 **Domanda B:**  
 Tor/Vda Trailers — quale è il ruolo specifico nella collaborazione?
 
 **Risposta:**  
-[INSERIRE RISPOSTA]
+VDA Trailers è partner contrattuale di EMSy per il deployment operativo della piattaforma **EMSy Events** sulle due manifestazioni di trail running di riferimento valdostane: il **Gran Trail Courmayeur (GTC®)** (10–12 luglio 2026) e il **TORX® with Kailas** (11–20 settembre 2026). VDA Trailers dispone di un'imponente macchina di sicurezza e assistenza medica — équipe di medici, guide alpine, infermieri specializzati e personale del soccorso alpino — operante secondo un Piano Sanitario approvato dall'AUSL della Valle d'Aosta. La partnership porta la piattaforma EMSy in un contesto operativo reale, valdostano e di rilevanza internazionale, fungendo da banco di prova certificato per le funzionalità AI sviluppate nel Piano. Il radicamento territoriale in Valle d'Aosta è diretto e documentato dal contratto firmato.
 
 ---
 
