@@ -15,15 +15,12 @@ Il bando prevede un assessment tecnologico obbligatorio entro anno 1. La Regione
 
 ---
 
-## 3. Costi infrastruttura cloud / hosting — ammissibilità
+~~## 3. Costi infrastruttura cloud / hosting — ammissibilità~~ ✅ RISPOSTA TROVATA INTERNAMENTE
 
-**Nota:** Le licenze LLM (OpenRouter, Bedrock, Claude) sono già esplicitamente ammesse dall'Avviso come voce "Materiali e software — incluse licenze LLM".
-
-La domanda riguarda i **servizi SaaS di infrastruttura** strettamente funzionali al progetto ma non classificabili come "licenze LLM":
-- Database hosted (es. Neon) — €100/mese
-- Piattaforma di deployment (es. Vercel) — €40/mese
-
-Questi costi ricorrenti, direttamente necessari al funzionamento della piattaforma oggetto del Piano di sviluppo, sono ammissibili come "licenze e diritti di utilizzo di software" o rischiano di essere considerati "costi generali aziendali non allocabili al progetto"? È sufficiente dimostrare che sono funzionali al progetto?
+**Analisi:** Neon (database) e Vercel (hosting/deployment) coprono al 100% la piattaforma EMSy, che è l'unico prodotto dell'azienda e l'oggetto diretto del Piano di sviluppo. EMSy non ha altri prodotti o attività che utilizzino questi servizi. Pertanto:
+- 100% del costo è imputabile al progetto FESR (non sono costi generali "non allocabili")
+- Rientrano nella voce "Materiali e software" come SaaS strettamente funzionali al Piano
+- Totale: Neon €100/mese + Vercel €40/mese = €2.520 su 18 mesi → inclusi nel budget Software/LLM
 
 ---
 
