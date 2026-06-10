@@ -226,15 +226,57 @@ Che cosa esattamente state sviluppando nei 18 mesi? (Software? Piattaforma? Inte
 **Domanda:**  
 Quali sono gli obiettivi CONCRETI e MISURABILI che consegnerete? Il bando richiede "chiarezza".
 
-**Esempi:**
-- Prototipo funzionante con X feature
-- Integrazione con Y sistemi
-- Raggiungimento di Z benchmark di performance
-- Certificazione/compliance W
-- Altro?
+**Risposta:**
 
-**Risposta:**  
-[INSERIRE RISPOSTA]
+#### FASE 1 — Mesi 1–6 (budget max €30.000)
+
+**D1 — EMSy AI Data Expert: Cervello 2 (ML su dati strutturati) — MVP operativo**
+Sviluppo del modulo di machine learning predittivo su dati clinici strutturati, primo dominio: OHCA (Out-of-Hospital Cardiac Arrest).
+- Pipeline di ingestion dati clinici (CSV/Excel, validazione schema standard Utstein)
+- Modello predittivo XGBoost/Random Forest trainato su dataset pubblico ROC Epistry v3 (120.000 casi)
+- Microservizio Python FastAPI con endpoint `/predict`, `/explain` (SHAP values), `/stats`
+- **Metrica:** AUC ≥ 0.75 su validation set; 100% delle predizioni con SHAP explainability visibile al clinico
+
+**D2 — EMSy Events: deploy operativo su eventi VDA 2026**
+Go-live della piattaforma EMSy Events in contesto reale valdostano con partner contrattuale VDA Trailers:
+- **Gran Trail Courmayeur GTC®** (10–12 luglio 2026) — gestione medica in tempo reale
+- **TORX® with Kailas** (11–20 settembre 2026) — gestione medica in tempo reale
+- **Metrica:** sistema attivo durante entrambi gli eventi; raccolta dati sanitari su ≥ 500 atleti partecipanti; report post-evento
+
+**D3 — App mobile EMSy: rilascio pubblico iOS e Android**
+Pubblicazione versione 1.0 certificata della app EMSy su App Store (Apple) e Google Play Store.
+- **Metrica:** app live su entrambi gli store ufficiali con ≥ 400 utenti registrati
+
+---
+
+#### FASE 2 — Mesi 7–18 (budget max €120.000)
+
+**D4 — AI Data Expert: integrazione LangGraph (Cervelli 1+2+4 integrati)**
+Orchestrazione multi-intelligenza: il sistema decide autonomamente quale cervello attivare in base alla domanda clinica e sintetizza le risposte in un unico output contestualizzato.
+- Tool LangGraph operativi: `query_dataset`, `predict_ohca`, `explain_prediction`, `generate_chart`
+- Cervello 4 (LLM Reasoning): sintesi di output ML + letteratura RAG in risposta clinica azionabile
+- **Metrica:** sistema end-to-end testato su ≥ 100 casi clinici reali documentati; benchmark prestazioni vs score clinici esistenti (CAHP score, R-EDByUS)
+
+**D5 — AI Data Expert: validazione clinica su dati EMS italiani**
+External validation del modello OHCA su dati reali del 118, rappresentativi del sistema EMS medicalizzato europeo (gap specifico non coperto dalla letteratura esistente, che usa prevalentemente dati USA/Asia o dati post-ospedalieri).
+- Calibrazione del modello e guardrail: confidence intervals, warning su campioni piccoli, k-anonymity enforcement
+- **Metrica:** AUC validato su dataset europeo documentato; ≥ 1 abstract/report di validazione clinica prodotto
+
+**D6 — Assessment tecnologico esterno (obbligo bando Art. 12)**
+Valutazione indipendente da esperto con ≥ 5 anni di esperienza in assessment tecnologico o gestione startup innovative.
+- **Metrica:** report di assessment consegnato entro mese 12 dalla firma convenzione
+
+**D7 — GDPR compliance: certificazione sistema anonimizzazione PII**
+Validazione da consulente specializzato del microservizio `pii-anonymizer` già sviluppato internamente per la gestione di dati clinici sensibili.
+- **Metrica:** audit completato; data retention policy documentata e conforme GDPR; sistema certificato
+
+**D8 — AI Data Expert: espansione a secondo dominio clinico**
+Adattamento dell'architettura a 4 cervelli a un secondo registro clinico preospedaliero (STEMI o trauma).
+- **Metrica:** modello funzionante e validato su dataset del secondo dominio; ≥ 1 partner clinico validatore identificato
+
+---
+
+> **Nota bando:** I deliverables D1–D3 definiscono la Fase 1 (≤€30.000). I deliverables D4–D8 definiscono la Fase 2. Tutti i deliverables sono verificabili tramite demo funzionale, metriche quantitative e documentazione tecnica.
 
 ---
 
