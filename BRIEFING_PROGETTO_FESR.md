@@ -216,8 +216,73 @@ Qualsiasi criterio sotto il minimo = RESPINTI
 **Domanda:**  
 Che cosa esattamente state sviluppando nei 18 mesi? (Software? Piattaforma? Integrazione? Altro?)
 
-**Risposta:**  
-[INSERIRE RISPOSTA]
+**Risposta:**
+
+EMSy S.r.l. sviluppa una **piattaforma software AI per la medicina d'emergenza preospedaliera**, con tre componenti integrate che costituiscono l'oggetto del Piano di sviluppo.
+
+---
+
+#### Componente A — EMSy Platform: AI Assistant e strumenti clinici
+
+La piattaforma principale già in produzione (400+ utenti, 50+ paesi, 1.000+ consultazioni/giorno) integra:
+- **AI Assistant** con architettura RAG (Retrieval-Augmented Generation) su base di conoscenza medica specializzata: linee guida ERC/ILCOR/AHA, protocolli 118, farmaci EMA/FDA, letteratura PubMed. Il sistema è multi-modello (OpenRouter: Anthropic Claude, Google Gemini, Meta Llama) con orchestrazione LangChain/LangGraph.
+- **Calcolatori clinici** validati da medici per uso sul campo (MGAP, HEART Score, NEXUS, APGAR, dosaggi farmaci critici)
+- **EMSy Arena** — ambiente di simulazione e formazione per operatori del soccorso
+
+Nel Piano di sviluppo: espansione della base di conoscenza, miglioramento dell'orchestrazione multi-modello, integrazione con il modulo AI Data Expert (Componente B).
+
+**Stack:** Next.js/TypeScript, PostgreSQL/Prisma, Pinecone (vector DB), LangChain/LangGraph, Python FastAPI, app mobile iOS/Android (Capacitor)
+
+---
+
+#### Componente B — AI Data Expert: sistema multi-intelligenza a 4 cervelli (sviluppo principale)
+
+Il cuore del Piano di sviluppo. Un'architettura originale che integra quattro moduli AI specializzati orchestrati da LangGraph, progettata per colmare un gap scientifico documentato: **nessun modello predittivo ML prehospitaliero esiste oggi validato su sistema EMS medicalizzato europeo**.
+
+```
+Cervello 1 — LLM + RAG       Cervello 2 — ML classico
+(letteratura scientifica)    (dati tabulari, es. OHCA)
+              ↘                    ↙
+         Cervello 4 — LLM Reasoning
+         (sintesi contestualizzata per il clinico)
+              ↗                    ↖
+Cervello 3 — Deep Learning
+(segnali grezzi: ECG, EEG)
+```
+
+- **Cervello 1** (già attivo): RAG su Pinecone, risponde a domande cliniche con citazioni da letteratura peer-reviewed
+- **Cervello 2** (sviluppo Fase 1): XGBoost/Random Forest su dati tabulari Utstein; primo dominio OHCA (predizione esito neurologico CPC 1-2); dataset ROC Epistry v3 (120.000 casi); SHAP values per explainability clinica
+- **Cervello 3** (sviluppo Fase 2): Deep Learning su segnali grezzi ECG/EEG per predizione efficacia defibrillazione e outcome neurologico post-arresto; GPU compute via NVIDIA/AWS Activate
+- **Cervello 4** (integrazione Fase 2): LLM Reasoning che sintetizza output di tutti i cervelli in un'unica risposta clinica contestualizzata e azionabile
+
+Il sistema è **informativo ed educativo**: supporta il clinico con dati e letteratura, la decisione finale resta al professionista.
+
+**Esempio di interazione target:**
+> Medico 118: *"Paziente 68 anni, asistolia, non testimoniato, no bystander CPR, no-flow stimato 12 minuti. Che probabilità ha di buon outcome?"*
+> AI Data Expert: *"[ML] Probabilità CPC 1-2: 4.2% [IC 95%: 1.8-7.1%]. Fattori principali: asistolia (-18%), non testimoniato (-12%), no bystander CPR (-9%). [RAG] Le linee guida ERC/ILCOR 2025 indicano che per arresti non testimoniati con ritmo non-defibrillabile e no-flow >10 min, la cessazione delle manovre può essere considerata dopo 20 min di ALS senza ROSC."*
+
+---
+
+#### Componente C — EMSy Events: gestione medica di eventi sportivi in montagna
+
+Modulo specializzato per la gestione sanitaria in tempo reale di eventi di trail running e sport estremi in ambiente alpino — contesto operativo valdostano per eccellenza.
+
+Funzionalità: tracciamento atleti, gestione emergenze in tempo reale, coordinamento équipe medica distribuita su percorsi in alta quota, raccolta dati sanitari su campo.
+
+**Deploy operativo confermato nel Piano di sviluppo** con partner contrattuali:
+- **Gran Trail Courmayeur GTC®** (VDA Trailers, luglio 2026) — imponente macchina di sicurezza con medici, guide alpine, soccorso alpino, Piano Sanitario AUSL VdA
+- **TORX® with Kailas** (VDA Trailers, settembre 2026) — evento di rilevanza internazionale
+
+EMSy Events porta la piattaforma in un contesto operativo reale, valdostano, con dati clinici autentici che alimentano il miglioramento continuo del sistema AI.
+
+---
+
+#### Coerenza con la S3 Valle d'Aosta 2021-2027
+
+Il progetto si inserisce nelle tre aree strategiche regionali:
+- **Montagna intelligente** — AI applicata a contesti operativi alpini (eventi in alta quota, connettività limitata, ambienti remoti)
+- **Montagna di eccellenza** — innovazione nel settore della sicurezza e medicina d'emergenza, tradizionalmente forte in Valle d'Aosta
+- **Montagna sostenibile** — sistema software-first, infrastruttura cloud EU, nessun impatto ambientale diretto
 
 ---
 
