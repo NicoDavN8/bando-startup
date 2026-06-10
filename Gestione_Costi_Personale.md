@@ -39,6 +39,17 @@ Per giustificare la spesa mensile di 1.800,00 € l'azienda deve calcolare le or
 
 ## 3. Vincoli Generali sul Personale da Ricordare
 
+## 4. Spese del Commercialista
+
+Le spese del commercialista **non** vanno inserite come consulenza specialistica (che deve riguardare direttamente R&S/innovazione). Rientrano invece nella voce **Spese generali (forfettario 15%)**.
+
+- Calcolate automaticamente: 15% × costo personale dipendente/collaborazione
+- **Nessuna fattura o documento richiesto**
+- Nel caso EMSy: 15% × €32.400 = **€4.860** — coprono forfettariamente commercialista, utenze, affitto, amministrazione
+- È il budget ideale per coprire i costi amministrativi inclusa la rendicontazione FESR
+
+---
+
 ### Per i Collaboratori (Co.co.co.):
 * **Smart Working:** Ammesso nel **limite massimo del 20%** del costo totale del personale per ciascuna Fase. Il restante 80% delle ore deve essere svolto in presenza presso la sede operativa in Valle d'Aosta.
 * **Mansioni:** Devono essere attività strettamente legate al Piano di sviluppo (ricerca, sviluppo, innovazione). Sono tassativamente escluse le mansioni amministrative o commerciali.
