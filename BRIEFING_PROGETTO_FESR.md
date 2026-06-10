@@ -391,19 +391,17 @@ Nel Piano di sviluppo: consulenza specializzata per validazione formale del sist
 
 ---
 
-#### ⚖️ EU AI Act (Reg. UE 2024/1689) — IN VALUTAZIONE
+#### ✅ EU AI Act (Reg. UE 2024/1689) — RISCHIO LIMITATO (confermato)
 
-EMSy è un sistema AI in ambito sanitario. Secondo il Reg. UE 2024/1689:
-- **Rischio alto (Allegato III):** sistemi AI destinati a essere usati come dispositivi medici o per diagnosi — classificazione dipende dal positioning finale del prodotto
-- **Rischio limitato:** sistemi di supporto decisionale che non producono diagnosi autonome ma assistono il clinico (scenario più probabile per EMSy)
+EMSy è posizionato strategicamente come **strumento informativo ed educativo** per operatori sanitari, non come sistema diagnostico autonomo o dispositivo medico. Il sistema fornisce informazioni di supporto basate su letteratura scientifica e dati aggregati; la decisione clinica resta interamente in capo al professionista sanitario.
 
-La classificazione definitiva sarà determinata nel Piano di sviluppo in coordinamento con la valutazione CE Marking/MDR.
+Classificazione EU AI Act: **Rischio limitato** (Art. 50) — obbligo di trasparenza verso l'utente che il sistema è AI-assistito. Già rispettato nell'interfaccia EMSy.
 
 ---
 
-#### ⚖️ CE Marking / EU MDR (Reg. UE 2017/745) — DECISIONE STRATEGICA IN CORSO
+#### ❌ CE Marking / EU MDR (Reg. UE 2017/745) — NON APPLICABILE
 
-Da valutare in base al posizionamento del prodotto come Software as a Medical Device (SaMD). Se EMSy viene classificato come SaMD Classe I o IIa, il percorso di marcatura CE sarà avviato nel corso del Piano di sviluppo. La decisione è in corso tra i soci.
+EMSy non è classificato come Software as a Medical Device (SaMD). Il prodotto è un sistema informativo/educativo per professionisti sanitari, senza funzioni di diagnosi automatica, prescrizione o decisione clinica autonoma. La marcatura CE come dispositivo medico non è richiesta né perseguita nella fase attuale di sviluppo.
 
 ---
 
