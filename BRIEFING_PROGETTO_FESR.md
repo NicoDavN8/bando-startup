@@ -295,13 +295,14 @@ Quanto costeranno in 18 mesi?
 Chi farà l'**assessment tecnologico** (obbligatorio entro anno 1)? Costo preventivato?
 
 **Risposta:**  
-[INSERIRE RISPOSTA]
+L'assessment tecnologico sarà affidato a un esperto esterno indipendente con almeno 5 anni di esperienza in assessment e technology foresight o in gestione di startup/incubatori, come previsto dall'Art. 12 dell'Avviso. Il profilo ideale è un consulente specializzato in AI applicata al settore medicale o un professore universitario con esperienza nel settore. L'identificazione del soggetto avverrà entro l'avvio del Piano di sviluppo, con affidamento formale entro il mese 6 della Fase 1. **Costo preventivato: €4.500** (budget con margine del 20% per eventuale scostamento senza necessità di autorizzazione preventiva).
 
 **Domanda B:**  
 Quali altre consulenze vi servono? (Es: compliance normative, CE Marking, GDPR, altro?)
 
 **Risposta:**  
-[INSERIRE RISPOSTA]
+- **GDPR compliance:** Consulenza specializzata per validazione e certificazione del sistema di anonimizzazione PII già sviluppato internamente (microservizio `pii-anonymizer`), gestione dei dati clinici e data retention policy. Costo stimato incluso nel budget software/consulenze.
+- **CE Marking / EU MDR (da definire):** Da valutare in base al posizionamento del prodotto come Software as a Medical Device (SaMD) sotto Reg. UE 2017/745. Decisione strategica in corso — da inserire come voce se confermato necessario.
 
 ---
 
