@@ -56,26 +56,34 @@ Questi sono importanti per il criterio "Capacità economico-finanziaria del prop
 
 ## 📊 BUDGET BREAKDOWN €80.000
 
-### Voci Stimate (DA DETTAGLIARE)
+### Budget €80.000 — Stato al 10 giugno 2026
 
-| Voce | Importo | Note |
-|------|---------|------|
-| **Personale** | TBD | Co.Co.Co full-time 18 mesi + % soci (UCS) |
-| **Hardware** | TBD | PC + GPU (ammortamento 18 mesi) |
-| **Software/LLM** | TBD | Licenze LLM essenziali |
-| **Consulenze specializzate** | TBD | Validazione progetto + compliance |
-| **Assessment tecnologico** | €3.000–€5.000 | Obbligatorio entro anno 1 (da budget) |
-| **Spese generali (15% su personale)** | Auto-calcolato | Flat-rate sulla voce personale |
+| Voce | Importo | Stato |
+|------|---------|-------|
+| **Co.Co.Co sviluppatore AI** (€1.800/mese × 18 mesi) | €32.400 | ✅ Definito |
+| **Prestazioni soci** (UCS €33/ora, tetto 20% = €16k) | €16.000 | 🔴 Ore da confermare |
+| **Spese generali** (15% forfettario su €32.400 Co.Co.Co) | €4.860 | ✅ Auto-calcolato |
+| **Hardware** (quota ammortamento 18/60 su ~€3.500) | €1.000 | 🔴 Specifiche da confermare |
+| **Software / Licenze LLM** (€800/mese × 18 mesi) | €14.400 | ✅ Definito |
+| **Assessment tecnologico** (esperto esterno, entro mese 12) | €4.500 | ✅ Definito |
+| **Margine/buffer** | €6.840 | ✅ Riserva scostamento |
 | **TOTALE** | **€80.000** | |
 
-### Domande Aperte — Precisazione Costi
+### Prestazioni soci — ore da confermare (UCS €33/ora)
 
-- [ ] Co.Co.Co full-time: costo lordo/mese? (Es: €2k, €3k?)
-- [ ] % tempo soci dedicato al progetto? (UCS calculation)
-- [ ] GPU specifica? (RTX 4090, A100, ecc.) + costo
-- [ ] CPU/RAM/Storage specifiche?
-- [ ] Quali licenze LLM indispensabili? (OpenAI, Anthropic, altro?)
-- [ ] Chi farà assessment tecnologico? (Costo preventivato)
+| Socio | % tempo stimato | Ore/mese | Importo stimato |
+|-------|----------------|----------|----------------|
+| Simon | 55% | ~15 h/mese | ~€8.778 |
+| Damiano | 35% | ~9 h/mese | ~€5.610 |
+| Nicolò | 15% | ~3 h/mese | ~€1.584 |
+| **Totale** | | **~27 h/mese** | **~€15.972** |
+
+⚠️ *Le percentuali di tempo sono stime — devono essere confermate dai soci e validate dal commercialista per il calcolo UCS ufficiale.*
+
+### Domande ancora aperte (da raccogliere dal team)
+
+- [ ] **Q3** — Ore/settimana effettive di Simon, Damiano, Nicolò sul progetto (per calcolo UCS ufficiale)
+- [ ] **Q4** — Specifiche hardware: CPU, RAM, storage, eventuale GPU dedicata + preventivo fornitore
 
 ---
 
