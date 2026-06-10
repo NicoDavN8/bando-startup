@@ -15,8 +15,9 @@ Il bando prevede un assessment tecnologico obbligatorio entro anno 1. La Regione
 
 ---
 
-## 3. Scostamento voci di budget
-Se nel budget forecast preventivo inseriamo una cifra per una voce (es. €4.500 per assessment tecnologico) e la spesa effettiva risulta diversa (più alta o più bassa), come si gestisce in rendicontazione? Rientra nelle modifiche minori ammesse post-presentazione o è una modifica sostanziale non ammessa?
+~~## 3. Scostamento voci di budget~~ ✅ RISPOSTA TROVATA NEL PDF (Art. 10, comma 7)
+- Fino al 20% per voce per fase: solo comunicazione, nessuna autorizzazione
+- Oltre il 20%: richiesta autorizzazione preventiva alla Struttura regionale
 
 ---
 
