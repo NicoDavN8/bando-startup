@@ -69,16 +69,16 @@ Questi sono importanti per il criterio "Capacità economico-finanziaria del prop
 | **Margine/buffer** | €6.840 | ✅ Riserva scostamento |
 | **TOTALE** | **€80.000** | |
 
-### Prestazioni soci — ore da confermare (UCS €33/ora)
+### Prestazioni soci — al massimale (UCS €33/ora, tetto €16.000)
 
-| Socio | % tempo stimato | Ore/mese | Importo stimato |
-|-------|----------------|----------|----------------|
-| Simon | 55% | ~15 h/mese | ~€8.778 |
-| Damiano | 35% | ~9 h/mese | ~€5.610 |
-| Nicolò | 15% | ~3 h/mese | ~€1.584 |
-| **Totale** | | **~27 h/mese** | **~€15.972** |
+| Socio | % budget | Importo | Ore totali 18m | Ore/mese | Ore/settimana |
+|-------|----------|---------|---------------|----------|---------------|
+| Simon | 55% | €8.800 | 267 ore | ~15 h/mese | ~3,5 h/sett |
+| Damiano | 30% | €4.800 | 145 ore | ~8 h/mese | ~2 h/sett |
+| Nicolò | 15% | €2.400 | 73 ore | ~4 h/mese | ~1 h/sett |
+| **Totale** | **100%** | **€16.000** | **485 ore** | **~27 h/mese** | |
 
-⚠️ *Le percentuali di tempo sono stime — devono essere confermate dai soci e validate dal commercialista per il calcolo UCS ufficiale.*
+✅ *Decisione confermata: si va al massimale consentito dal bando (20% del costo progetto = €16.000). Da validare con il commercialista per calcolo UCS ufficiale e rapportini orari.*
 
 ### Domande ancora aperte (da raccogliere dal team)
 
