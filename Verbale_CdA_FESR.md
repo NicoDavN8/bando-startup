@@ -13,13 +13,16 @@ si è riunita l'Assemblea dei Soci della società **EMSy S.r.l.**, con sede lega
 
 ### Presenti
 
-| Nome | Qualità |
-|------|---------|
-| **Simon Grosjean** | Socio — Amministratore Unico |
-| **Damiano Presciani** | Socio |
-| **Nicolò Balzani** | Socio |
+| Nome | Qualità | Quota capitale |
+|------|---------|----------------|
+| **Simon Grosjean** | Socio — Amministratore Unico | 50% |
+| **Damiano Presciani** | Socio | 20% |
+| **Luca Paolo Martinelli** | Socio | 20% |
+| **Nicolò Balzani** | Socio | 10% |
 
-L'Assemblea è da ritenersi **validamente costituita** con la presenza di tutti i soci rappresentanti il 100% del capitale sociale.
+L'Assemblea è da ritenersi **validamente costituita** con la presenza di tutti i soci rappresentanti il **100% del capitale sociale**.
+
+Tutti i soci dichiarano di essere al corrente dell'ordine del giorno e rinunciano alla convocazione formale, ai sensi dell'art. 2366 c.c. — **assemblea totalitaria**.
 
 Assume la presidenza dell'Assemblea il Sig. **Simon Grosjean**, nella sua qualità di Amministratore Unico, il quale designa come Segretario il Sig. **Nicolò Balzani**.
 
@@ -79,6 +82,11 @@ Damiano Presciani
 
 _________________________
 
+**Socio**
+Luca Paolo Martinelli
+
+_________________________
+
 **Socio — Segretario**
 Nicolò Balzani
 
@@ -91,7 +99,8 @@ _________________________
 ---
 
 > ⚠️ **Note per il commercialista:**
-> - Verificare che la forma "Assemblea dei Soci" sia coerente con l'atto costitutivo di EMSy S.r.l.
-> - Completare data, ora di apertura e ora di chiusura dell'assemblea
-> - Verificare se è richiesta la marca da bollo €16 già sul verbale o solo sulla domanda SISPREG2014
+> - Verificare coerenza con l'atto costitutivo (forma assemblea, quorum deliberativo)
+> - Completare: data, ora apertura e chiusura assemblea
+> - Verificare se è richiesta marca da bollo €16 sul verbale o solo sulla domanda SISPREG2014
+> - Se Martinelli non può essere presente fisicamente: predisporre delega scritta da allegare al verbale
 > - Conservare copia originale firmata da allegare alla domanda su SISPREG2014
