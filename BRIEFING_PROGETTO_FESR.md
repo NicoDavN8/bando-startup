@@ -82,8 +82,8 @@ Questi sono importanti per il criterio "Capacità economico-finanziaria del prop
 
 ### Domande ancora aperte (da raccogliere dal team)
 
-- [ ] **Q3** — Ore/settimana effettive di Simon, Damiano, Nicolò sul progetto (per calcolo UCS ufficiale)
-- [ ] **Q4** — Specifiche hardware: CPU, RAM, storage, eventuale GPU dedicata + preventivo fornitore
+- [x] **Q3** — ✅ Definito (vedi tabella soci sopra)
+- [x] **Q4** — ✅ Definito (vedi sezione Hardware sotto)
 
 ---
 
