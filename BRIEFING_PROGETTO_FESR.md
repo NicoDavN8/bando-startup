@@ -66,7 +66,7 @@ Questi sono importanti per il criterio "Capacità economico-finanziaria del prop
 | **Hardware** (quota ammortamento 18/60 su ~€3.500) | €1.000 | 🔴 Specifiche da confermare |
 | **Software / Licenze LLM** (€800/mese × 18 mesi) | €14.400 | ✅ Definito |
 | **Assessment tecnologico** (esperto esterno, entro mese 12) | €4.500 | ✅ Definito |
-| **Margine di riserva** | €6.880 | ✅ Copre imprevisti senza autorizzazione |
+| **⚠️ DA ALLOCARE** | €6.880 | 🔴 Non può restare libero — decidere voce |
 | **TOTALE** | **€80.000** | |
 
 ### Prestazioni soci — al massimale (UCS €33/ora, tetto €16.000)
