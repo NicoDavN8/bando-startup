@@ -372,23 +372,31 @@ I 3 soci lavoreranno al progetto? Se sì, quante ore/settimana ciascuno dedica?
 
 ### 4️⃣ HARDWARE — GPU e specifiche tecniche
 
-**Domanda A:**  
-Quale GPU state pensando di acquistare? (Es: RTX 4090, A100, RTX 4080, altro?)
+**Risposta:**
 
-**Risposta:**  
-[INSERIRE RISPOSTA]
+**MacBook Pro 16" — Apple M4 Pro**
 
-**Domanda B:**  
-Costo totale PC + GPU? (Ammortamento su 18 mesi)
+| Specifica | Dettaglio |
+|-----------|-----------|
+| CPU | Apple M4 Pro — 14 core (10 performance + 4 efficiency) |
+| GPU | Apple M4 Pro — 20-core GPU integrata |
+| Neural Engine | 38 TOPS — inference locale LLM e modelli ML |
+| RAM | 24 GB memoria unificata (CPU+GPU condivisa) |
+| Storage | 512 GB SSD NVMe |
+| **Prezzo acquisto** | **~€3.200** |
 
-**Risposta:**  
-[INSERIRE RISPOSTA]
+**Scelta giustificata dal Piano di sviluppo:**
+- Neural Engine 38 TOPS: inference locale dei modelli ML (Cervello 2) e test LLM senza dipendenza da cloud
+- 24 GB RAM unificata: sufficiente per training XGBoost/Random Forest su dataset OHCA e sviluppo LangGraph
+- Training pesante (Cervello 3 — Deep Learning su ECG/EEG): su crediti cloud NVIDIA/AWS Activate già ricevuti → nessun costo hardware aggiuntivo per GPU enterprise
+- Forma laptop: necessario per presenza documentata in Valle d'Aosta (80% ore in sede VdA come richiesto dal bando)
 
-**Domanda C:**  
-Specifiche CPU/RAM/Storage? (Serve per giustificare l'investimento)
+**Certificazioni ambientali:** Energy Star + ESPR Ecodesign → ammissibile per **premialità +5 punti** del bando
 
-**Risposta:**  
-[INSERIRE RISPOSTA]
+**Calcolo ammortamento bando:**
+- Prezzo: €3.200
+- Quota ammessa (18 mesi su 60): €3.200 × 18/60 = **€960**
+- Voce hardware nel budget: €1.000 (scostamento -4% → nessuna autorizzazione richiesta)
 
 ---
 
