@@ -7,7 +7,7 @@
 
 | Voce | Importo | Descrizione |
 |------|---------|-------------|
-| **Co.Co.Co sviluppatore AI** | €32.400 | Collaboratore a progetto per sviluppo AI Data Expert (4 cervelli), microservizi ML e integrazione LangGraph. ~13 ore/settimana per 18 mesi a €1.800/mese lordi. |
+| **Co.Co.Co sviluppatore AI** | €32.400 | Collaboratore a progetto per sviluppo sistema AI multi-agente, microservizi ML e integrazione LangGraph. ~13 ore/settimana per 18 mesi a €1.800/mese lordi. |
 | **Prestazioni soci** | €16.000 | Ore lavoro dei 3 fondatori rendicontate al tasso fisso UCS €33/ora: Simon (sviluppo, 55%), Damiano (validazione clinica, 30%), Nicolò (progettazione, 15%). |
 | **Spese generali** | €4.860 | Quota forfettaria 15% sui costi del collaboratore. Copre commercialista, utenze, amministrazione e rendicontazione FESR. Nessuna fattura richiesta. |
 | **Hardware** | €1.500 | Quota ammortamento (18/60) su MacBook Pro 16" M4 Pro (sviluppo AI) e RealWear Navigator 520 (prototipazione interfaccia AR per operatori del soccorso). |

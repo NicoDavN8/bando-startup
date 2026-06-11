@@ -53,13 +53,13 @@ Piattaforma web e app mobile (iOS/Android) con:
 **Stato:** in produzione. 400+ utenti, 50+ paesi, 1.000+ consultazioni/giorno.
 
 ### Prodotto B — EMSy AI Data Expert (cuore del Piano di sviluppo FESR)
-Sistema multi-intelligenza a 4 cervelli orchestrati da LangGraph:
-- Cervello 1 (attivo): LLM + RAG su letteratura medica
-- Cervello 2 (sviluppo Fase 1): ML classico su dati tabulari OHCA (XGBoost, SHAP explainability)
-- Cervello 3 (sviluppo Fase 2): Deep Learning su segnali ECG/EEG
-- Cervello 4 (integrazione Fase 2): LLM Reasoning per sintesi clinica contestualizzata
+Sistema multi-intelligenza multi-agente a moduli specializzati orchestrati da LangGraph:
+- Modulo letteratura (attivo): LLM + RAG su letteratura medica
+- Modulo predittivo (sviluppo Fase 1): ML classico su dati tabulari OHCA (XGBoost, SHAP explainability)
+- Modulo segnali (sviluppo Fase 2): Deep Learning su segnali ECG/EEG
+- Modulo di sintesi (integrazione Fase 2): LLM Reasoning per sintesi clinica contestualizzata
 
-**Stato:** Cervello 1 attivo. Cervelli 2-4 da sviluppare nel Piano di sviluppo FESR.
+**Stato:** Modulo letteratura attivo. Moduli predittivo, segnali e sintesi da sviluppare nel Piano di sviluppo FESR.
 
 ### Prodotto C — EMSy Events (attivazione operativa nel Piano di sviluppo)
 App mobile + centrale operativa web per gestione sanitaria in tempo reale durante eventi sportivi in montagna.

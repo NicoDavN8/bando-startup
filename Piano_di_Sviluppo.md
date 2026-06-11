@@ -7,11 +7,14 @@
 
 ## 1. Sommario Esecutivo
 
-EMSy S.r.l. propone un Piano di sviluppo della durata di 18 mesi finalizzato a:
+**Titolo del progetto:** Sistema AI multi-agente per il supporto informativo all'emergenza preospedaliera in ambiente montano
 
-1. **Sviluppare e validare un sistema AI multi-intelligenza** (denominato *AI Data Expert*) per il supporto informativo alla medicina d'urgenza preospedaliera, basato su un'architettura originale a 4 moduli specializzati orchestrati da intelligenza artificiale
-2. **Prototipare interfacce AR hands-free** per operatori del soccorso, sfruttando tecnologia di realtà aumentata indossabile per consentire l'accesso alla piattaforma EMSy senza l'utilizzo delle mani durante le manovre di soccorso
-3. **Attivare operativamente la piattaforma** in contesti reali valdostani attraverso partnership con organizzatori di eventi sportivi di rilevanza internazionale in Valle d'Aosta
+**Finalità:** Sviluppare e validare sul campo, con operatori del soccorso valdostani, un sistema AI multi-agente a moduli specializzati integrati per il supporto informativo e formativo alla medicina d'urgenza preospedaliera in ambiente montano, includendo la prototipazione esplorativa di interfacce hands-free per l'operatività in scenario.
+
+Il Piano di sviluppo ha durata di 18 mesi e si articola in tre direttrici principali:
+1. Sviluppo e validazione del sistema AI multi-agente (*AI Data Expert*) con moduli specializzati per letteratura scientifica, predizione clinica su dati reali, analisi di segnali biomedici e sintesi contestualizzata
+2. Prototipazione esplorativa di interfaccia hands-free su dispositivo AR indossabile (RealWear Navigator 520) per l'operatività in scenario di soccorso
+3. Attivazione operativa della piattaforma in contesti reali valdostani con partner contrattualmente impegnati (GTC® e TORX® 2026)
 
 Il progetto si inserisce nelle aree prioritarie della Smart Specialization Strategy (S3) regionale 2021-2027 e produce ricadute occupazionali, tecnologiche e sanitarie dirette sul territorio valdostano.
 
@@ -49,13 +52,13 @@ EMSy è già in produzione con oltre 400 utenti registrati in più di 50 paesi e
 ## 3. Obiettivi del Piano
 
 ### Obiettivo generale
-Sviluppare e validare un sistema AI multi-intelligenza per il supporto informativo alla medicina d'urgenza preospedaliera e interfacce AR hands-free per operatori del soccorso, con attivazione operativa in contesti reali valdostani.
+Sviluppare e validare sul campo, con operatori del soccorso valdostani, un sistema AI multi-agente a moduli specializzati integrati per il supporto informativo e formativo alla medicina d'urgenza preospedaliera in ambiente montano, includendo la prototipazione esplorativa di interfacce hands-free per l'operatività in scenario.
 
 ### Obiettivi specifici
 
 | # | Obiettivo | Fase | Indicatore di risultato |
 |---|-----------|------|------------------------|
-| OS1 | Sviluppare il modulo ML predittivo OHCA (Cervello 2) | Fase 1 | AUC ≥ 0.75 su validation set ROC Epistry v3 |
+| OS1 | Sviluppare il modulo ML predittivo OHCA (Modulo predittivo) | Fase 1 | AUC ≥ 0.75 su validation set ROC Epistry v3 |
 | OS2 | Attivare EMSy Events su eventi VDA 2026 | Fase 1 | Sistema attivo su GTC® e TORX®, ≥500 atleti gestiti |
 | OS3 | Rilasciare app mobile su App Store e Google Play | Fase 1 | App live su entrambi gli store |
 | OS4 | Integrare i 4 moduli AI in architettura unificata LangGraph | Fase 2 | Sistema end-to-end testato su ≥100 casi clinici reali |
@@ -289,7 +292,7 @@ Il Piano di sviluppo prevede la prototipazione dell'interfaccia EMSy ottimizzata
 
 | # | Deliverable | Fase | Metrica di verifica |
 |---|-------------|------|-------------------|
-| D1 | Modulo ML predittivo OHCA (Cervello 2) — MVP | 1 | AUC ≥ 0.75; SHAP su 100% predizioni |
+| D1 | Modulo ML predittivo OHCA (Modulo predittivo) — MVP | 1 | AUC ≥ 0.75; SHAP su 100% predizioni |
 | D2 | EMSy Events attivo su GTC® e TORX® 2026 | 1 | Sistema live; dati su ≥500 atleti; report post-evento |
 | D3 | App mobile EMSy su App Store e Google Play | 1 | App pubblicata su entrambi gli store |
 | D4 | Sistema AI Data Expert integrato (4 moduli) | 2 | Test su ≥100 casi clinici reali documentati |

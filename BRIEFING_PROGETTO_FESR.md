@@ -60,7 +60,7 @@ Questi sono importanti per il criterio "Capacità economico-finanziaria del prop
 
 | Voce | Importo | Descrizione |
 |------|---------|-------------|
-| **Co.Co.Co sviluppatore AI** | €32.400 | Collaboratore a progetto per sviluppo AI Data Expert (4 cervelli), microservizi ML e integrazione LangGraph. ~13 ore/settimana per 18 mesi a €1.800/mese lordi. |
+| **Co.Co.Co sviluppatore AI** | €32.400 | Collaboratore a progetto per sviluppo sistema AI multi-agente, microservizi ML e integrazione LangGraph. ~13 ore/settimana per 18 mesi a €1.800/mese lordi. |
 | **Prestazioni soci** | €16.000 | Ore lavoro dei 3 fondatori rendicontate al tasso fisso UCS €33/ora: Simon (sviluppo, 55%), Damiano (validazione clinica, 30%), Nicolò (progettazione, 15%). |
 | **Spese generali** | €4.860 | Quota forfettaria 15% sui costi del collaboratore. Copre commercialista, utenze, amministrazione e rendicontazione FESR. Nessuna fattura richiesta. |
 | **Hardware** | €1.500 | Quota ammortamento (18/60) su MacBook Pro 16" M4 Pro (sviluppo AI) e RealWear Navigator 520 (prototipazione interfaccia AR per operatori del soccorso). |
@@ -243,25 +243,25 @@ Nel Piano di sviluppo: espansione della base di conoscenza, miglioramento dell'o
 
 ---
 
-#### Componente B — AI Data Expert: sistema multi-intelligenza a 4 cervelli (sviluppo principale)
+#### Componente B — AI Data Expert: sistema AI multi-agente a moduli specializzati (sviluppo principale)
 
 Il cuore del Piano di sviluppo. Un'architettura originale che integra quattro moduli AI specializzati orchestrati da LangGraph, progettata per colmare un gap scientifico documentato: **nessun modello predittivo ML prehospitaliero esiste oggi validato su sistema EMS medicalizzato europeo**.
 
 ```
-Cervello 1 — LLM + RAG       Cervello 2 — ML classico
+Modulo letteratura — RAG       Modulo predittivo — ML su dati clinici
 (letteratura scientifica)    (dati tabulari, es. OHCA)
               ↘                    ↙
-         Cervello 4 — LLM Reasoning
+         Modulo di sintesi — LLM Reasoning
          (sintesi contestualizzata per il clinico)
               ↗                    ↖
-Cervello 3 — Deep Learning
+Modulo segnali — Deep Learning
 (segnali grezzi: ECG, EEG)
 ```
 
-- **Cervello 1** (già attivo): RAG su Pinecone, risponde a domande cliniche con citazioni da letteratura peer-reviewed
-- **Cervello 2** (sviluppo Fase 1): XGBoost/Random Forest su dati tabulari Utstein; primo dominio OHCA (predizione esito neurologico CPC 1-2); dataset ROC Epistry v3 (120.000 casi); SHAP values per explainability clinica
-- **Cervello 3** (sviluppo Fase 2): Deep Learning su segnali grezzi ECG/EEG per predizione efficacia defibrillazione e outcome neurologico post-arresto; GPU compute via NVIDIA/AWS Activate
-- **Cervello 4** (integrazione Fase 2): LLM Reasoning che sintetizza output di tutti i cervelli in un'unica risposta clinica contestualizzata e azionabile
+- **Modulo letteratura** (già attivo): RAG su Pinecone, risponde a domande cliniche con citazioni da letteratura peer-reviewed
+- **Modulo predittivo** (sviluppo Fase 1): XGBoost/Random Forest su dati tabulari Utstein; primo dominio OHCA (predizione esito neurologico CPC 1-2); dataset ROC Epistry v3 (120.000 casi); SHAP values per explainability clinica
+- **Modulo segnali** (sviluppo Fase 2): Deep Learning su segnali grezzi ECG/EEG per predizione efficacia defibrillazione e outcome neurologico post-arresto; GPU compute via NVIDIA/AWS Activate
+- **Modulo di sintesi** (integrazione Fase 2): LLM Reasoning che sintetizza output di tutti i moduli in un'unica risposta clinica contestualizzata e azionabile
 
 Il sistema è **informativo ed educativo**: supporta il clinico con dati e letteratura, la decisione finale resta al professionista.
 
@@ -303,7 +303,7 @@ Quali sono gli obiettivi CONCRETI e MISURABILI che consegnerete? Il bando richie
 
 #### FASE 1 — Mesi 1–6 (budget max €30.000)
 
-**D1 — EMSy AI Data Expert: Cervello 2 (ML su dati strutturati) — MVP operativo**
+**D1 — EMSy AI Data Expert: Modulo predittivo (ML predittivo su dati clinici) — MVP operativo**
 Sviluppo del modulo di machine learning predittivo su dati clinici strutturati, primo dominio: OHCA (Out-of-Hospital Cardiac Arrest).
 - Pipeline di ingestion dati clinici (CSV/Excel, validazione schema standard Utstein)
 - Modello predittivo XGBoost/Random Forest trainato su dataset pubblico ROC Epistry v3 (120.000 casi)
@@ -325,9 +325,9 @@ Pubblicazione versione 1.0 certificata della app EMSy su App Store (Apple) e Goo
 #### FASE 2 — Mesi 7–18 (budget max €120.000)
 
 **D4 — AI Data Expert: integrazione LangGraph (Cervelli 1+2+4 integrati)**
-Orchestrazione multi-intelligenza: il sistema decide autonomamente quale cervello attivare in base alla domanda clinica e sintetizza le risposte in un unico output contestualizzato.
+Orchestrazione multi-intelligenza: il sistema decide autonomamente quale modulo attivare in base alla domanda clinica e sintetizza le risposte in un unico output contestualizzato.
 - Tool LangGraph operativi: `query_dataset`, `predict_ohca`, `explain_prediction`, `generate_chart`
-- Cervello 4 (LLM Reasoning): sintesi di output ML + letteratura RAG in risposta clinica azionabile
+- Modulo di sintesi (LLM Reasoning): sintesi di output ML + letteratura RAG in risposta clinica azionabile
 - **Metrica:** sistema end-to-end testato su ≥ 100 casi clinici reali documentati; benchmark prestazioni vs score clinici esistenti (CAHP score, R-EDByUS)
 
 **D5 — AI Data Expert: validazione clinica su dati EMS italiani**
@@ -344,7 +344,7 @@ Validazione da consulente specializzato del microservizio `pii-anonymizer` già 
 - **Metrica:** audit completato; data retention policy documentata e conforme GDPR; sistema certificato
 
 **D8 — AI Data Expert: espansione a secondo dominio clinico**
-Adattamento dell'architettura a 4 cervelli a un secondo registro clinico preospedaliero (STEMI o trauma).
+Adattamento dell'architettura multi-agente a un secondo registro clinico preospedaliero (STEMI o trauma).
 - **Metrica:** modello funzionante e validato su dataset del secondo dominio; ≥ 1 partner clinico validatore identificato
 
 ---
@@ -386,9 +386,9 @@ I 3 soci lavoreranno al progetto? Se sì, quante ore/settimana ciascuno dedica?
 | **Prezzo acquisto** | **~€3.200** |
 
 **Scelta giustificata dal Piano di sviluppo:**
-- Neural Engine 38 TOPS: inference locale dei modelli ML (Cervello 2) e test LLM senza dipendenza da cloud
+- Neural Engine 38 TOPS: inference locale dei modelli ML (Modulo predittivo) e test LLM senza dipendenza da cloud
 - 24 GB RAM unificata: sufficiente per training XGBoost/Random Forest su dataset OHCA e sviluppo LangGraph
-- Training pesante (Cervello 3 — Deep Learning su ECG/EEG): su crediti cloud NVIDIA/AWS Activate già ricevuti → nessun costo hardware aggiuntivo per GPU enterprise
+- Training pesante (Modulo segnali — Deep Learning su ECG/EEG): su crediti cloud NVIDIA/AWS Activate già ricevuti → nessun costo hardware aggiuntivo per GPU enterprise
 - Forma laptop: necessario per presenza documentata in Valle d'Aosta (80% ore in sede VdA come richiesto dal bando)
 
 **Certificazioni ambientali:** Energy Star + ESPR Ecodesign → ammissibile per **premialità +5 punti** del bando
