@@ -61,10 +61,10 @@ Sistema multi-intelligenza a 4 cervelli orchestrati da LangGraph:
 
 **Stato:** Cervello 1 attivo. Cervelli 2-4 da sviluppare nel Piano di sviluppo FESR.
 
-### Prodotto C — EMSy Events (deploy nel Piano di sviluppo)
+### Prodotto C — EMSy Events (attivazione operativa nel Piano di sviluppo)
 App mobile + centrale operativa web per gestione sanitaria in tempo reale durante eventi sportivi in montagna.
 
-**Stato:** in fase di deploy operativo con partner contrattuale VDA Trailers su GTC® (luglio 2026) e TORX® (settembre 2026).
+**Stato:** in fase di attivazione operativa con partner contrattuale VDA Trailers su GTC® (luglio 2026) e TORX® (settembre 2026).
 
 ---
 
@@ -84,7 +84,7 @@ La piattaforma è già presente in **50+ paesi** a meno di 2 anni dal lancio, co
 
 ### Partner contrattuali (contratti firmati)
 - **UTMB Italia** — partner per validazione clinica della piattaforma in contesti di medicina d'emergenza ad alta complessità (trail running in alta quota, condizioni estreme)
-- **VDA Trailers** — partner per deploy operativo di EMSy Events su Gran Trail Courmayeur GTC® e TORX® with Kailas 2026, entrambi eventi valdostani di rilevanza internazionale con Piano Sanitario approvato dall'AUSL Valle d'Aosta
+- **VDA Trailers** — partner per attivazione operativa di EMSy Events su Gran Trail Courmayeur GTC® e TORX® with Kailas 2026, entrambi eventi valdostani di rilevanza internazionale con Piano Sanitario approvato dall'AUSL Valle d'Aosta
 
 ### Collaborazioni operative in Valle d'Aosta
 - **Valpelline** — collaborazione con i volontari del soccorso locale, documentata da rapporto economico formale. Testimonianza diretta del radicamento operativo sul territorio valdostano.
@@ -125,7 +125,7 @@ La sostenibilità finanziaria a lungo termine è rafforzata dall'accordo di fina
 Il Piano di sviluppo prevede:
 - **Inserimento di 1 nuovo collaboratore** (Co.Co.Co) per 18 mesi — profilo junior, primo accesso al mercato del lavoro nel settore AI/tecnologia in Valle d'Aosta
 - **Valorizzazione delle competenze dei 3 soci fondatori** residenti e operativi sul territorio valdostano
-- **Deploy operativo della piattaforma** su eventi di rilevanza internazionale con ricaduta diretta sulla sicurezza sanitaria in Valle d'Aosta (GTC® e TORX®)
+- **Attivazione operativa della piattaforma** su eventi di rilevanza internazionale con ricaduta diretta sulla sicurezza sanitaria in Valle d'Aosta (GTC® e TORX®)
 - **Prototipazione tecnologia AR** (RealWear Navigator 520) per applicazioni future nel soccorso alpino valdostano
 
 Il progetto si inserisce coerentemente nelle tre aree della Smart Specialization Strategy (S3) regionale 2021-2027:

@@ -277,7 +277,7 @@ Modulo specializzato per la gestione sanitaria in tempo reale di eventi di trail
 
 Funzionalità: tracciamento atleti, gestione emergenze in tempo reale, coordinamento équipe medica distribuita su percorsi in alta quota, raccolta dati sanitari su campo.
 
-**Deploy operativo confermato nel Piano di sviluppo** con partner contrattuali:
+**Attivazione operativa confermato nel Piano di sviluppo** con partner contrattuali:
 - **Gran Trail Courmayeur GTC®** (VDA Trailers, luglio 2026) — imponente macchina di sicurezza con medici, guide alpine, soccorso alpino, Piano Sanitario AUSL VdA
 - **TORX® with Kailas** (VDA Trailers, settembre 2026) — evento di rilevanza internazionale
 
@@ -310,7 +310,7 @@ Sviluppo del modulo di machine learning predittivo su dati clinici strutturati, 
 - Microservizio Python FastAPI con endpoint `/predict`, `/explain` (SHAP values), `/stats`
 - **Metrica:** AUC ≥ 0.75 su validation set; 100% delle predizioni con SHAP explainability visibile al clinico
 
-**D2 — EMSy Events: deploy operativo su eventi VDA 2026**
+**D2 — EMSy Events: attivazione operativa su eventi VDA 2026**
 Go-live della piattaforma EMSy Events in contesto reale valdostano con partner contrattuale VDA Trailers:
 - **Gran Trail Courmayeur GTC®** (10–12 luglio 2026) — gestione medica in tempo reale
 - **TORX® with Kailas** (11–20 settembre 2026) — gestione medica in tempo reale
@@ -512,7 +512,7 @@ UTMB Italia è partner contrattuale di EMSy per la validazione clinica della pia
 Tor/Vda Trailers — quale è il ruolo specifico nella collaborazione?
 
 **Risposta:**  
-VDA Trailers è partner contrattuale di EMSy per il deployment operativo della piattaforma **EMSy Events** sulle due manifestazioni di trail running di riferimento valdostane: il **Gran Trail Courmayeur (GTC®)** (10–12 luglio 2026) e il **TORX® with Kailas** (11–20 settembre 2026). VDA Trailers dispone di un'imponente macchina di sicurezza e assistenza medica — équipe di medici, guide alpine, infermieri specializzati e personale del soccorso alpino — operante secondo un Piano Sanitario approvato dall'AUSL della Valle d'Aosta. La partnership porta la piattaforma EMSy in un contesto operativo reale, valdostano e di rilevanza internazionale, fungendo da banco di prova certificato per le funzionalità AI sviluppate nel Piano. Il radicamento territoriale in Valle d'Aosta è diretto e documentato dal contratto firmato.
+VDA Trailers è partner contrattuale di EMSy per il attivazione operativa della piattaforma **EMSy Events** sulle due manifestazioni di trail running di riferimento valdostane: il **Gran Trail Courmayeur (GTC®)** (10–12 luglio 2026) e il **TORX® with Kailas** (11–20 settembre 2026). VDA Trailers dispone di un'imponente macchina di sicurezza e assistenza medica — équipe di medici, guide alpine, infermieri specializzati e personale del soccorso alpino — operante secondo un Piano Sanitario approvato dall'AUSL della Valle d'Aosta. La partnership porta la piattaforma EMSy in un contesto operativo reale, valdostano e di rilevanza internazionale, fungendo da banco di prova certificato per le funzionalità AI sviluppate nel Piano. Il radicamento territoriale in Valle d'Aosta è diretto e documentato dal contratto firmato.
 
 ---
 
