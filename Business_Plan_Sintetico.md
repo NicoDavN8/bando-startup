@@ -57,7 +57,7 @@ Piattaforma web e app mobile (iOS/Android) con:
 **Stato:** in produzione. 400+ utenti, 50+ paesi, 1.000+ consultazioni/giorno.
 
 ### Prodotto B — EMSy AI Data Expert (cuore del Piano di sviluppo FESR)
-Sistema multi-intelligenza multi-agente a moduli specializzati orchestrati da LangGraph:
+Sistema AI multi-agente a moduli specializzati orchestrati da LangGraph:
 - Modulo letteratura (attivo): LLM + RAG su letteratura medica
 - Modulo predittivo (sviluppo Fase 1): ML classico su dati tabulari OHCA (XGBoost, SHAP explainability)
 - Modulo segnali (sviluppo Fase 2): Deep Learning su segnali ECG/EEG
