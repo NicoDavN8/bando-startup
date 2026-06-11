@@ -5,9 +5,9 @@
 
 **Il giorno** _____________ **alle ore** _____________
 
-**presso** [INDIRIZZO SEDE LEGALE], Aosta (AO)
+**presso** Via degli Anziani 14, 11013 Courmayeur (AO)
 
-si è riunita l'Assemblea dei Soci della società **EMSy S.r.l.**, con sede legale in [INDIRIZZO SEDE LEGALE], Aosta, iscritta al Registro delle Imprese della Camera di Commercio della Valle d'Aosta, P.IVA [DA COMPILARE], C.F. [DA COMPILARE].
+si è riunita l'Assemblea dei Soci della società **EMSy S.r.l.**, con sede legale in Via degli Anziani 14, 11013 Courmayeur (AO), iscritta al Registro delle Imprese della Camera di Commercio della Valle d'Aosta al n. REA AO-83938, P.IVA e C.F. 01307810075, PEC: emsysrl@legalmail.it.
 
 ---
 
@@ -15,20 +15,20 @@ si è riunita l'Assemblea dei Soci della società **EMSy S.r.l.**, con sede lega
 
 | Nome | Qualità |
 |------|---------|
-| **Simon Grosjean** | Socio |
+| **Simon Grosjean** | Socio — Amministratore Unico |
 | **Damiano Presciani** | Socio |
 | **Nicolò Balzani** | Socio |
 
 L'Assemblea è da ritenersi **validamente costituita** con la presenza di tutti i soci rappresentanti il 100% del capitale sociale.
 
-Assume la presidenza dell'Assemblea il Sig. **[NOME AMMINISTRATORE]**, il quale designa come Segretario il Sig. **[NOME SEGRETARIO]**.
+Assume la presidenza dell'Assemblea il Sig. **Simon Grosjean**, nella sua qualità di Amministratore Unico, il quale designa come Segretario il Sig. **Nicolò Balzani**.
 
 ---
 
 ### Ordine del giorno
 
 1. Autorizzazione alla presentazione della domanda di contributo nell'ambito del bando regionale **"Sostegno alle startup innovative"** (DGR 575/2025 — FESR Valle d'Aosta) sulla piattaforma SISPREG2014
-2. Conferimento delega al Sig. **Simon Grosjean** per la firma della domanda e di tutta la documentazione connessa
+2. Conferimento delega all'Amministratore Unico Sig. **Simon Grosjean** per la firma della domanda e di tutta la documentazione connessa
 3. Varie ed eventuali
 
 ---
@@ -44,14 +44,14 @@ Il Presidente informa l'Assemblea che la società intende presentare domanda di 
 per un costo totale di progetto pari a **€ 80.000,00** (ottantamila/00), con richiesta di contributo pubblico massimo pari a **€ 52.800,00** (cinquantaduemilaottocento/00), corrispondente al 70% delle spese ammissibili (60% base + 10% bonus iscrizione registro startup L.R. 14/2011), e cofinanziamento aziendale pari a **€ 27.200,00** (ventisettemiladuecento/00).
 
 La durata del progetto è di **18 mesi**, articolato in due fasi:
-- **Fase 1** (mesi 1–6): costo €27.210,00
-- **Fase 2** (mesi 7–18): costo €52.790,00
+- **Fase 1** (mesi 1–6): costo € 27.210,00
+- **Fase 2** (mesi 7–18): costo € 52.790,00
 
 L'Assemblea, dopo ampia discussione, **delibera all'unanimità**:
 
 1. Di **autorizzare** la presentazione della domanda di contributo nell'ambito del bando DGR 575/2025 sulla piattaforma regionale SISPREG2014, alle condizioni sopra descritte
 
-2. Di **conferire al Sig. Simon Grosjean** ogni potere e facoltà necessari per sottoscrivere la domanda di contributo, le dichiarazioni sostitutive, il Piano di sviluppo, il Budget forecast e qualsiasi altro documento richiesto dalla Struttura regionale competente ai fini della presentazione, istruttoria e gestione del progetto FESR
+2. Di **conferire all'Amministratore Unico Sig. Simon Grosjean** ogni potere e facoltà necessari per sottoscrivere la domanda di contributo, le dichiarazioni sostitutive, il Piano di sviluppo, il Budget forecast e qualsiasi altro documento richiesto dalla Struttura regionale competente ai fini della presentazione, istruttoria e gestione del progetto FESR
 
 3. Di **impegnarsi** all'apertura di un conto corrente bancario dedicato esclusivamente alle operazioni contabili del progetto, qualora il contributo venga concesso, e all'adozione di un sistema di contabilità separata con Codice Unico Progetto (CUP) su ogni documento contabile
 
@@ -69,7 +69,7 @@ Il presente verbale, letto e approvato, viene sottoscritto da tutti i presenti.
 
 ### Firme
 
-**Il Presidente**
+**Il Presidente — Amministratore Unico**
 Simon Grosjean
 
 _________________________
@@ -79,24 +79,19 @@ Damiano Presciani
 
 _________________________
 
-**Socio**
+**Socio — Segretario**
 Nicolò Balzani
 
 _________________________
 
-**Il Segretario**
-[NOME SEGRETARIO]
-
-_________________________
-
 ---
 
-*Aosta, _____________ 2026*
+*Courmayeur, _____________ 2026*
 
 ---
 
 > ⚠️ **Note per il commercialista:**
-> - Verificare se la forma corretta per EMSy S.r.l. è "Assemblea dei Soci" o "Consiglio di Amministrazione" in base all'atto costitutivo
-> - Completare: indirizzo sede legale, P.IVA, C.F., nome Amministratore/Segretario, data e ora
-> - Verificare se è richiesta l'apposizione della marca da bollo €16 già sul verbale o solo sulla domanda SISPREG2014
-> - Conservare copia originale firmata da allegare alla domanda
+> - Verificare che la forma "Assemblea dei Soci" sia coerente con l'atto costitutivo di EMSy S.r.l.
+> - Completare data, ora di apertura e ora di chiusura dell'assemblea
+> - Verificare se è richiesta la marca da bollo €16 già sul verbale o solo sulla domanda SISPREG2014
+> - Conservare copia originale firmata da allegare alla domanda su SISPREG2014
