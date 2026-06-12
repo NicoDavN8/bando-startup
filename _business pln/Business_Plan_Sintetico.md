@@ -36,12 +36,16 @@ L'operatore sanitario preospedaliero (medico 118, infermiere, soccorritore) lavo
 Sul fronte della ricerca clinica, esiste un **gap specifico**: non sono disponibili modelli predittivi validati sul contesto preospedaliero medicalizzato europeo per scenari ad alta complessità come l'arresto cardiaco extraospedaliero (OHCA). I modelli predittivi esistenti non sono sviluppati né calibrati per il sistema EMS italiano.
 
 ### La soluzione
-EMSy offre una piattaforma AI informativa ed educativa progettata specificamente per il contesto preospedaliero:
+EMSy è una **piattaforma SaaS acquistabile online**, progettata specificamente per i professionisti dell'emergenza preospedaliera. Offre un ambiente integrato di supporto alla formazione e all'aggiornamento continuo, accessibile da web e app mobile (iOS/Android) in qualsiasi momento — anche sul campo.
 
-- **Interfaccia ottimizzata per il campo**: funziona con i guanti, sotto la pioggia, con bassa connettività, senza formazione tecnica avanzata
-- **AI Assistant basato su letteratura scientifica aggiornata**: risponde in linguaggio naturale a domande cliniche, citando linee guida ERC/ILCOR, protocolli e farmaci
-- **Sistema predittivo AI Data Expert** (sviluppo in corso): modelli ML su dati clinici reali per supportare decisioni in scenari ad alta complessità come l'OHCA
-- **EMSy Events**: gestione sanitaria in tempo reale di eventi sportivi in ambiente alpino
+Il cuore della piattaforma è una **RAG proprietaria** (sistema di recupero e generazione aumentata) alimentata da letteratura scientifica medica aggiornata, linee guida ERC/ILCOR e protocolli operativi. La knowledge base si arricchisce continuamente con nuovi dati scientifici validati dal team medico interno.
+
+Funzionalità principali:
+- **Chat AI clinica**: il professionista pone domande in linguaggio naturale e riceve risposte contestualizzate con riferimenti bibliografici precisi
+- **AI Coach**: percorsi formativi con quiz adattativi per il mantenimento delle competenze
+- **Calcolatori clinici**: score e algoritmi validati (OHCA, trauma, cardiovascolare) utilizzabili direttamente sul campo
+- **EMSy Events**: modulo per la gestione sanitaria in tempo reale di eventi sportivi in ambiente alpino
+- **AI Data Expert** (sviluppo in corso): sistema multi-agente per analisi predittiva su dati clinici complessi
 
 ---
 
