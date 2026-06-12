@@ -114,18 +114,13 @@ Analisi di segnali biomedici grezzi: ECG (Elettrocardiogramma) waveform per pred
 **Modulo 4 — LLM Reasoning** *(integrazione Fase 2)*
 Modulo di sintesi: riceve gli output dei Moduli 1-3 e genera una risposta clinica unica, contestualizzata e azionabile. Parzialmente presente nell'architettura attuale, da completare e integrare.
 
-### 4.2 Interfaccia AR hands-free — RealWear Navigator 520
+### 4.2 Interfaccia AR — Prototipazione su XREAL 1S
 
-Il RealWear Navigator 520 è un dispositivo di realtà aumentata indossabile progettato per operatori in ambienti difficili: è certificato IP66 (impermeabile, resistente a polvere), funziona a comandi vocali in ambienti rumorosi, e monta un display davanti all'occhio che non ostruisce la visuale.
+Il piano di sviluppo FESR include la fase di prototipazione dell'interfaccia AR di EMSy: progettazione dell'architettura visiva, test di leggibilità in overlay e validazione dell'esperienza utente clinica.
 
-Per il contesto del soccorso preospedaliero:
-- L'operatore indossa il dispositivo durante l'intervento
-- Tramite comandi vocali accede alle funzionalità di EMSy
-- Il display mostra dosaggi, score clinici e risposte dell'AI senza interrompere le manovre
+Lo strumento utilizzato per questa fase è l'**XREAL 1S** — display binoculare Micro-OLED (1920×1200 per occhio, 52° campo visivo, 700 nit) connesso alla workstation di sviluppo. Il dispositivo permette a Simon di vedere direttamente in AR come appaiono le informazioni cliniche sovrapposte alla visuale reale, iterare rapidamente sul layout, testare la leggibilità dei componenti (score OHCA, dosaggi farmacologici, risposte AI) e validare la UX con gli altri membri del team.
 
-Il Piano di sviluppo prevede la prototipazione dell'interfaccia EMSy ottimizzata per RealWear: schermo ridotto, navigazione vocale, UX semplificata per condizioni di stress, integrazione con l'AI Assistant tramite SDK RealWear.
-
-> **⚠️ NOTA INTERNA:** Verificare con Simon se il dispositivo scelto è confermato come RealWear Navigator 520 o se propone un modello alternativo/equivalente. Il dispositivo deve avere: certificazione IP66, controllo vocale in ambienti rumorosi, display heads-up non ostruttivo. Se cambia modello, aggiornare nome e prezzo nel budget (€1.800 attualmente previsto).
+Questa fase produce i design pattern, le specifiche di interazione e i criteri di UX che guideranno il futuro deployment dell'interfaccia su dispositivi da campo. La separazione tra fase di prototipazione (sviluppo iterativo su display consumer di alta qualità) e fase di deployment (hardware certificato per uso operativo) è la prassi standard nello sviluppo di interfacce per ambienti critici.
 
 ### 4.3 Stack tecnologico
 
