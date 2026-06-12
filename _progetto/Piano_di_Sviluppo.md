@@ -213,9 +213,9 @@ Il Piano di sviluppo prevede la prototipazione dell'interfaccia EMSy ottimizzata
 | Co.Co.Co (€1.800 × 6 mesi) | €10.800 |
 | Prestazioni soci (33% del totale) | €5.320 |
 | Spese generali (15% × €10.800) | €1.620 |
-| Hardware (acquisto MBP + RealWear — quota 18/60) | €1.500 |
+| Hardware (Server GPU €5.000 + RealWear €1.800 — quota ammortamento 18/60) | €2.040 |
 | Software / Licenze LLM (€800 × 6 mesi) | €4.800 |
-| Margine di riserva Fase 1 | €3.170 |
+| Margine di riserva Fase 1 | €2.630 |
 | **Totale Fase 1** | **€27.210** |
 
 ---
