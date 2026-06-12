@@ -242,12 +242,12 @@ Questa fase produce i design pattern, le specifiche di interazione e i criteri d
 - Coinvolgimento Dott. Luca Carenzo per validazione clinica indipendente
 - *Responsabile:* Damiano (Medical Director) + Dott. Carenzo (validatore esterno) + Collaboratore Co.Co.Co
 
-**WP2.3 — Prototipo interfaccia AR hands-free (mesi 9-14)**
-- Setup SDK RealWear Navigator 520 e ambiente di sviluppo
-- Adattamento interfaccia EMSy per display AR (schermo ridotto, alta leggibilità)
-- Implementazione navigazione a comandi vocali
-- Test operativi in scenario simulato di soccorso
-- Documentazione tecnica del prototipo
+**WP2.3 — Prototipo interfaccia AR su XREAL 1S (mesi 9-14)**
+- Setup XREAL 1S e ambiente di sviluppo AR (XREAL SDK)
+- Progettazione architettura visiva: layout overlay clinico, gerarchia informativa, leggibilità in AR
+- Adattamento interfaccia EMSy per display binoculare (componenti ridotti, alta leggibilità, contrasto ottimizzato)
+- Test di validazione UX con Simon e Damiano su scenari simulati
+- Documentazione tecnica del prototipo e specifiche per futuro deployment su dispositivi da campo
 - *Responsabile:* Simon + Nicolò (coordinamento)
 
 **WP2.4 — Modulo 3: Deep Learning su segnali ECG/EEG (mesi 10-16)**
