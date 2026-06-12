@@ -16,8 +16,6 @@ Il Piano di sviluppo ha durata di 18 mesi e si articola in tre direttrici princi
 2. Prototipazione esplorativa di interfaccia AR su display binoculare indossabile (XREAL 1S — display Micro-OLED binoculare per sviluppo e validazione dell'architettura visiva dell'interfaccia clinica)
 3. Attivazione operativa della piattaforma in contesti reali valdostani con partner contrattualmente impegnati (GTC® e TORX® 2027)
 
-> **⚠️ NOTA INTERNA:** Ipotesi di avvio progetto: dicembre 2026 (best case dopo approvazione bando). GTC® luglio 2027 = mese 8 del progetto (Fase 2). TORX® settembre 2027 = mese 10 (Fase 2). Verificare con VDA Trailers la disponibilità a mantenere il partenariato per le edizioni 2027.
-
 Il progetto si inserisce nelle aree prioritarie della Smart Specialization Strategy (S3) regionale 2021-2027 e produce ricadute occupazionali, tecnologiche e sanitarie dirette sul territorio valdostano.
 
 ---
