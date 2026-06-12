@@ -105,7 +105,7 @@ Il cuore del Piano di sviluppo è l'*AI Data Expert*, un sistema che integra qua
 ```
 
 **Modulo 1 — LLM + RAG** *(già attivo, da potenziare)*
-Ricerca semantica su base di conoscenza medica specializzata: linee guida ERC/ILCOR/AHA, protocolli 118, farmaci EMA/FDA, letteratura PubMed. Vector database Pinecone, routing multi-modello via OpenRouter (Anthropic Claude, Google Gemini, Meta Llama).
+LLM (Large Language Model — modello AI che comprende e genera testo in linguaggio naturale) + RAG (Retrieval-Augmented Generation — sistema che recupera informazioni da una base documentale prima di rispondere, garantendo risposte basate su fonti verificate). Ricerca semantica su base di conoscenza medica specializzata: linee guida ERC/ILCOR/AHA, protocolli 118, farmaci EMA/FDA, letteratura PubMed. Vector database Pinecone, routing multi-modello via OpenRouter (Anthropic Claude, Google Gemini, Meta Llama).
 
 **Modulo 2 — ML su dati strutturati** *(sviluppo Fase 1 — priorità principale)*
 Modello predittivo XGBoost/Random Forest addestrato su dati tabulari OHCA secondo standard Utstein. Dataset primario: ROC Epistry v3 (120.000 casi, BioLINCC). Servito da microservizio Python FastAPI. SHAP values obbligatori per ogni predizione (explainability clinica).
