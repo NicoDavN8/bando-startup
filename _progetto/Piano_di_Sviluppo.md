@@ -229,7 +229,7 @@ Il Piano di sviluppo prevede la prototipazione dell'interfaccia EMSy ottimizzata
 - Implementazione navigazione a comandi vocali
 - Test operativi in scenario simulato di soccorso
 - Documentazione tecnica del prototipo
-- *Responsabile:* Simon + Nicolò (UX AR)
+- *Responsabile:* Simon + Nicolò (coordinamento)
 
 **WP2.4 — Modulo 3: Deep Learning su segnali ECG/EEG (mesi 10-16)**
 - Accesso dataset I-CARE/PhysioNet (EEG post-ROSC, 607-1.020 casi)
