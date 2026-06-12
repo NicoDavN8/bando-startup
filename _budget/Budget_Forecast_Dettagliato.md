@@ -143,7 +143,7 @@ Il margine copre variazioni di costo entro il **20% per voce per fase** senza ne
 
 | Voce | Fase | Importo stimato |
 |------|------|----------------|
-| Buffer per variazioni costi hardware/software Fase 1 | Fase 1 | €2.895 |
+| Buffer per variazioni costi hardware/software Fase 1 | Fase 1 | €1.395 |
 | Spese legali per certificazioni europee applicabili | Fase 2 | ~€1.000 |
 | Consulenza Dott. Luca Carenzo (validazione clinica indipendente) | Fase 2 | ~€1.500 |
 | Spese di ricerca medica — test prodotto con operatori durante eventi | Fase 2 | ~€670 |
