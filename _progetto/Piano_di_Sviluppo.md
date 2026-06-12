@@ -319,7 +319,7 @@ Il Piano di sviluppo prevede la prototipazione dell'interfaccia EMSy ottimizzata
 | # | Deliverable | Fase | Metrica di verifica |
 |---|-------------|------|-------------------|
 | D1 | Modulo ML predittivo OHCA (Modulo predittivo) — MVP | 1 | AUC ≥ 0.75; SHAP su 100% predizioni |
-| D2 | EMSy Events attivo su GTC® e TORX® 2026 | 1 | Sistema live; dati su ≥500 atleti; report post-evento |
+| D2 | EMSy Events attivo su GTC® e TORX® 2027 | 2 | Sistema live; dati su ≥500 atleti; report post-evento |
 | D3 | App mobile EMSy su App Store e Google Play | 1 | App pubblicata su entrambi gli store |
 | D4 | Sistema AI Data Expert integrato (4 moduli) | 2 | Test su ≥100 casi clinici reali documentati |
 | D5 | Validazione clinica OHCA su dati 118 italiani | 2 | AUC su dataset europeo; report di validazione |
