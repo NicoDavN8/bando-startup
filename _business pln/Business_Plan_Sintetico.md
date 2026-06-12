@@ -58,8 +58,6 @@ Piattaforma Web App (PWA — Progressive Web App, accessibile da browser mobile 
 - Calcolatori clinici e score validati (OHCA — Out-of-Hospital Cardiac Arrest, arresto cardiaco extraospedaliero; trauma, cardiovascolare)
 - EMSy Arena — simulazioni gamificate per formazione medica
 
-> **⚠️ NOTA INTERNA:** Dati da verificare con Simon prima della presentazione: utenti registrati, paesi, consultazioni/giorno.
-
 **Stato:** in produzione. 400+ utenti, 50+ paesi, 1.000+ consultazioni/giorno.
 
 ### Prodotto B — EMSy AI Data Expert (cuore del Piano di sviluppo FESR)
