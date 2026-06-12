@@ -127,6 +127,8 @@ Per il contesto del soccorso preospedaliero:
 
 Il Piano di sviluppo prevede la prototipazione dell'interfaccia EMSy ottimizzata per RealWear: schermo ridotto, navigazione vocale, UX semplificata per condizioni di stress, integrazione con l'AI Assistant tramite SDK RealWear.
 
+> **⚠️ NOTA INTERNA:** Verificare con Simon se il dispositivo scelto è confermato come RealWear Navigator 520 o se propone un modello alternativo/equivalente. Il dispositivo deve avere: certificazione IP66, controllo vocale in ambienti rumorosi, display heads-up non ostruttivo. Se cambia modello, aggiornare nome e prezzo nel budget (€1.800 attualmente previsto).
+
 ### 4.3 Stack tecnologico
 
 | Layer | Tecnologia | Stato |
