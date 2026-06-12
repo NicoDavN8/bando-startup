@@ -65,6 +65,10 @@ Sviluppare e validare sul campo, con operatori del soccorso valdostani, un siste
 | OS2 | Attivare EMSy Events su eventi VDA 2027 | Fase 2 | Sistema attivo su GTC® e TORX® 2027, ≥500 atleti gestiti |
 | OS3 | Rilasciare app mobile su App Store e Google Play | Fase 1 | App live su entrambi gli store |
 | OS4 | Integrare i 4 moduli AI in architettura unificata LangGraph | Fase 2 | Sistema end-to-end testato su ≥100 casi clinici reali |
+
+> **⚠️ NOTA INTERNA — OS2:** Verificare con VDA Trailers disponibilità a confermare partenariato per edizioni GTC® e TORX® 2027. Soglia ≥500 atleti: verificare con Damiano la fattibilità in base ai piani sanitari degli eventi 2027.
+> **⚠️ NOTA INTERNA — OS3:** Verificare con Simon lo stato attuale della submission App Store e se l'app è già presente sugli store o da pubblicare ex novo.
+> **⚠️ NOTA INTERNA — OS4:** Soglia ≥100 casi clinici reali: verificare con Damiano la disponibilità di dataset sufficienti per i test di validazione entro Fase 2.
 | OS5 | Validare il modello OHCA su dati 118 italiani | Fase 2 | AUC validato su dataset europeo, report clinico prodotto |
 | OS6 | Prototipare interfaccia AR hands-free su RealWear | Fase 2 | Prototipo funzionante con navigazione vocale su RealWear Navigator 520 |
 | OS7 | Completare assessment tecnologico esterno | Fase 2 | Report di assessment consegnato entro mese 12 |
