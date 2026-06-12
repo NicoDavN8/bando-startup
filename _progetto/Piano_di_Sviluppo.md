@@ -201,7 +201,7 @@ Il Piano di sviluppo prevede la prototipazione dell'interfaccia EMSy ottimizzata
 |-----------|------|------------|
 | M1.1 | Mese 2 | Pipeline ingestion dati Utstein operativa |
 | M1.2 | Mese 3 | Microservizio ML endpoint `/predict` attivo |
-| M1.3 | Mese 3 | App mobile live su App Store e Google Play |
+| M1.3 | Mese 3 | Web App live e accessibile da browser mobile iOS e Android |
 | M1.4 | Mese 4 | Modello OHCA trainato: AUC ≥ 0.75 su validation set |
 | M1.5 | Mese 5 | Modulo EMSy Events completato e testato internamente |
 | M1.6 | Mese 6 | Protocolli operativi Events validati con Damiano — sistema pronto per attivazione in gara |
