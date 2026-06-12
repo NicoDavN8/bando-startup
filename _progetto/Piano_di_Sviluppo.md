@@ -111,7 +111,7 @@ LLM (Large Language Model — modello AI che comprende e genera testo in linguag
 Modello predittivo XGBoost/Random Forest (algoritmi di Machine Learning ad alto rendimento su dati strutturati) addestrato su dati tabulari OHCA secondo standard Utstein (standard internazionale per la raccolta uniforme di dati sull'arresto cardiaco). Dataset primario: ROC Epistry v3 (120.000 casi, BioLINCC). Servito da microservizio Python FastAPI. SHAP values (SHapley Additive exPlanations — metodo per spiegare il contributo di ogni variabile alla singola predizione) obbligatori per ogni predizione.
 
 **Modulo 3 — Deep Learning su segnali** *(sviluppo Fase 2)*
-Analisi di segnali biomedici grezzi: ECG waveform per predizione efficacia defibrillazione, EEG post-ROSC per predizione esito neurologico. Framework PyTorch, compute su crediti NVIDIA/AWS già ricevuti.
+Analisi di segnali biomedici grezzi: ECG (Elettrocardiogramma) waveform per predizione efficacia defibrillazione, EEG (Elettroencefalogramma) post-ROSC (Return Of Spontaneous Circulation — ripresa del battito cardiaco spontaneo) per predizione esito neurologico. Framework PyTorch, compute su crediti NVIDIA/AWS già ricevuti.
 
 **Modulo 4 — LLM Reasoning** *(integrazione Fase 2)*
 Modulo di sintesi: riceve gli output dei Moduli 1-3 e genera una risposta clinica unica, contestualizzata e azionabile. Parzialmente presente nell'architettura attuale, da completare e integrare.
