@@ -35,8 +35,8 @@
 | Dispositivo | Prezzo acquisto | Quota ammessa (18/60) | Utilizzo |
 |-------------|----------------|----------------------|---------|
 | Server GPU dedicato per LLM on-premise h24 | €5.000 | €1.500 | Inferenza LLM locale, training modelli ML, riduzione dipendenza da API cloud |
-| Display AR binoculare XREAL 1S (Micro-OLED, prototipazione UI/UX interfaccia clinica) | €459 | €138 | Progettazione e validazione architettura visiva overlay clinico in AR |
-| **Totale** | **€5.459** | **€1.638** | |
+| 2× Display AR binoculare XREAL 1S (Micro-OLED, prototipazione UI/UX interfaccia clinica) | €918 | €275 | Progettazione e validazione architettura visiva overlay clinico in AR |
+| **Totale** | **€5.918** | **€1.775** | |
 
 ---
 
