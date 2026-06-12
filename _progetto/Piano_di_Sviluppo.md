@@ -32,8 +32,6 @@ In questo contesto, l'accesso alla letteratura medica aggiornata, ai protocolli 
 
 Sul fronte della ricerca, esiste un **gap specifico**: non sono disponibili modelli predittivi ML (Machine Learning — sistemi che apprendono dai dati per fare previsioni) validati sul contesto preospedaliero medicalizzato europeo per scenari ad alta complessità come l'arresto cardiaco extraospedaliero (OHCA — Out-of-Hospital Cardiac Arrest, arresto cardiaco fuori dall'ospedale). I modelli predittivi esistenti non sono sviluppati né calibrati per il sistema EMS italiano.
 
-> **⚠️ NOTA INTERNA:** Valutare se aggiungere un glossario dei termini tecnici in appendice o spiegare i termini inline come fatto qui. Decidere con Simon/Damiano l'approccio uniforme per tutto il documento.
-
 EMSy colma questo gap sviluppando un modello ML preospedaliero-only validato su dati del sistema 118 italiano, con piena aderenza allo standard Utstein.
 
 ### 2.3 Il gap tecnologico nelle interfacce
