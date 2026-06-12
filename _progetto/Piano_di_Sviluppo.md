@@ -62,7 +62,7 @@ Sviluppare e validare sul campo, con operatori del soccorso valdostani, un siste
 | # | Obiettivo | Fase | Indicatore di risultato |
 |---|-----------|------|------------------------|
 | OS1 | Sviluppare il modulo ML predittivo OHCA (Modulo predittivo) | Fase 1 | AUC ≥ 0.75 su validation set ROC Epistry v3 |
-| OS2 | Attivare EMSy Events su eventi VDA 2026 | Fase 1 | Sistema attivo su GTC® e TORX®, ≥500 atleti gestiti |
+| OS2 | Attivare EMSy Events su eventi VDA 2027 | Fase 2 | Sistema attivo su GTC® e TORX®, ≥500 atleti gestiti |
 | OS3 | Rilasciare app mobile su App Store e Google Play | Fase 1 | App live su entrambi gli store |
 | OS4 | Integrare i 4 moduli AI in architettura unificata LangGraph | Fase 2 | Sistema end-to-end testato su ≥100 casi clinici reali |
 | OS5 | Validare il modello OHCA su dati 118 italiani | Fase 2 | AUC validato su dataset europeo, report clinico prodotto |
