@@ -13,7 +13,7 @@
 | **Hardware** | €3.275 | Quota ammortamento (18/60) su Server GPU dedicato con schede video per inferenza LLM on-premise h24 (€10.000) e 2× display AR binoculare XREAL 1S per prototipazione interfaccia clinica in AR (€918). |
 | **Software / Licenze LLM** | €14.400 | Abbonamenti mensili per infrastruttura e modelli AI: database Neon, deployment Vercel, API LLM (OpenRouter, AWS Bedrock, Claude), servizi cloud accessori. |
 | **Assessment tecnologico** | €4.500 | Valutazione indipendente obbligatoria da esperto esterno con ≥5 anni di esperienza, entro il mese 12 del progetto. |
-| **Margine di riserva** | €6.065 | Buffer variazioni costi Fase 1 (€2.895) + spese legali certificazioni (~€1.000), consulenza clinica esterna Dott. Carenzo (~€1.500), ricerca medica e test eventi (~€670) — Fase 2 (€3.170). |
+| **Margine di riserva** | €4.565 | Buffer variazioni costi Fase 1 (€1.395) + spese legali certificazioni (~€1.000), consulenza clinica esterna Dott. Carenzo (~€1.500), ricerca medica e test eventi (~€670) — Fase 2 (€3.170). |
 | **TOTALE** | **€80.000** | |
 
 ---
