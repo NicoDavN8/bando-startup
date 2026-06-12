@@ -53,7 +53,7 @@ EMSy è già in produzione con oltre 400 utenti registrati in più di 50 paesi e
 ## 3. Obiettivi del Piano
 
 ### Obiettivo generale
-Sviluppare e validare sul campo, con operatori del soccorso valdostani, un sistema AI multi-agente a moduli specializzati integrati per il supporto informativo e formativo alla medicina d'urgenza preospedaliera in ambiente montano, includendo la prototipazione esplorativa di interfacce hands-free per l'operatività in scenario.
+Sviluppare e validare sul campo, con operatori del soccorso valdostani, un sistema AI multi-agente a moduli specializzati integrati per il supporto informativo e formativo alla medicina d'urgenza preospedaliera in ambiente montano, includendo la prototipazione esplorativa di interfacce AR per la visualizzazione contestuale di informazioni cliniche in scenario.
 
 ### Obiettivi specifici
 
