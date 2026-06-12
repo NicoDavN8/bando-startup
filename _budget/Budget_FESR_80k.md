@@ -13,7 +13,7 @@
 | **Hardware** | €2.040 | Quota ammortamento (18/60) su Server GPU dedicato per inferenza LLM on-premise h24 (€5.000) e dispositivo AR hands-free con controllo vocale e certificazione IP66 (€1.800). |
 | **Software / Licenze LLM** | €14.400 | Abbonamenti mensili per infrastruttura e modelli AI: database Neon, deployment Vercel, API LLM (OpenRouter, AWS Bedrock, Claude), servizi cloud accessori. |
 | **Assessment tecnologico** | €4.500 | Valutazione indipendente obbligatoria da esperto esterno con ≥5 anni di esperienza, entro il mese 12 del progetto. |
-| **Margine di riserva** | €6.340 | Quota non pre-allocata per imprevisti, gestibile entro il 20% di scostamento per voce senza autorizzazione regionale. |
+| **Margine di riserva** | €5.800 | Buffer per variazioni costi (Fase 1: €2.630) + spese legali certificazioni europee (~€1.000), consulenza Dott. Luca Carenzo per validazione clinica indipendente (~€1.500), spese ricerca medica e test prodotto in eventi (~€670) (Fase 2: €3.170). |
 | **TOTALE** | **€80.000** | |
 
 ---
