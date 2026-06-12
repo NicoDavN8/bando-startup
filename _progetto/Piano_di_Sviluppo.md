@@ -80,7 +80,9 @@ Sviluppare e validare sul campo, con operatori del soccorso valdostani, un siste
 
 ### 4.1 AI Data Expert — Sistema multi-intelligenza a 4 moduli
 
-Il cuore del Piano di sviluppo è l'*AI Data Expert*, un sistema che integra quattro moduli AI specializzati orchestrati dal framework LangGraph. L'orchestratore analizza la domanda del clinico e attiva i moduli pertinenti, restituendo una risposta sintetica e contestualizzata.
+Il cuore del Piano di sviluppo è l'*AI Data Expert*, un sistema che integra quattro moduli AI specializzati orchestrati dal framework LangGraph (sistema software che coordina più agenti AI in sequenza logica, come un direttore d'orchestra). L'orchestratore analizza la domanda del clinico e attiva i moduli pertinenti, restituendo una risposta sintetica e contestualizzata.
+
+> **⚠️ NOTA INTERNA:** Valutare se aggiungere un glossario in appendice per i termini tecnici ricorrenti (LangGraph, RAG, ML, OHCA, AUC, SHAP, ecc.) oppure spiegarli tutti inline. Decisione da prendere con Simon prima della versione finale.
 
 ```
                     OPERATORE SANITARIO
