@@ -90,8 +90,8 @@ Copertura forfettaria: commercialista, rendicontazione FESR, utenze, amministraz
 | Dispositivo | Prezzo acquisto | Mesi ammortamento progetto | Mesi vita utile | Quota ammessa (18/60) |
 |-------------|----------------|--------------------------|-----------------|----------------------|
 | Server GPU dedicato per LLM (inferenza on-premise h24) | €5.000 | 18 | 60 | **€1.500** |
-| Dispositivo AR hands-free (es. RealWear Navigator 520 o equivalente IP66 con controllo vocale) | €1.800 | 18 | 60 | **€540** |
-| **Totale** | **€6.800** | | | **€2.040** |
+| Display AR binoculare XREAL 1S (Micro-OLED, 1920×1200/occhio, 52° FoV — strumento di prototipazione UI/UX interfaccia clinica in AR) | €459 | 18 | 60 | **€138** |
+| **Totale** | **€5.459** | | | **€1.638** |
 
 - Acquisto previsto: **Fase 1** (mese 1), intero importo ammesso imputato a Fase 1
 - Certificazioni: Energy Star + ESPR Ecodesign → **+5 punti premialità**
