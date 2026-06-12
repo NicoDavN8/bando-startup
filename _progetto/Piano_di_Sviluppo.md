@@ -68,7 +68,7 @@ Sviluppare e validare sul campo, con operatori del soccorso valdostani, un siste
 > **⚠️ NOTA INTERNA — OS3:** Verificare con Simon lo stato attuale della submission App Store e se l'app è già presente sugli store o da pubblicare ex novo.
 > **⚠️ NOTA INTERNA — OS4:** Soglia ≥100 casi clinici reali: verificare con Damiano la disponibilità di dataset sufficienti per i test di validazione entro Fase 2.
 | OS5 | Validare il modello OHCA su dati 118 italiani | Fase 2 | AUC validato su dataset europeo, report clinico prodotto |
-| OS6 | Prototipare interfaccia AR hands-free su RealWear | Fase 2 | Prototipo funzionante con navigazione vocale su RealWear Navigator 520 |
+| OS6 | Prototipare interfaccia AR su display XREAL 1S | Fase 2 | Prototipo funzionante con visualizzazione overlay clinica su display Micro-OLED binoculare |
 | OS7 | Completare assessment tecnologico esterno | Fase 2 | Report di assessment consegnato entro mese 12 |
 | OS8 | Certificare compliance GDPR del sistema PII | Fase 2 | Fascicolo documentale validato da consulente specializzato |
 
