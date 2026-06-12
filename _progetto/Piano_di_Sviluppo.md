@@ -40,9 +40,7 @@ EMSy colma questo gap sviluppando un modello ML preospedaliero-only validato su 
 
 ### 2.3 Il gap tecnologico nelle interfacce
 
-Le interfacce digitali esistenti per il soccorso sono progettate per ambienti controllati. Nessuna piattaforma AI per la medicina d'emergenza offre oggi un'interfaccia operativa in realtà aumentata, hands-free, utilizzabile durante le manovre di rianimazione cardiopolmonare o di gestione del trauma. EMSy introduce questo paradigma tramite la prototipazione su RealWear Navigator 520.
-
-> **⚠️ NOTA INTERNA:** Verificare con Simon se il dispositivo AR che intende proporre è il RealWear Navigator 520 o un modello equivalente/superiore. Il dispositivo utilizzato nel Piano deve avere almeno le stesse caratteristiche: certificazione IP66, controllo vocale in ambienti rumorosi, display heads-up non ostruttivo.
+Le interfacce digitali esistenti per il soccorso sono progettate per ambienti controllati. Nessuna piattaforma AI per la medicina d'emergenza ha progettato un'interfaccia ottimizzata per la realtà aumentata, con informazioni cliniche (dosaggi, score, risposte AI) visualizzate in overlay senza interrompere le manovre. EMSy introduce questo paradigma: il Piano di sviluppo prevede la prototipazione dell'interfaccia AR — progettazione dell'architettura visiva, test di leggibilità e validazione dell'esperienza utente — su display binoculare XREAL 1S (Micro-OLED, 1920×1200 per occhio, 52° campo visivo). Il prototipo sarà la base per il futuro deployment su dispositivi da campo.
 
 ### 2.4 La risposta di EMSy
 
