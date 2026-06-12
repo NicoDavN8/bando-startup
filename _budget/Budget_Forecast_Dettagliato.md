@@ -27,7 +27,7 @@
 | Hardware (quota ammortamento) | €1.638 | €0 | €1.638 |
 | Software / Licenze LLM | €4.800 | €9.600 | €14.400 |
 | Assessment tecnologico | €0 | €4.500 | €4.500 |
-| Margine di riserva | €2.630 | €3.170 | €5.800 |
+| Margine di riserva | €3.032 | €3.170 | €6.202 |
 | **TOTALE** | **€27.210** | **€52.790** | **€80.000** |
 
 ---
