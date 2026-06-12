@@ -136,7 +136,7 @@ Il Piano di sviluppo prevede:
 - **Valorizzazione delle competenze dei 3 soci fondatori** residenti e operativi sul territorio valdostano
 - **Attivazione operativa della piattaforma** su eventi di rilevanza internazionale con ricaduta diretta sulla sicurezza sanitaria in Valle d'Aosta (GTC® e TORX®)
 - **Prototipazione interfaccia AR** (display binoculare XREAL 1S, Micro-OLED) per progettazione dell'overlay clinico — base per future applicazioni nel soccorso alpino valdostano
-- **Acquisizione server GPU dedicato** per inferenza LLM (Large Language Model) on-premise h24, riducendo la dipendenza da servizi cloud esterni
+- **Acquisizione server GPU dedicato con schede video** per inferenza LLM (Large Language Model) on-premise h24, riducendo la dipendenza da servizi cloud esterni
 
 Il progetto si inserisce coerentemente nelle tre aree della Smart Specialization Strategy (S3) regionale 2021-2027:
 - **Montagna intelligente** — AI applicata a contesti operativi alpini
