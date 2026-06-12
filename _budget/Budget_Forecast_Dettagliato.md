@@ -24,7 +24,7 @@
 | Co.Co.Co sviluppatore AI | €10.800 | €21.600 | €32.400 |
 | Prestazioni soci (UCS) | €5.320 | €10.680 | €16.000 |
 | Spese generali (15%) | €1.620 | €3.240 | €4.860 |
-| Hardware (quota ammortamento) | €1.775 | €0 | €1.775 |
+| Hardware (quota ammortamento) | €3.275 | €0 | €3.275 |
 | Software / Licenze LLM | €4.800 | €9.600 | €14.400 |
 | Assessment tecnologico | €0 | €4.500 | €4.500 |
 | Margine di riserva | €2.895 | €3.170 | €6.065 |
