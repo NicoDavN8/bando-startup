@@ -348,7 +348,8 @@ Sviluppatore AI junior (profilo studente universitario, nessun altro impiego), i
 ### Esperti esterni
 
 - **Esperto assessment tecnologico:** profilo TBD, ≥5 anni esperienza in technology assessment o incubatori/startup innovative nel settore AI/medicale (da identificare entro avvio Piano, incarico entro mese 6)
-- **Consulente GDPR:** specialista in compliance dati sanitari, validazione sistema PII, redazione fascicoli tecnici
+- **Consulente GDPR:** specialista in compliance dati sanitari, validazione sistema PII (Personally Identifiable Information), redazione fascicoli tecnici
+- **Dott. Luca Carenzo** — Anestesista-rianimatore, esperto in medicina d'emergenza ed elisoccorso (HEMS — Helicopter Emergency Medical Services). Validatore clinico esterno indipendente: testerà la piattaforma EMSy in contesti reali, fornirà feedback clinico qualificato e potrà produrre pubblicazioni scientifiche o presentazioni a convegni medici sull'efficacia del sistema. Incarico previsto in Fase 2, finanziato dal margine di riserva.
 
 ---
 
