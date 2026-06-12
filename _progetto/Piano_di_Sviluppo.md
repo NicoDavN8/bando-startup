@@ -450,7 +450,7 @@ EMSy si impegna al rispetto di tutti gli obblighi previsti dall'Avviso:
 | Contabilità separata | Tutte le spese esclusivamente su IBAN dedicato, con CUP su ogni documento |
 | Rapportini orari | Fogli presenza mensili per Co.Co.Co e soci, controfirmati |
 | Max 20% smart working | Presenza fisica documentata in VdA per ≥80% delle ore rendicontate |
-| Hardware in VdA | MBP e RealWear rimangono presso sede VdA per 3 anni post-progetto |
+| Hardware in VdA | Server GPU e XREAL 1S rimangono presso sede VdA per 3 anni post-progetto |
 | Assessment entro anno 1 | Pianificato entro mese 12 (vedi sezione 11) |
 | DNSH | Hardware certificato RoHS/WEEE/Ecodesign (vedi sezione 9) |
 
