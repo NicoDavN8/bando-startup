@@ -370,7 +370,7 @@ Sistema di anonimizzazione PII già in produzione con architettura a 3 layer ind
 EMSy è classificato come strumento informativo ed educativo per professionisti sanitari. Rischio limitato (Art. 50): obbligo di trasparenza verso l'utente che il sistema è AI-assistito. Già rispettato nell'interfaccia corrente.
 
 ### DNSH — Do No Significant Harm
-Il progetto è software-first: nessuna produzione manifatturiera, nessuna emissione diretta. Hardware acquistato da fornitori certificati RoHS (Direttiva 2011/65/UE) e WEEE (Direttiva 2012/19/UE). MacBook Pro 16" M4 Pro e RealWear Navigator 520 sono dispositivi con certificazione Energy Star e conformi agli standard Ecodesign.
+Il progetto è software-first: nessuna produzione manifatturiera, nessuna emissione diretta. Hardware acquistato da fornitori certificati RoHS (Direttiva 2011/65/UE) e WEEE (Direttiva 2012/19/UE). Il Server GPU dedicato è certificato Energy Star e conforme agli standard Ecodesign (ESPR); il display XREAL 1S è certificato CE e RoHS.
 
 ### ESPR — Ecodesign for Sustainable Products (Reg. UE 2024/1781)
 L'hardware acquistato nel Piano è certificato Ecodesign, condizione per l'ottenimento della **premialità +5 punti** prevista dal bando.
