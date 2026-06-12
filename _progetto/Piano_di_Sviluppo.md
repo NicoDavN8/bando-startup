@@ -311,7 +311,7 @@ Il Piano di sviluppo prevede la prototipazione dell'interfaccia EMSy ottimizzata
 | Spese generali (15% × €21.600) | €3.240 |
 | Software / Licenze LLM (€800 × 12 mesi) | €9.600 |
 | Assessment tecnologico | €4.500 |
-| Margine di riserva Fase 2 | €3.170 |
+| Margine di riserva Fase 2 (spese legali certificazioni EU ~€1.000 + consulenza Dott. Carenzo ~€1.500 + ricerca medica/test eventi ~€670) | €3.170 |
 | **Totale Fase 2** | **€52.790** |
 
 ---
