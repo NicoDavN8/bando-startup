@@ -10,10 +10,10 @@
 | **Co.Co.Co sviluppatore AI** | €32.400 | Collaboratore a progetto per sviluppo sistema AI multi-agente, microservizi ML e integrazione LangGraph. ~13 ore/settimana per 18 mesi a €1.800/mese lordi. |
 | **Prestazioni soci** | €16.000 | Ore lavoro dei 3 fondatori rendicontate al tasso fisso UCS €33/ora: Simon (sviluppo, 55%), Damiano (validazione clinica, 30%), Nicolò (progettazione, 15%). |
 | **Spese generali** | €4.860 | Quota forfettaria 15% sui costi del collaboratore. Copre commercialista, utenze, amministrazione e rendicontazione FESR. Nessuna fattura richiesta. |
-| **Hardware** | €2.040 | Quota ammortamento (18/60) su Server GPU dedicato per inferenza LLM on-premise h24 (€5.000) e dispositivo AR hands-free con controllo vocale e certificazione IP66 (€1.800). |
+| **Hardware** | €1.638 | Quota ammortamento (18/60) su Server GPU dedicato per inferenza LLM on-premise h24 (€5.000) e display AR binoculare XREAL 1S per prototipazione interfaccia clinica in AR (€459). |
 | **Software / Licenze LLM** | €14.400 | Abbonamenti mensili per infrastruttura e modelli AI: database Neon, deployment Vercel, API LLM (OpenRouter, AWS Bedrock, Claude), servizi cloud accessori. |
 | **Assessment tecnologico** | €4.500 | Valutazione indipendente obbligatoria da esperto esterno con ≥5 anni di esperienza, entro il mese 12 del progetto. |
-| **Margine di riserva** | €5.800 | Buffer per variazioni costi (Fase 1: €2.630) + spese legali certificazioni europee (~€1.000), consulenza Dott. Luca Carenzo per validazione clinica indipendente (~€1.500), spese ricerca medica e test prodotto in eventi (~€670) (Fase 2: €3.170). |
+| **Margine di riserva** | €6.202 | Buffer per variazioni costi (Fase 1: €3.032) + spese legali certificazioni europee (~€1.000), consulenza Dott. Luca Carenzo per validazione clinica indipendente (~€1.500), spese ricerca medica e test prodotto in eventi (~€670) (Fase 2: €3.170). |
 | **TOTALE** | **€80.000** | |
 
 ---
