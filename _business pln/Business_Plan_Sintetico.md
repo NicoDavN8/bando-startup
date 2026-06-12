@@ -124,7 +124,7 @@ EMSy adotta un modello freemium con livelli di accesso differenziati. L'infrastr
 
 Il progetto FESR consente di accelerare lo sviluppo dell'AI Data Expert — il modulo a maggior valore aggiunto — senza compromettere la sostenibilità operativa della piattaforma esistente. Il contributo FESR atteso di **€52.800** (70% su €80.000) copre il 65% dei costi totali del Piano di sviluppo, con un cofinanziamento EMSy di €27.200 (30%) già pianificato.
 
-La sostenibilità finanziaria a lungo termine è rafforzata dall'accordo di finanziamento ponte con **Banca Sella + Alpifidi** (€24.000 a 5 anni, garanzia MCC), cumulabile con il contributo FESR.
+La sostenibilità finanziaria a lungo termine è supportata dalla crescita organica della base utenti e dall'espansione del modello SaaS a livello europeo, con il contributo FESR che accelera lo sviluppo dei moduli a maggior valore aggiunto senza impattare l'operatività corrente.
 
 ---
 
