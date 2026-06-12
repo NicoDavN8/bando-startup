@@ -94,11 +94,9 @@ Copertura forfettaria: commercialista, rendicontazione FESR, utenze, amministraz
 | **Totale** | **€5.459** | | | **€1.638** |
 
 - Acquisto previsto: **Fase 1** (mese 1), intero importo ammesso imputato a Fase 1
-- Certificazioni: Energy Star + ESPR Ecodesign → **+5 punti premialità**
+- Server GPU: certificato Energy Star + ESPR Ecodesign → **+5 punti premialità**; XREAL 1S: certificato CE/RoHS
 - Obbligo: i dispositivi rimangono presso la sede operativa VdA per 3 anni post-progetto
 - Il server GPU riduce la dipendenza da API cloud esterne per l'inferenza LLM, abbassando i costi operativi a lungo termine
-
-> **⚠️ NOTA INTERNA:** Modello esatto del dispositivo AR da confermare con Simon prima della presentazione.
 
 ---
 
