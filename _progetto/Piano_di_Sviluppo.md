@@ -354,7 +354,7 @@ Sviluppatore AI junior (profilo studente universitario, nessun altro impiego), i
 |---------|-------------|---------|-------------|
 | Dataset ROC Epistry v3 non disponibile nei tempi | Media | Alto | Dataset WACAR (Mendeley, 814 casi) e DCAPS Korea (36k) già scaricabili come alternativa per avvio training |
 | AUC < 0.75 al primo training | Media | Medio | Feature engineering iterativo; possibilità di abbassare soglia a 0.70 con motivazione clinica; Damiano disponibile per revisione variabili |
-| Difficoltà integrazione SDK RealWear | Bassa | Medio | SDK ben documentato; comunità sviluppatori attiva; fallback su browser-based AR come alternativa |
+| Difficoltà integrazione SDK XREAL | Bassa | Medio | SDK ben documentato; fallback su WebXR browser-based come alternativa |
 | Scostamento costi LLM oltre budget | Bassa | Basso | Crediti AWS Activate e NVIDIA coprono i picchi iniziali; server GPU on-premise riduce dipendenza da API cloud; margine di riserva €5.800 disponibile |
 | Mancata disponibilità Dott. Carenzo per test | Bassa | Medio | Identificare in anticipo un secondo profilo clinico alternativo di pari livello |
 | Indisponibilità dati 118 per validazione | Bassa | Alto | Damiano ha accesso diretto ai dati proprietari 118 come Medical Director |
