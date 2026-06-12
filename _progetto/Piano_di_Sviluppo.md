@@ -42,8 +42,6 @@ Le interfacce digitali esistenti per il soccorso sono progettate per ambienti co
 
 EMSy è già in produzione con oltre 400 utenti registrati in più di 50 paesi e più di 1.000 consultazioni giornaliere. Il presente Piano di sviluppo rappresenta il salto evolutivo dalla piattaforma informativa esistente a un sistema AI predittivo e multi-modale, radicato nel contesto operativo valdostano.
 
-> **⚠️ NOTA INTERNA:** Dati da verificare con Simon prima della presentazione: utenti registrati, numero paesi, consultazioni giornaliere. Usare solo numeri confermati e aggiornati.
-
 ---
 
 ## 3. Obiettivi del Piano
