@@ -239,13 +239,15 @@ Il Piano di sviluppo prevede la prototipazione dell'interfaccia EMSy ottimizzata
 - Test end-to-end sistema integrato su casi clinici documentati
 - *Responsabile:* Collaboratore Co.Co.Co + Simon
 
-**WP2.2 — Validazione clinica modello OHCA su dati 118 (mesi 8-12)**
-- Accesso e preparazione dataset 118 proprietario (centinaia di casi, sistema EMS europeo medicalizzato)
+**WP2.2 — Validazione clinica modello OHCA su dati proprietari (mesi 8-12)**
+- Accesso e preparazione dataset proprietario di Damiano (centinaia di casi reali da attività clinica personale, sistema EMS europeo medicalizzato — non dataset istituzionale 118)
 - External validation modello OHCA: calcolo AUC su dati italiani
-- Calibrazione modello e implementazione guardrail (confidence intervals, warning campioni piccoli, k-anonymity)
+- Calibrazione modello e implementazione guardrail (confidence intervals — intervalli di confidenza, warning campioni piccoli, k-anonymity)
 - Confronto performance vs. score clinici esistenti
 - Produzione report di validazione clinica
-- *Responsabile:* Damiano (Medical Director) + Collaboratore Co.Co.Co
+- Test di usabilità della piattaforma EMSy con operatori sanitari durante eventi e manifestazioni sportive in montagna (non deployment istituzionale 118 per motivi burocratici)
+- Coinvolgimento Dott. Luca Carenzo per validazione clinica indipendente
+- *Responsabile:* Damiano (Medical Director) + Dott. Carenzo (validatore esterno) + Collaboratore Co.Co.Co
 
 **WP2.3 — Prototipo interfaccia AR hands-free (mesi 9-14)**
 - Setup SDK RealWear Navigator 520 e ambiente di sviluppo
