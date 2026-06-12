@@ -23,10 +23,8 @@
 | Dispositivo | Prezzo acquisto | Quota ammessa (18/60) | Utilizzo |
 |-------------|----------------|----------------------|---------|
 | Server GPU dedicato per LLM on-premise h24 | €5.000 | €1.500 | Inferenza LLM locale, training modelli ML, riduzione dipendenza da API cloud |
-| Dispositivo AR hands-free (IP66, controllo vocale) | €1.800 | €540 | Prototipazione interfaccia AR hands-free per operatori del soccorso |
-| **Totale** | **€6.800** | **€2.040** | |
-
-> **⚠️ NOTA INTERNA:** Modello esatto dispositivo AR da confermare con Simon. Il totale hardware di acquisto sale da €5.000 a €6.800 (+€1.800 server vs MacBook), ma la quota ammessa FESR aumenta da €1.500 a €2.040 (+€540).
+| Display AR binoculare XREAL 1S (Micro-OLED, prototipazione UI/UX interfaccia clinica) | €459 | €138 | Progettazione e validazione architettura visiva overlay clinico in AR |
+| **Totale** | **€5.459** | **€1.638** | |
 
 ---
 
