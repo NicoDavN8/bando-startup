@@ -52,11 +52,13 @@ Funzionalità principali:
 ## 4. Prodotti e stato di sviluppo
 
 ### Prodotto A — EMSy Platform (in produzione)
-Piattaforma web e app mobile (iOS/Android) con:
-- AI Assistant (RAG su Pinecone, multi-modello via OpenRouter)
+Piattaforma Web App (PWA — Progressive Web App, accessibile da browser mobile senza installazione da store) con:
+- AI Assistant (RAG — Retrieval-Augmented Generation, sistema che recupera documenti scientifici prima di rispondere — su Pinecone, multi-modello via OpenRouter)
 - AI Coach con quiz clinici adattativi
-- Calcolatori clinici e score validati (OHCA, trauma, cardiovascolare)
+- Calcolatori clinici e score validati (OHCA — Out-of-Hospital Cardiac Arrest, arresto cardiaco extraospedaliero; trauma, cardiovascolare)
 - EMSy Arena — simulazioni gamificate per formazione medica
+
+> **⚠️ NOTA INTERNA:** Dati da verificare con Simon prima della presentazione: utenti registrati, paesi, consultazioni/giorno.
 
 **Stato:** in produzione. 400+ utenti, 50+ paesi, 1.000+ consultazioni/giorno.
 
