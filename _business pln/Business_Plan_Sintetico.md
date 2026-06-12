@@ -20,11 +20,11 @@ La piattaforma EMSy è già in produzione e conta oggi **oltre 400 utenti regist
 
 | Nome | Ruolo | Competenze |
 |------|-------|------------|
-| **Simon Grosjean** | Co-founder, CTO | Sviluppatore fullstack senior, architettura AI/LLM, Next.js, Python, LangChain. Firma la domanda FESR. |
-| **Damiano Presciani** | Co-founder, Medical Director | Medico d'emergenza con esperienza operativa sul campo. Responsabile della validazione clinica di tutti i contenuti e dei modelli AI. |
-| **Nicolò Balzani** | Co-founder, CPO | Progettista di prodotto. Responsabile UX, design dell'interfaccia e strategia di prodotto. |
+| **Simon Grosjean** | Co-founder, CTO, Presidente CDA | Medico del 118 e ideatore del progetto. Progettista del prodotto e sviluppatore fullstack (AI/LLM, Next.js, Python, LangChain). Firma la domanda FESR. |
+| **Damiano Presciani** | Co-founder, Medical Director | Medico d'emergenza con esperienza operativa sul campo. Ideatore di EMSy Events. Responsabile della validazione clinica di tutti i contenuti e dei modelli AI. |
+| **Nicolò Balzani** | Co-founder, CPO | Responsabile marketing, comunicazione e gestione operativa del progetto. Referente societario per il bando FESR. |
 
-Il team combina competenze tecniche avanzate (AI, sviluppo software, architetture cloud) con expertise medica specialistica diretta — una combinazione rara e critica per sviluppare strumenti clinici affidabili. Il profilo medico interno elimina la dipendenza da consulenze esterne per la validazione clinica e garantisce aderenza ai protocolli ERC/ILCOR aggiornati.
+Il team unisce competenze rare: Simon combina la pratica clinica diretta sul campo come medico 118 con le capacità tecniche per tradurla in architetture AI funzionanti. Damiano garantisce la validazione medica dei contenuti e ha ideato la verticalizzazione sugli eventi sportivi. Nicolò coordina la strategia di mercato e la gestione operativa del progetto. La presenza di due medici d'emergenza nel team fondatore elimina la dipendenza da consulenze cliniche esterne e garantisce aderenza costante ai protocolli ERC/ILCOR aggiornati.
 
 ---
 
