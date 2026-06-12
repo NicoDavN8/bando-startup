@@ -175,12 +175,15 @@ Il Piano di sviluppo prevede la prototipazione dell'interfaccia EMSy ottimizzata
 - Benchmark contro score esistenti (CAHP, R-EDByUS)
 - *Responsabile:* Collaboratore Co.Co.Co + Simon + Damiano (validazione clinica)
 
-**WP1.3 — EMSy Events: attivazione operativa VDA 2026 (mesi 1-2)**
+**WP1.3 — EMSy Events: sviluppo e preparazione modulo (mesi 3-6)**
 - Finalizzazione modulo gestione emergenze in tempo reale
-- Integrazione con infrastruttura VDA Trailers per GTC® (10-12 luglio 2026)
-- Attivazione operativa TORX® with Kailas (11-20 settembre 2026)
-- Raccolta dati sanitari de-identificati per validazione sistema
+- Sviluppo dashboard centrale operativa web per coordinamento sanitario eventi
+- Test interno del sistema su scenari simulati
+- Integrazione con infrastruttura VDA Trailers in preparazione alle edizioni 2027
+- Definizione protocolli operativi con Damiano per attivazione in gara
 - *Responsabile:* Simon + Nicolò (coordinamento operativo) + Damiano (protocolli)
+
+> **⚠️ NOTA INTERNA:** L'attivazione operativa reale su GTC® e TORX® avverrà in Fase 2 (luglio 2027 e settembre 2027), non in Fase 1. Verificare con VDA Trailers la disponibilità a confermare il partenariato per le edizioni 2027. Vedere WP2.8.
 
 **WP1.4 — App mobile iOS/Android: rilascio pubblico (mesi 1-3)**
 - Finalizzazione build Capacitor iOS/Android
