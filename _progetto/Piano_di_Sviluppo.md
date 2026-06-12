@@ -134,7 +134,7 @@ Questa fase produce i design pattern, le specifiche di interazione e i criteri d
 | LLM routing | OpenRouter (multi-model) | In produzione |
 | ML service | Python FastAPI + XGBoost/PyTorch | Da sviluppare |
 | Web App | PWA (Progressive Web App — applicazione web fruibile da browser mobile senza necessità di app store) | Da sviluppare |
-| AR interface | RealWear SDK + adattamento UI | Da sviluppare |
+| AR interface | XREAL SDK + adattamento UI | Da sviluppare |
 | Cloud compute | AWS SageMaker + NVIDIA credits | Crediti disponibili |
 | Privacy/GDPR | OpenMed NER (Named Entity Recognition — riconoscimento automatico di entità sensibili nel testo) + pipeline PII (Personally Identifiable Information — dati personali identificabili) | In produzione |
 | Server dedicato | Server GPU on-premise h24 per inferenza LLM locale | Da acquistare Fase 1 |
