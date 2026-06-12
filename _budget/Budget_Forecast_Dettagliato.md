@@ -137,9 +137,19 @@ Copertura forfettaria: commercialista, rendicontazione FESR, utenze, amministraz
 
 | | Fase 1 | Fase 2 | Totale |
 |---|---|---|---|
-| Margine di riserva | €3.157 | €3.183 | **€6.340** |
+| Margine di riserva | €2.630 | €3.170 | **€5.800** |
 
 Il margine copre variazioni di costo entro il **20% per voce per fase** senza necessità di autorizzazione preventiva (Art. 10, comma 7 dell'Avviso). Da formalizzare con il commercialista per l'allocazione nella categoria ammessa del formulario SISPREG2014.
+
+### Destinazione prevista del margine di riserva
+
+| Voce | Fase | Importo stimato |
+|------|------|----------------|
+| Buffer per variazioni costi hardware/software Fase 1 | Fase 1 | €2.630 |
+| Spese legali per certificazioni europee applicabili | Fase 2 | ~€1.000 |
+| Consulenza Dott. Luca Carenzo (validazione clinica indipendente) | Fase 2 | ~€1.500 |
+| Spese di ricerca medica — test prodotto con operatori durante eventi | Fase 2 | ~€670 |
+| **Totale** | | **€5.800** |
 
 ---
 
