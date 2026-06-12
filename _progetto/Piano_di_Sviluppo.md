@@ -167,8 +167,6 @@ Questa fase produce i design pattern, le specifiche di interazione e i criteri d
 - Definizione protocolli operativi con Damiano per attivazione in gara
 - *Responsabile:* Simon + Nicolò (coordinamento operativo) + Damiano (protocolli)
 
-> **⚠️ NOTA INTERNA:** L'attivazione operativa reale su GTC® e TORX® avverrà in Fase 2 (luglio 2027 e settembre 2027), non in Fase 1. Verificare con VDA Trailers la disponibilità a confermare il partenariato per le edizioni 2027. Vedere WP2.8.
-
 **WP1.4 — Web App EMSy: rilascio pubblico accessibile da mobile (mesi 1-3)**
 - Sviluppo e ottimizzazione interfaccia Web App (PWA) per browser mobile (iOS Safari, Android Chrome)
 - Ottimizzazione UX (User Experience — esperienza utente) per uso su smartphone in condizioni di campo
