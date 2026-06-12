@@ -191,6 +191,8 @@ Il Piano di sviluppo prevede la prototipazione dell'interfaccia EMSy ottimizzata
 - Rilascio versione 1.0 pubblica
 - *Responsabile:* Simon + Nicolò
 
+> **⚠️ NOTA INTERNA:** Verificare con Simon lo stato attuale: l'app è già presente sugli store o è da pubblicare ex novo? Se già presente, aggiornare la milestone come "aggiornamento versione major" anziché "rilascio".
+
 #### Milestone Fase 1
 
 | Milestone | Mese | Indicatore |
