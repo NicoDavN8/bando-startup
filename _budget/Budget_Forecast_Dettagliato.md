@@ -89,13 +89,16 @@ Copertura forfettaria: commercialista, rendicontazione FESR, utenze, amministraz
 
 | Dispositivo | Prezzo acquisto | Mesi ammortamento progetto | Mesi vita utile | Quota ammessa (18/60) |
 |-------------|----------------|--------------------------|-----------------|----------------------|
-| MacBook Pro 16" M4 Pro (24GB RAM, 512GB) | €3.200 | 18 | 60 | **€960** |
-| RealWear Navigator 520 | €1.800 | 18 | 60 | **€540** |
-| **Totale** | **€5.000** | | | **€1.500** |
+| Server GPU dedicato per LLM (inferenza on-premise h24) | €5.000 | 18 | 60 | **€1.500** |
+| Dispositivo AR hands-free (es. RealWear Navigator 520 o equivalente IP66 con controllo vocale) | €1.800 | 18 | 60 | **€540** |
+| **Totale** | **€6.800** | | | **€2.040** |
 
 - Acquisto previsto: **Fase 1** (mese 1), intero importo ammesso imputato a Fase 1
 - Certificazioni: Energy Star + ESPR Ecodesign → **+5 punti premialità**
 - Obbligo: i dispositivi rimangono presso la sede operativa VdA per 3 anni post-progetto
+- Il server GPU riduce la dipendenza da API cloud esterne per l'inferenza LLM, abbassando i costi operativi a lungo termine
+
+> **⚠️ NOTA INTERNA:** Modello esatto del dispositivo AR da confermare con Simon prima della presentazione.
 
 ---
 
