@@ -10,7 +10,7 @@
 | **Co.Co.Co sviluppatore AI** | €32.400 | Collaboratore a progetto per sviluppo sistema AI multi-agente, microservizi ML e integrazione LangGraph. ~13 ore/settimana per 18 mesi a €1.800/mese lordi. |
 | **Prestazioni soci** | €16.000 | Ore lavoro dei 3 fondatori rendicontate al tasso fisso UCS €33/ora: Simon (sviluppo, 55%), Damiano (validazione clinica, 30%), Nicolò (progettazione, 15%). |
 | **Spese generali** | €4.860 | Quota forfettaria 15% sui costi del collaboratore. Copre commercialista, utenze, amministrazione e rendicontazione FESR. Nessuna fattura richiesta. |
-| **Hardware** | €1.500 | Quota ammortamento (18/60) su MacBook Pro 16" M4 Pro (sviluppo AI) e RealWear Navigator 520 (prototipazione interfaccia AR per operatori del soccorso). |
+| **Hardware** | €2.040 | Quota ammortamento (18/60) su Server GPU dedicato per inferenza LLM on-premise h24 (€5.000) e dispositivo AR hands-free con controllo vocale e certificazione IP66 (€1.800). |
 | **Software / Licenze LLM** | €14.400 | Abbonamenti mensili per infrastruttura e modelli AI: database Neon, deployment Vercel, API LLM (OpenRouter, AWS Bedrock, Claude), servizi cloud accessori. |
 | **Assessment tecnologico** | €4.500 | Valutazione indipendente obbligatoria da esperto esterno con ≥5 anni di esperienza, entro il mese 12 del progetto. |
 | **Margine di riserva** | €6.340 | Quota non pre-allocata per imprevisti, gestibile entro il 20% di scostamento per voce senza autorizzazione regionale. |
