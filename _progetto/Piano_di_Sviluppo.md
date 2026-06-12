@@ -350,16 +350,48 @@ L'hardware acquistato nel Piano è certificato Ecodesign, condizione per l'otten
 
 ## 10. Coerenza con la S3 Valle d'Aosta 2021-2027
 
-Il Piano si inserisce nelle tre aree strategiche della Smart Specialization Strategy regionale:
+La Smart Specialization Strategy (S3) regionale 2021-2027 individua tre aree di specializzazione intelligente su cui concentrare gli investimenti FESR per rafforzare la competitività del sistema produttivo e dell'ecosistema innovativo valdostano. Il Piano di sviluppo EMSy si inserisce coerentemente in tutte e tre le aree, con contributi specifici e misurabili.
 
-**Montagna intelligente**
-L'AI Data Expert e l'interfaccia AR sono progettati specificamente per contesti alpini: connettività ridotta, ambienti estremi, operatori con equipaggiamento ingombrante. Il prototipo RealWear è direttamente applicabile al soccorso alpino valdostano.
+---
 
-**Montagna di eccellenza**
-Valle d'Aosta ha una tradizione di eccellenza nel soccorso in montagna (Corpo valdostano Soccorso Alpino e Speleologico, SAVALP). EMSy porta innovazione AI in un settore in cui la regione è già leader operativo. L'attivazione su GTC® e TORX® porta la piattaforma nel cuore degli eventi sportivi alpini valdostani di rilevanza internazionale.
+### Montagna intelligente
+*Digitalizzazione, intelligenza artificiale e tecnologie avanzate applicate al contesto alpino*
 
-**Montagna sostenibile**
-Infrastruttura interamente cloud-based (zero hardware on-premise), zero emissioni operative dirette, hardware certificato Ecodesign. Il sistema informativo contribuisce alla qualità delle cure di emergenza, riducendo la variabilità clinica e migliorando gli esiti per i pazienti e gli atleti in Valle d'Aosta.
+La S3 identifica nella digitalizzazione e nell'AI una leva strategica per valorizzare le specificità del territorio montano, in settori in cui la Valle d'Aosta può sviluppare vantaggi competitivi rispetto ad altri contesti.
+
+**Come EMSy contribuisce:**
+- L'AI Data Expert è un sistema progettato esplicitamente per le criticità del contesto alpino: funziona con connettività ridotta o instabile, è ottimizzato per l'uso con i guanti, in condizioni meteo avverse, da parte di operatori sotto stress
+- Il sistema multi-agente integra intelligenza artificiale avanzata (LLM, ML predittivo, Deep Learning su segnali biomedici) in un contesto operativo — il soccorso in montagna — in cui nessun prodotto analogo esiste oggi sul mercato
+- La prototipazione dell'interfaccia AR hands-free su RealWear Navigator 520 introduce un paradigma di interazione uomo-AI inedito per la medicina d'emergenza alpina, trasferibile in futuro al soccorso alpino e speleologico valdostano (SAVALP)
+- Il sistema raccoglie e analizza dati clinici provenienti da interventi reali in ambiente montano, creando un patrimonio informativo unico per la ricerca applicata al territorio
+
+---
+
+### Montagna di eccellenza
+*Qualità della vita, sicurezza, sanità e servizi ad alto valore aggiunto*
+
+La S3 punta a consolidare la Valle d'Aosta come territorio di eccellenza nei servizi alla persona, con particolare attenzione alla sicurezza in montagna e alla qualità del sistema sanitario territoriale.
+
+**Come EMSy contribuisce:**
+- Valle d'Aosta è sede del sistema di emergenza territoriale 118 e del Corpo Valdostano di Soccorso Alpino e Speleologico (SAVALP): un ecosistema di eccellenza operativa che EMSy valorizza portando innovazione tecnologica dove l'expertise umana è già alta
+- Il Piano di sviluppo prevede la validazione clinica del modello OHCA su dati reali del sistema 118 italiano — un contributo scientifico concreto alla medicina d'urgenza preospedaliera europea, prodotto in Valle d'Aosta
+- L'attivazione di EMSy Events su GTC® (Gran Trail Courmayeur, oltre 2.000 atleti da 50+ paesi) e TORX® with Kailas 2026 porta innovazione sanitaria diretta su eventi di rilevanza internazionale che si svolgono sul territorio valdostano, con Piano Sanitario approvato dall'AUSL Valle d'Aosta
+- La piattaforma migliora la qualità e l'uniformità delle cure preospedaliere, riducendo la variabilità clinica legata all'esperienza del singolo operatore — un impatto diretto sulla sicurezza di residenti e turisti in Valle d'Aosta
+- Il progetto crea occupazione qualificata nel settore AI/tecnologia in Valle d'Aosta, un profilo professionale ancora raro sul territorio
+
+---
+
+### Montagna sostenibile
+*Transizione ecologica, efficienza energetica e modelli produttivi a basso impatto ambientale*
+
+La S3 promuove modelli di sviluppo economico compatibili con la fragilità dell'ecosistema alpino, privilegiando tecnologie a basso impatto ambientale e processi produttivi dematerializzati.
+
+**Come EMSy contribuisce:**
+- Il modello di business è interamente **software-first e cloud-based**: nessuna produzione manifatturiera, nessuna supply chain fisica, zero emissioni operative dirette legate allo sviluppo del prodotto
+- L'infrastruttura cloud (Vercel EU, Neon, AWS) è ospitata in data center con certificazioni di efficienza energetica, localizzati in regioni EU con mix energetico a basse emissioni
+- L'hardware acquistato nel Piano (MacBook Pro M4 Pro, RealWear Navigator 520) è certificato **Energy Star** e conforme agli standard **Ecodesign (ESPR, Reg. UE 2024/1781)** e **RoHS/WEEE** — condizione per l'ottenimento della premialità +5 punti prevista dal bando
+- La piattaforma distribuisce conoscenza clinica in modalità digitale, eliminando la necessità di spostamenti fisici per la formazione continua degli operatori del soccorso (ECM digitale), con ricaduta diretta sulla riduzione delle emissioni legate alla mobilità formativa
+- Il sistema di anonimizzazione PII a 3 layer garantisce che nessun dato sanitario grezzo lasci l'Unione Europea, in linea con i principi di sovranità digitale europea promossi dalla strategia GAIA-X
 
 ---
 
