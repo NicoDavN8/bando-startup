@@ -140,10 +140,11 @@ Il Piano di sviluppo prevede la prototipazione dell'interfaccia EMSy ottimizzata
 | AI Orchestrazione | LangChain + LangGraph | In produzione (da estendere) |
 | LLM routing | OpenRouter (multi-model) | In produzione |
 | ML service | Python FastAPI + XGBoost/PyTorch | Da sviluppare |
-| Mobile | Capacitor (iOS + Android) | In sviluppo |
+| Web App | PWA (Progressive Web App — applicazione web fruibile da browser mobile senza necessità di app store) | Da sviluppare |
 | AR interface | RealWear SDK + adattamento UI | Da sviluppare |
 | Cloud compute | AWS SageMaker + NVIDIA credits | Crediti disponibili |
-| Privacy/GDPR | OpenMed NER + pipeline PII | In produzione |
+| Privacy/GDPR | OpenMed NER (Named Entity Recognition — riconoscimento automatico di entità sensibili nel testo) + pipeline PII (Personally Identifiable Information — dati personali identificabili) | In produzione |
+| Server dedicato | Server GPU on-premise h24 per inferenza LLM locale | Da acquistare Fase 1 |
 
 ---
 
