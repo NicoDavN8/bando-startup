@@ -42,6 +42,8 @@ EMSy colma questo gap sviluppando un modello ML preospedaliero-only validato su 
 
 Le interfacce digitali esistenti per il soccorso sono progettate per ambienti controllati. Nessuna piattaforma AI per la medicina d'emergenza offre oggi un'interfaccia operativa in realtà aumentata, hands-free, utilizzabile durante le manovre di rianimazione cardiopolmonare o di gestione del trauma. EMSy introduce questo paradigma tramite la prototipazione su RealWear Navigator 520.
 
+> **⚠️ NOTA INTERNA:** Verificare con Simon se il dispositivo AR che intende proporre è il RealWear Navigator 520 o un modello equivalente/superiore. Il dispositivo utilizzato nel Piano deve avere almeno le stesse caratteristiche: certificazione IP66, controllo vocale in ambienti rumorosi, display heads-up non ostruttivo.
+
 ### 2.4 La risposta di EMSy
 
 EMSy è già in produzione con oltre 400 utenti registrati in più di 50 paesi e più di 1.000 consultazioni giornaliere. Il presente Piano di sviluppo rappresenta il salto evolutivo dalla piattaforma informativa esistente a un sistema AI predittivo e multi-modale, radicato nel contesto operativo valdostano.
