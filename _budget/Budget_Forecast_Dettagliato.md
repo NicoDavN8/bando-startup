@@ -135,7 +135,7 @@ Copertura forfettaria: commercialista, rendicontazione FESR, utenze, amministraz
 
 | | Fase 1 | Fase 2 | Totale |
 |---|---|---|---|
-| Margine di riserva | €3.032 | €3.170 | **€6.202** |
+| Margine di riserva | €2.895 | €3.170 | **€6.065** |
 
 Il margine copre variazioni di costo entro il **20% per voce per fase** senza necessità di autorizzazione preventiva (Art. 10, comma 7 dell'Avviso). Da formalizzare con il commercialista per l'allocazione nella categoria ammessa del formulario SISPREG2014.
 
