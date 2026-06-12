@@ -304,9 +304,9 @@ Il Piano di sviluppo prevede la prototipazione dell'interfaccia EMSy ottimizzata
 
 | Nome | Ruolo nel Piano | Ore/mese | Competenze specifiche |
 |------|----------------|----------|----------------------|
-| **Simon Grosjean** | Sviluppo architettura AI, LangGraph, ML service, AR SDK | ~15 h/mese | Fullstack senior, Python ML, LangChain/LangGraph, Capacitor |
-| **Damiano Presciani** | Validazione clinica modelli, protocolli, dataset 118 | ~8 h/mese | Medico d'emergenza, EMS medicalizzato, standard Utstein, OHCA |
-| **Nicolò Balzani** | UX, interfaccia AR, coordinamento compliance | ~4 h/mese | Product design, UX per ambienti estremi, coordinamento |
+| **Simon Grosjean** | Ideatore del progetto, sviluppo architettura AI, LangGraph, ML service, AR SDK | ~15 h/mese | Medico del 118, fullstack senior, Python ML, LangChain/LangGraph, Capacitor |
+| **Damiano Presciani** | Validazione clinica modelli, protocolli, dataset 118 | ~8 h/mese | Medico del 118, ideatore di EMSy Events, EMS medicalizzato, standard Utstein, OHCA |
+| **Nicolò Balzani** | Marketing, comunicazione, gestione operativa del progetto, referente societario FESR | ~4 h/mese | Coordinamento operativo, marketing, comunicazione, compliance |
 
 ### Collaboratore Co.Co.Co
 
