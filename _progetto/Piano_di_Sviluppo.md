@@ -30,14 +30,9 @@ In questo contesto, l'accesso alla letteratura medica aggiornata, ai protocolli 
 
 ### 2.2 Il gap nella ricerca clinica
 
-Sul fronte della ricerca, esiste un **gap specifico e documentato dalla letteratura internazionale**: nessun modello predittivo basato su machine learning, addestrato esclusivamente su variabili preospedaliere, è stato validato su un sistema EMS medicalizzato europeo per la predizione dell'esito neurologico dell'arresto cardiaco extraospedaliero (OHCA — Out-of-Hospital Cardiac Arrest).
+Sul fronte della ricerca, esiste un **gap specifico**: non sono disponibili modelli predittivi ML validati sul contesto preospedaliero medicalizzato europeo per scenari ad alta complessità come l'arresto cardiaco extraospedaliero (OHCA — Out-of-Hospital Cardiac Arrest). I modelli predittivi esistenti non sono sviluppati né calibrati per il sistema EMS italiano.
 
-I modelli esistenti presentano limitazioni strutturali:
-- **R-EDByUS (2024):** basato su regressione logistica, dati giapponesi, non generalizzabile al contesto EMS europeo medicalizzato
-- **SCARS (2023):** include variabili raccolte dopo l'arrivo in ospedale, inutilizzabili sul territorio
-- **Modelli XGBoost recenti (2024):** utilizzano dati post-arrivo in ospedale, non variabili prehospitaliere pure
-
-EMSy colma questo gap sviluppando il primo modello ML prehospitaliero-only validato su dati del sistema 118 italiano, con piena aderenza allo standard Utstein.
+EMSy colma questo gap sviluppando un modello ML preospedaliero-only validato su dati del sistema 118 italiano, con piena aderenza allo standard Utstein.
 
 ### 2.3 Il gap tecnologico nelle interfacce
 
@@ -156,7 +151,7 @@ Il Piano di sviluppo prevede la prototipazione dell'interfaccia EMSy ottimizzata
 - *Responsabile:* Collaboratore Co.Co.Co + Simon
 
 **WP1.2 — Modulo 2: Training e inference OHCA (mesi 2-4)**
-- Feature engineering su variabili prehospitaliere Utstein
+- Feature engineering su variabili preospedaliere Utstein
 - Training modello XGBoost/Random Forest su ROC Epistry v3
 - Endpoint `/predict` (variabili → probabilità CPC 1-2)
 - Endpoint `/explain` (SHAP waterfall per singola predizione)
