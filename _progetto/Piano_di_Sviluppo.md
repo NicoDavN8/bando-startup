@@ -295,8 +295,10 @@ Il Piano di sviluppo prevede la prototipazione dell'interfaccia EMSy ottimizzata
 | M2.3 | Mese 11 | Modello OHCA validato su dati 118 italiani — AUC documentato |
 | M2.4 | Mese 12 | Assessment tecnologico esterno completato — report consegnato |
 | M2.5 | Mese 14 | Fascicolo GDPR validato da consulente |
-| M2.6 | Mese 17 | Modulo Deep Learning (ECG/EEG) integrato nel sistema |
-| M2.7 | Mese 18 | Secondo dominio clinico attivo — ≥1 partner validatore identificato |
+| M2.6 | Mese 8 | EMSy Events attivo su GTC® (luglio 2027) — report post-evento |
+| M2.7 | Mese 10 | EMSy Events attivo su TORX® (settembre 2027) — report post-evento |
+| M2.8 | Mese 17 | Modulo Deep Learning (ECG/EEG) integrato nel sistema |
+| M2.9 | Mese 18 | Secondo dominio clinico attivo — ≥1 partner validatore identificato |
 
 #### Budget Fase 2
 
