@@ -33,7 +33,7 @@ Il team unisce competenze rare: Simon combina la pratica clinica diretta sul cam
 ### Il problema
 L'operatore sanitario preospedaliero (medico 118, infermiere, soccorritore) lavora in condizioni estreme: ambiente remoto, stress elevato, tempi di decisione ridotti, spesso senza connettività stabile. Gli strumenti digitali disponibili non sono progettati per questo contesto e la letteratura scientifica più recente è inaccessibile sul campo in tempo reale.
 
-Sul fronte della ricerca clinica, esiste un **gap specifico e documentato**: nessun modello predittivo ML prehospitaliero è stato validato su un sistema EMS medicalizzato europeo per la predizione dell'esito neurologico dell'arresto cardiaco extraospedaliero (OHCA). I modelli esistenti sono stati sviluppati su dati giapponesi o su dati raccolti dopo l'arrivo in ospedale — inutilizzabili sul territorio italiano.
+Sul fronte della ricerca clinica, esiste un **gap specifico**: non sono disponibili modelli predittivi validati sul contesto preospedaliero medicalizzato europeo per scenari ad alta complessità come l'arresto cardiaco extraospedaliero (OHCA). I modelli predittivi esistenti non sono sviluppati né calibrati per il sistema EMS italiano.
 
 ### La soluzione
 EMSy offre una piattaforma AI informativa ed educativa progettata specificamente per il contesto preospedaliero:
