@@ -266,6 +266,13 @@ Il Piano di sviluppo prevede la prototipazione dell'interfaccia EMSy ottimizzata
 - Primo modello funzionante su secondo dominio
 - *Responsabile:* Damiano + Collaboratore Co.Co.Co
 
+**WP2.8 — EMSy Events: attivazione operativa GTC® e TORX® 2027 (mesi 7-11)**
+- Coordinamento finale con VDA Trailers per GTC® (luglio 2027) e TORX® with Kailas (settembre 2027)
+- Attivazione sistema Events in condizioni reali di gara
+- Raccolta dati sanitari de-identificati per validazione sistema
+- Report post-evento con metriche operative (atleti gestiti, interventi, performance sistema)
+- *Responsabile:* Nicolò (coordinamento operativo) + Damiano (protocolli clinici) + Simon (supporto tecnico)
+
 **WP2.6 — Assessment tecnologico esterno (mesi 8-12)**
 - Selezione esperto esterno indipendente (≥5 anni esperienza in technology assessment o gestione startup innovative nel settore AI/medicale)
 - Affidamento formale incarico
