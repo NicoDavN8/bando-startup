@@ -153,7 +153,7 @@ Il Piano di sviluppo prevede la prototipazione dell'interfaccia EMSy ottimizzata
 
 #### Obiettivi Fase 1
 - Costruire le fondamenta del sistema ML (Modulo 2)
-- Attivare EMSy Events su eventi valdostani reali
+- Sviluppare e testare il modulo EMSy Events in preparazione all'attivazione operativa (Fase 2)
 - Rilasciare l'app mobile su store ufficiali
 
 #### Work Breakdown Structure — Fase 1
