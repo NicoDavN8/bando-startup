@@ -26,7 +26,7 @@
 | Spese legali per certificazioni europee applicabili | Fase 2 | ~€1.000 |
 | Consulenza Dott. Luca Carenzo — validazione clinica indipendente | Fase 2 | ~€1.500 |
 | Spese ricerca medica — test prodotto con operatori durante eventi | Fase 2 | ~€670 |
-| **Totale** | | **€6.202** |
+| **Totale** | | **€6.065** |
 
 ---
 
