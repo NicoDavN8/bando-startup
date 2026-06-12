@@ -174,8 +174,6 @@ Questa fase produce i design pattern, le specifiche di interazione e i criteri d
 - Rilascio pubblico accessibile via URL senza necessità di installazione da store
 - *Responsabile:* Simon + Nicolò
 
-> **⚠️ NOTA INTERNA:** Scelta strategica: Web App invece di app nativa per evitare i rischi di approvazione Apple Store per applicazioni mediche (processo lungo, incerto e potenzialmente bloccante per il progetto). La Web App offre distribuzione immediata e aggiornamenti senza revisione.
-
 #### Milestone Fase 1
 
 | Milestone | Mese | Indicatore |
