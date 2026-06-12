@@ -63,10 +63,10 @@ Piattaforma Web App (PWA — Progressive Web App, accessibile da browser mobile 
 **Stato:** in produzione. 400+ utenti, 50+ paesi, 1.000+ consultazioni/giorno.
 
 ### Prodotto B — EMSy AI Data Expert (cuore del Piano di sviluppo FESR)
-Sistema AI multi-agente a moduli specializzati orchestrati da LangGraph:
-- Modulo letteratura (attivo): LLM + RAG su letteratura medica
-- Modulo predittivo (sviluppo Fase 1): ML classico su dati tabulari OHCA (XGBoost, SHAP explainability)
-- Modulo segnali (sviluppo Fase 2): Deep Learning su segnali ECG/EEG
+Sistema AI (Intelligenza Artificiale) multi-agente a moduli specializzati orchestrati da LangGraph (framework che coordina più agenti AI in sequenza logica):
+- Modulo letteratura (attivo): LLM (Large Language Model — modello AI per comprensione e generazione di testo) + RAG su letteratura medica
+- Modulo predittivo (sviluppo Fase 1): ML (Machine Learning — apprendimento automatico) classico su dati tabulari OHCA (XGBoost, SHAP — SHapley Additive exPlanations, sistema di spiegabilità delle predizioni)
+- Modulo segnali (sviluppo Fase 2): Deep Learning su segnali ECG (Elettrocardiogramma)/EEG (Elettroencefalogramma)
 - Modulo di sintesi (integrazione Fase 2): LLM Reasoning per sintesi clinica contestualizzata
 
 **Stato:** Modulo letteratura attivo. Moduli predittivo, segnali e sintesi da sviluppare nel Piano di sviluppo FESR.
