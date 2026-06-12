@@ -186,13 +186,14 @@ Il Piano di sviluppo prevede la prototipazione dell'interfaccia EMSy ottimizzata
 
 > **⚠️ NOTA INTERNA:** L'attivazione operativa reale su GTC® e TORX® avverrà in Fase 2 (luglio 2027 e settembre 2027), non in Fase 1. Verificare con VDA Trailers la disponibilità a confermare il partenariato per le edizioni 2027. Vedere WP2.8.
 
-**WP1.4 — App mobile iOS/Android: rilascio pubblico (mesi 1-3)**
-- Finalizzazione build Capacitor iOS/Android
-- Revisione Apple App Store + Google Play Store
-- Rilascio versione 1.0 pubblica
+**WP1.4 — Web App EMSy: rilascio pubblico accessibile da mobile (mesi 1-3)**
+- Sviluppo e ottimizzazione interfaccia Web App (PWA) per browser mobile (iOS Safari, Android Chrome)
+- Ottimizzazione UX (User Experience — esperienza utente) per uso su smartphone in condizioni di campo
+- Test di compatibilità cross-browser e cross-device
+- Rilascio pubblico accessibile via URL senza necessità di installazione da store
 - *Responsabile:* Simon + Nicolò
 
-> **⚠️ NOTA INTERNA:** Verificare con Simon lo stato attuale: l'app è già presente sugli store o è da pubblicare ex novo? Se già presente, aggiornare la milestone come "aggiornamento versione major" anziché "rilascio".
+> **⚠️ NOTA INTERNA:** Scelta strategica: Web App invece di app nativa per evitare i rischi di approvazione Apple Store per applicazioni mediche (processo lungo, incerto e potenzialmente bloccante per il progetto). La Web App offre distribuzione immediata e aggiornamenti senza revisione.
 
 #### Milestone Fase 1
 
