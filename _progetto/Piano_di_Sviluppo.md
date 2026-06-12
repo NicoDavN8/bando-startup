@@ -14,7 +14,9 @@
 Il Piano di sviluppo ha durata di 18 mesi e si articola in tre direttrici principali:
 1. Sviluppo e validazione del sistema AI multi-agente (*AI Data Expert*) con moduli specializzati per letteratura scientifica, predizione clinica su dati reali, analisi di segnali biomedici e sintesi contestualizzata
 2. Prototipazione esplorativa di interfaccia hands-free su dispositivo AR indossabile (RealWear Navigator 520) per l'operatività in scenario di soccorso
-3. Attivazione operativa della piattaforma in contesti reali valdostani con partner contrattualmente impegnati (GTC® e TORX® 2026)
+3. Attivazione operativa della piattaforma in contesti reali valdostani con partner contrattualmente impegnati (GTC® e TORX® 2027)
+
+> **⚠️ NOTA INTERNA:** Ipotesi di avvio progetto: dicembre 2026 (best case dopo approvazione bando). GTC® luglio 2027 = mese 8 del progetto (Fase 2). TORX® settembre 2027 = mese 10 (Fase 2). Verificare con VDA Trailers la disponibilità a mantenere il partenariato per le edizioni 2027.
 
 Il progetto si inserisce nelle aree prioritarie della Smart Specialization Strategy (S3) regionale 2021-2027 e produce ricadute occupazionali, tecnologiche e sanitarie dirette sul territorio valdostano.
 
