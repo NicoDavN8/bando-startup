@@ -218,7 +218,7 @@ Questa fase produce i design pattern, le specifiche di interazione e i criteri d
 #### Obiettivi Fase 2
 - Integrare i 4 moduli AI in architettura unificata
 - Validare il modello OHCA su dati 118 italiani
-- Prototipare l'interfaccia AR hands-free
+- Prototipare l'interfaccia AR su XREAL 1S
 - Attivare operativamente EMSy Events su GTC® (luglio 2027) e TORX® (settembre 2027)
 - Espandere a un secondo dominio clinico
 - Completare assessment tecnologico e compliance GDPR
