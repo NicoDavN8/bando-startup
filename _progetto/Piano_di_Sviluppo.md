@@ -406,7 +406,7 @@ La S3 punta a consolidare la Valle d'Aosta come territorio di eccellenza nei ser
 **Come EMSy contribuisce:**
 - Valle d'Aosta è sede del sistema di emergenza territoriale 118 e del Corpo Valdostano di Soccorso Alpino e Speleologico (SAVALP): un ecosistema di eccellenza operativa che EMSy valorizza portando innovazione tecnologica dove l'expertise umana è già alta
 - Il Piano di sviluppo prevede la validazione clinica del modello OHCA su dati reali del sistema 118 italiano — un contributo scientifico concreto alla medicina d'urgenza preospedaliera europea, prodotto in Valle d'Aosta
-- L'attivazione di EMSy Events su GTC® (Gran Trail Courmayeur, oltre 2.000 atleti da 50+ paesi) e TORX® with Kailas 2026 porta innovazione sanitaria diretta su eventi di rilevanza internazionale che si svolgono sul territorio valdostano, con Piano Sanitario approvato dall'AUSL Valle d'Aosta
+- L'attivazione di EMSy Events su GTC® (Gran Trail Courmayeur, oltre 2.000 atleti da 50+ paesi) e TORX® with Kailas 2027 porta innovazione sanitaria diretta su eventi di rilevanza internazionale che si svolgono sul territorio valdostano, con Piano Sanitario approvato dall'AUSL Valle d'Aosta
 - La piattaforma migliora la qualità e l'uniformità delle cure preospedaliere, riducendo la variabilità clinica legata all'esperienza del singolo operatore — un impatto diretto sulla sicurezza di residenti e turisti in Valle d'Aosta
 - Il progetto crea occupazione qualificata nel settore AI/tecnologia in Valle d'Aosta, un profilo professionale ancora raro sul territorio
 
