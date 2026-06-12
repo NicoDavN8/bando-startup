@@ -137,7 +137,8 @@ Il Piano di sviluppo prevede:
 - **Inserimento di 1 nuovo collaboratore** (Co.Co.Co) per 18 mesi — profilo junior, primo accesso al mercato del lavoro nel settore AI/tecnologia in Valle d'Aosta
 - **Valorizzazione delle competenze dei 3 soci fondatori** residenti e operativi sul territorio valdostano
 - **Attivazione operativa della piattaforma** su eventi di rilevanza internazionale con ricaduta diretta sulla sicurezza sanitaria in Valle d'Aosta (GTC® e TORX®)
-- **Prototipazione tecnologia AR** (RealWear Navigator 520) per applicazioni future nel soccorso alpino valdostano
+- **Prototipazione tecnologia AR** (dispositivo AR hands-free con certificazione IP66 e controllo vocale) per applicazioni future nel soccorso alpino valdostano
+- **Acquisizione server GPU dedicato** per inferenza LLM (Large Language Model) on-premise h24, riducendo la dipendenza da servizi cloud esterni
 
 Il progetto si inserisce coerentemente nelle tre aree della Smart Specialization Strategy (S3) regionale 2021-2027:
 - **Montagna intelligente** — AI applicata a contesti operativi alpini
