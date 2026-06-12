@@ -89,9 +89,9 @@ Copertura forfettaria: commercialista, rendicontazione FESR, utenze, amministraz
 
 | Dispositivo | Prezzo acquisto | Mesi ammortamento progetto | Mesi vita utile | Quota ammessa (18/60) |
 |-------------|----------------|--------------------------|-----------------|----------------------|
-| Server GPU dedicato per LLM (inferenza on-premise h24) | €5.000 | 18 | 60 | **€1.500** |
+| Server GPU dedicato con schede video per LLM (inferenza on-premise h24) | €10.000 | 18 | 60 | **€3.000** |
 | 2× Display AR binoculare XREAL 1S (Micro-OLED, 1920×1200/occhio, 52° FoV — strumento di prototipazione UI/UX interfaccia clinica in AR) | €918 | 18 | 60 | **€275** |
-| **Totale** | **€5.918** | | | **€1.775** |
+| **Totale** | **€10.918** | | | **€3.275** |
 
 - Acquisto previsto: **Fase 1** (mese 1), intero importo ammesso imputato a Fase 1
 - Server GPU: certificato Energy Star + ESPR Ecodesign → **+5 punti premialità**; XREAL 1S: certificato CE/RoHS
