@@ -63,7 +63,7 @@ Sviluppare e validare sul campo, con operatori del soccorso valdostani, un siste
 |---|-----------|------|------------------------|
 | OS1 | Sviluppare il modulo ML predittivo OHCA (Modulo predittivo) | Fase 1 | AUC ≥ 0.75 su validation set ROC Epistry v3 |
 | OS2 | Attivare EMSy Events su eventi VDA 2027 | Fase 2 | Sistema attivo su GTC® e TORX® 2027, ≥500 atleti gestiti |
-| OS3 | Rilasciare app mobile su App Store e Google Play | Fase 1 | App live su entrambi gli store |
+| OS3 | Rilasciare la Web App EMSy accessibile da browser mobile | Fase 1 | Web App live, testata su browser mobile iOS e Android |
 | OS4 | Integrare i 4 moduli AI in architettura unificata LangGraph | Fase 2 | Sistema end-to-end testato su ≥100 casi clinici reali |
 
 > **⚠️ NOTA INTERNA — OS2:** Verificare con VDA Trailers disponibilità a confermare partenariato per edizioni GTC® e TORX® 2027. Soglia ≥500 atleti: verificare con Damiano la fattibilità in base ai piani sanitari degli eventi 2027.
