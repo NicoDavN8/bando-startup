@@ -4,7 +4,7 @@
 
 **Titolo progetto:** Sistema AI multi-agente per il supporto informativo all'emergenza preospedaliera in ambiente montano
 
-**Finalità:** Sviluppare e validare sul campo, con operatori del soccorso valdostani, un sistema AI multi-agente a moduli specializzati integrati per il supporto informativo e formativo alla medicina d'urgenza preospedaliera in ambiente montano, includendo la prototipazione esplorativa di interfacce hands-free per l'operatività in scenario.
+**Finalità:** Sviluppare e validare sul campo, con operatori del soccorso valdostani, un sistema AI multi-agente a moduli specializzati integrati per il supporto informativo e formativo alla medicina d'urgenza preospedaliera in ambiente montano, includendo la prototipazione esplorativa di interfacce AR per la visualizzazione contestuale di informazioni cliniche in scenario.
 
 ---
 
