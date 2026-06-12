@@ -164,7 +164,7 @@ Il Piano di sviluppo prevede la prototipazione dell'interfaccia EMSy ottimizzata
 - Integrazione con infrastruttura VDA Trailers per GTC® (10-12 luglio 2026)
 - Attivazione operativa TORX® with Kailas (11-20 settembre 2026)
 - Raccolta dati sanitari de-identificati per validazione sistema
-- *Responsabile:* Simon + Nicolò (UX) + Damiano (protocolli)
+- *Responsabile:* Simon + Nicolò (coordinamento operativo) + Damiano (protocolli)
 
 **WP1.4 — App mobile iOS/Android: rilascio pubblico (mesi 1-3)**
 - Finalizzazione build Capacitor iOS/Android
