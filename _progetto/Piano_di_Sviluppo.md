@@ -192,9 +192,9 @@ Questa fase produce i design pattern, le specifiche di interazione e i criteri d
 | Co.Co.Co (€1.800 × 6 mesi) | €10.800 |
 | Prestazioni soci (33% del totale) | €5.320 |
 | Spese generali (15% × €10.800) | €1.620 |
-| Hardware (Server GPU €5.000 + XREAL 1S €459 — quota ammortamento 18/60) | €1.638 |
+| Hardware (Server GPU €5.000 + 2× XREAL 1S €918 — quota ammortamento 18/60) | €1.775 |
 | Software / Licenze LLM (€800 × 6 mesi) | €4.800 |
-| Margine di riserva Fase 1 | €3.032 |
+| Margine di riserva Fase 1 | €2.895 |
 | **Totale Fase 1** | **€27.210** |
 
 ---
