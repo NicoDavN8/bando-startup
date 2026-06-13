@@ -1,6 +1,6 @@
 # Piano di Sviluppo — EMSy S.r.l.
 **Bando FESR DGR 575/2025 — Sostegno alle startup innovative — Valle d'Aosta**
-**Durata:** 18 mesi | **Budget totale:** €80.000 | **Contributo richiesto:** €52.800 (70%)
+**Durata:** 18 mesi | **Budget totale:** €80.000 | **Contributo richiesto:** €56.000 (70%)
 *Aggiornato: giugno 2026*
 
 ---
