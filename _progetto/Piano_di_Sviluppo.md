@@ -12,7 +12,7 @@
 **Finalità:** Sviluppare e validare sul campo, con operatori del soccorso valdostani, un sistema AI multi-agente a moduli specializzati integrati per il supporto informativo e formativo alla medicina d'urgenza preospedaliera in ambiente montano, includendo la prototipazione esplorativa di interfacce AR per la visualizzazione contestuale di informazioni cliniche in scenario.
 
 Il Piano di sviluppo ha durata di 18 mesi e si articola in tre direttrici principali:
-1. Sviluppo e validazione del sistema AI multi-agente (*AI Data Expert*) con moduli specializzati per letteratura scientifica, predizione clinica su dati reali, analisi di segnali biomedici e sintesi contestualizzata
+1. Sviluppo e validazione del sistema AI multi-agente (*AI Data Expert*) con moduli specializzati per letteratura scientifica, predizione clinica su dati reali e sintesi contestualizzata
 2. Prototipazione esplorativa di interfaccia AR su display binoculare indossabile (XREAL 1S — display Micro-OLED binoculare per sviluppo e validazione dell'architettura visiva dell'interfaccia clinica)
 3. Attivazione operativa della piattaforma in contesti reali valdostani con partner contrattualmente impegnati (GTC® e TORX® 2027)
 
