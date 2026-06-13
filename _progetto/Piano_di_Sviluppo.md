@@ -199,7 +199,7 @@ Questa fase produce i design pattern, le specifiche di interazione e i criteri d
 ### FASE 2 — Mesi 7-18 | Budget: €52.790
 
 #### Obiettivi Fase 2
-- Integrare i 4 moduli AI in architettura unificata
+- Integrare i 3 moduli AI in architettura unificata
 - Validare il modello OHCA su dataset europei medicalizzati pubblici
 - Prototipare l'interfaccia AR su XREAL 1S
 - Attivare operativamente EMSy Events su GTC® (luglio 2027) e TORX® (settembre 2027)
