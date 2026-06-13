@@ -12,7 +12,7 @@
 ### Status Generale
 - ✅ Documentazione base completa (dichiarazioni redditi, visura, CV)
 - ✅ Contratti partner firmati (UTMB Italia, Tor/Vda Trailers)
-- ✅ Registrazione sezione speciale startup (L.R. 14/2011) → **+10% bonus**
+- ✅ Registrazione sezione speciale startup (D.L. 179/2012 art. 25) → **+10% bonus**
 - 📋 In progress: Budget breakdown, piano tecnico, deliverables
 
 ### Finanziamento FESR
