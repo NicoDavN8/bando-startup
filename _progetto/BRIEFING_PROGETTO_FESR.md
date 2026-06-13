@@ -21,9 +21,9 @@
 | Budget totale progetto | €80.000 (minimo richiesto) |
 | Durata | 18 mesi |
 | Contributo base (60%) | €48.000 |
-| Bonus startup registry (+10%) | €4.800 |
-| **Importo totale previsto** | **€52.800** |
-| Tasso di cofinanziamento | 40% (€32.000 da EMSy) |
+| Bonus startup registry D.L. 179/2012 art. 25 (+10%) | €8.000 |
+| **Importo totale previsto** | **€56.000** |
+| Tasso di cofinanziamento | 30% (€24.000 da EMSy) |
 
 ---
 
