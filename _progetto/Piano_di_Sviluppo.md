@@ -233,7 +233,7 @@ Questa fase produce i design pattern, le specifiche di interazione e i criteri d
 - Documentazione tecnica del prototipo e specifiche per futuro deployment su dispositivi da campo
 - *Responsabile:* Simon + Nicolò (coordinamento)
 
-**WP2.5 — Espansione secondo dominio clinico (mesi 14-18)**
+**WP2.4 — Espansione secondo dominio clinico (mesi 14-18)**
 - Adattamento architettura ML a dataset STEMI o trauma preospedaliero
 - Identificazione e coinvolgimento ≥1 partner clinico validatore
 - Primo modello funzionante su secondo dominio
