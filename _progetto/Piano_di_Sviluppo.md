@@ -275,7 +275,7 @@ Questa fase produce i design pattern, le specifiche di interazione e i criteri d
 |-----------|------|------------|
 | M2.1 | Mese 9 | Sistema 4 moduli integrato in LangGraph — test end-to-end completato |
 | M2.2 | Mese 10 | Prototipo AR: overlay clinico funzionante su display XREAL 1S — UX validata |
-| M2.3 | Mese 11 | Modello OHCA validato su dati 118 italiani — AUC documentato |
+| M2.3 | Mese 11 | Modello OHCA validato su dataset europei medicalizzati — AUC documentato |
 | M2.4 | Mese 12 | Assessment tecnologico esterno completato — report consegnato |
 | M2.5 | Mese 14 | Fascicolo GDPR validato da consulente |
 | M2.6 | Mese 8 | EMSy Events attivo su GTC® (luglio 2027) — report post-evento |
