@@ -58,7 +58,7 @@ Sviluppare e validare sul campo, con operatori del soccorso valdostani, un siste
 | OS3 | Rilasciare la Web App EMSy accessibile da browser mobile | Fase 1 | Web App live, testata su browser mobile iOS e Android |
 | OS4 | Integrare i 4 moduli AI in architettura unificata LangGraph | Fase 2 | Sistema end-to-end testato su ≥100 casi clinici reali |
 
-| OS5 | Validare il modello OHCA su dati 118 italiani | Fase 2 | AUC validato su dataset europeo, report clinico prodotto |
+| OS5 | Validare il modello OHCA su dataset europei medicalizzati pubblici | Fase 2 | AUC validato su dataset europeo, report clinico prodotto |
 | OS6 | Prototipare interfaccia AR su display XREAL 1S | Fase 2 | Prototipo funzionante con visualizzazione overlay clinica su display Micro-OLED binoculare |
 | OS7 | Completare assessment tecnologico esterno | Fase 2 | Report di assessment consegnato entro mese 12 |
 | OS8 | Certificare compliance GDPR del sistema PII | Fase 2 | Fascicolo documentale validato da consulente specializzato |
@@ -203,7 +203,7 @@ Questa fase produce i design pattern, le specifiche di interazione e i criteri d
 
 #### Obiettivi Fase 2
 - Integrare i 4 moduli AI in architettura unificata
-- Validare il modello OHCA su dati 118 italiani
+- Validare il modello OHCA su dataset europei medicalizzati pubblici
 - Prototipare l'interfaccia AR su XREAL 1S
 - Attivare operativamente EMSy Events su GTC® (luglio 2027) e TORX® (settembre 2027)
 - Espandere a un secondo dominio clinico
