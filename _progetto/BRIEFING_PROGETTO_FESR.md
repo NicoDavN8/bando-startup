@@ -384,7 +384,7 @@ I 3 soci lavoreranno al progetto? Se sì, quante ore/settimana ciascuno dedica?
 **Scelta giustificata dal Piano di sviluppo:**
 - Neural Engine 38 TOPS: inference locale dei modelli ML (Modulo predittivo) e test LLM senza dipendenza da cloud
 - 24 GB RAM unificata: sufficiente per training XGBoost/Random Forest su dataset OHCA e sviluppo LangGraph
-- Training pesante (Modulo segnali — Deep Learning su ECG/EEG): su crediti cloud NVIDIA/AWS Activate già ricevuti → nessun costo hardware aggiuntivo per GPU enterprise
+- Inferenza LLM locale e training XGBoost su GPU server on-premise (già in budget FESR); crediti cloud NVIDIA/AWS Activate coprono eventuali picchi di compute
 - Forma laptop: necessario per presenza documentata in Valle d'Aosta (80% ore in sede VdA come richiesto dal bando)
 
 **Certificazioni ambientali:** Energy Star + ESPR Ecodesign → ammissibile per **premialità +5 punti** del bando
