@@ -403,7 +403,7 @@ La S3 promuove modelli di sviluppo economico compatibili con la fragilità dell'
 
 Come previsto dall'Art. 12 dell'Avviso, il Piano di sviluppo include un **assessment tecnologico obbligatorio** condotto da esperto esterno indipendente con almeno 5 anni di esperienza documentata in assessment tecnologico, gestione di startup innovative o incubatori nel settore AI o medicale.
 
-**Tempistica:** affidamento formale entro mese 6, assessment completato entro mese 12.
+**Tempistica:** affidamento formale entro mese 8, assessment completato entro mese 12.
 
 **Oggetto dell'assessment:**
 - Valutazione dell'architettura tecnica del sistema AI Data Expert
