@@ -170,11 +170,11 @@ Il margine copre variazioni di costo entro il **20% per voce per fase** senza ne
 |---|---|
 | **Costo totale progetto** | €80.000 |
 | **Contributo FESR (base 60%)** | €48.000 |
-| **Bonus startup registry L.R. 14/2011 (+10%)** | €4.800 |
-| **Contributo FESR totale (70%)** | **€52.800** |
-| **Cofinanziamento EMSy (30%)** | **€27.200** |
+| **Bonus startup registry L.R. 14/2011 (+10%)** | €8.000 |
+| **Contributo FESR totale (70%)** | **€56.000** |
+| **Cofinanziamento EMSy (30%)** | **€24.000** |
 | di cui coperto da finanziamento ponte | €24.000 |
-| di cui da risorse proprie | €3.200 |
+| di cui da risorse proprie | €0 |
 
 ---
 
