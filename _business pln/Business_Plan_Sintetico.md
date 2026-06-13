@@ -52,7 +52,7 @@ Funzionalità principali:
 ## 4. Prodotti e stato di sviluppo
 
 ### Prodotto A — EMSy Platform (in produzione)
-Piattaforma Web App (PWA — Progressive Web App, accessibile da browser mobile senza installazione da store) con:
+Piattaforma Web App (PWA — Progressive Web App, accessibile da browser mobile senza installazione) con:
 - AI Assistant (RAG — Retrieval-Augmented Generation, sistema che recupera documenti scientifici prima di rispondere — su Pinecone, multi-modello via OpenRouter)
 - AI Coach con quiz clinici adattativi
 - Calcolatori clinici e score validati (OHCA — Out-of-Hospital Cardiac Arrest, arresto cardiaco extraospedaliero; trauma, cardiovascolare)
