@@ -130,7 +130,7 @@ Questi sono importanti per il criterio "Capacità economico-finanziaria del prop
 ### Da Fare 🔴 URGENTE
 - [ ] **Verbale CdA con delega firma** (Simon firma domanda)
 - [ ] **Business Plan sintetico** (certezze attuali, NO proiezioni)
-  - Trazione: 400+ utenti, 50+ paesi, 1.000+ consultazioni/giorno
+  - Trazione: 800+ utenti, 50+ paesi, 2.000+ consultazioni/giorno
   - Partnership confermate con UTMB, Tor/Vda
   - Sovvenzioni ricevute (AWS, Nvidia)
 - [ ] **Piano di Sviluppo dettagliato** (12-24 mesi)
