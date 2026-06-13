@@ -138,7 +138,7 @@ Questa fase produce i design pattern, le specifiche di interazione e i criteri d
 #### Obiettivi Fase 1
 - Costruire le fondamenta del sistema ML (Modulo 2)
 - Sviluppare e testare il modulo EMSy Events in preparazione all'attivazione operativa (Fase 2)
-- Rilasciare l'app mobile su store ufficiali
+- Rilasciare la Web App accessibile da browser mobile
 
 #### Work Breakdown Structure — Fase 1
 
