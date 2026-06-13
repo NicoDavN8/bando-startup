@@ -253,15 +253,11 @@ Modulo letteratura — RAG       Modulo predittivo — ML su dati clinici
               ↘                    ↙
          Modulo di sintesi — LLM Reasoning
          (sintesi contestualizzata per il clinico)
-              ↗                    ↖
-Modulo segnali — Deep Learning
-(segnali grezzi: ECG, EEG)
 ```
 
 - **Modulo letteratura** (già attivo): RAG su Pinecone, risponde a domande cliniche con citazioni da letteratura peer-reviewed
 - **Modulo predittivo** (sviluppo Fase 1): XGBoost/Random Forest su dati tabulari Utstein; primo dominio OHCA (predizione esito neurologico CPC 1-2); dataset ROC Epistry v3 (120.000 casi); SHAP values per explainability clinica
-- **Modulo segnali** (sviluppo Fase 2): Deep Learning su segnali grezzi ECG/EEG per predizione efficacia defibrillazione e outcome neurologico post-arresto; GPU compute via NVIDIA/AWS Activate
-- **Modulo di sintesi** (integrazione Fase 2): LLM Reasoning che sintetizza output di tutti i moduli in un'unica risposta clinica contestualizzata e azionabile
+- **Modulo di sintesi** (integrazione Fase 2): LLM Reasoning che sintetizza output dei moduli in un'unica risposta clinica contestualizzata e azionabile
 
 Il sistema è **informativo ed educativo**: supporta il clinico con dati e letteratura, la decisione finale resta al professionista.
 
