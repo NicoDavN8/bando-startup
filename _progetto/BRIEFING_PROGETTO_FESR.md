@@ -125,7 +125,7 @@ Questi sono importanti per il criterio "Capacità economico-finanziaria del prop
 - [ ] CV dettagliati Simon, Nicolò, Damiano
 - [ ] Statuto/Atto costitutivo
 - [ ] Contratti con partner (UTMB, Tor/Vda)
-- [ ] Certificato iscrizione registro startup (L.R. 14/2011)
+- [ ] Certificato iscrizione registro startup innovative (D.L. 179/2012 art. 25)
 
 ### Da Fare 🔴 URGENTE
 - [ ] **Verbale CdA con delega firma** (Simon firma domanda)
