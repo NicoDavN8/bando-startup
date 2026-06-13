@@ -36,7 +36,7 @@ L'operatore sanitario preospedaliero (medico 118, infermiere, soccorritore) lavo
 Sul fronte della ricerca clinica, esiste un **gap specifico**: non sono disponibili modelli predittivi validati sul contesto preospedaliero medicalizzato europeo per scenari ad alta complessità come l'arresto cardiaco extraospedaliero (OHCA). I modelli predittivi esistenti non sono sviluppati né calibrati per il sistema EMS italiano.
 
 ### La soluzione
-EMSy è una **piattaforma SaaS acquistabile online**, progettata specificamente per i professionisti dell'emergenza preospedaliera. Offre un ambiente integrato di supporto alla formazione e all'aggiornamento continuo, accessibile da web e app mobile (iOS/Android) in qualsiasi momento — anche sul campo.
+EMSy è una **piattaforma SaaS acquistabile online**, progettata specificamente per i professionisti dell'emergenza preospedaliera. Offre un ambiente integrato di supporto alla formazione e all'aggiornamento continuo, accessibile da Web App in qualsiasi momento — anche sul campo.
 
 Il cuore della piattaforma è una **RAG proprietaria** (sistema di recupero e generazione aumentata) alimentata da letteratura scientifica medica aggiornata, linee guida ERC/ILCOR e protocolli operativi. La knowledge base si arricchisce continuamente con nuovi dati scientifici validati dal team medico interno.
 
