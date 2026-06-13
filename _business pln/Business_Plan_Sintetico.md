@@ -70,7 +70,7 @@ Sistema AI (Intelligenza Artificiale) multi-agente a moduli specializzati orches
 **Stato:** Modulo letteratura attivo. Moduli predittivo, segnali e sintesi da sviluppare nel Piano di sviluppo FESR.
 
 ### Prodotto C — EMSy Events (attivazione operativa nel Piano di sviluppo)
-App mobile + centrale operativa web per gestione sanitaria in tempo reale durante eventi sportivi in montagna.
+Web App + centrale operativa web per gestione sanitaria in tempo reale durante eventi sportivi in montagna.
 
 **Stato:** in fase di preparazione per attivazione operativa con partner contrattuale VDA Trailers su GTC® (luglio 2027) e TORX® with Kailas (settembre 2027).
 
