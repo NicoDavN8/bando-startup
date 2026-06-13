@@ -123,7 +123,7 @@ EMSy è uno strumento informativo ed educativo per professionisti sanitari. Non 
 
 EMSy adotta un modello freemium con livelli di accesso differenziati. L'infrastruttura è interamente cloud-based con costi variabili proporzionali alla crescita degli utenti. I costi fissi mensili attuali (infrastruttura + LLM) sono contenuti e coperti dall'operatività corrente.
 
-Il progetto FESR consente di accelerare lo sviluppo dell'AI Data Expert — il modulo a maggior valore aggiunto — senza compromettere la sostenibilità operativa della piattaforma esistente. Il contributo FESR atteso di **€52.800** (70% su €80.000) copre il 65% dei costi totali del Piano di sviluppo, con un cofinanziamento EMSy di €27.200 (30%) già pianificato.
+Il progetto FESR consente di accelerare lo sviluppo dell'AI Data Expert — il modulo a maggior valore aggiunto — senza compromettere la sostenibilità operativa della piattaforma esistente. Il contributo FESR atteso di **€56.000** (70% su €80.000) copre il 70% dei costi totali del Piano di sviluppo, con un cofinanziamento EMSy di €24.000 (30%) già pianificato.
 
 La sostenibilità finanziaria a lungo termine è supportata dalla crescita organica della base utenti e dall'espansione del modello SaaS a livello europeo, con il contributo FESR che accelera lo sviluppo dei moduli a maggior valore aggiunto senza impattare l'operatività corrente.
 
