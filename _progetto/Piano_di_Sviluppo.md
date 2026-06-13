@@ -293,7 +293,7 @@ Questa fase produce i design pattern, le specifiche di interazione e i criteri d
 | D1 | Modulo ML predittivo OHCA (Modulo predittivo) — MVP | 1 | AUC ≥ 0.75; SHAP su 100% predizioni |
 | D2 | EMSy Events attivo su GTC® e TORX® 2027 | 2 | Sistema live; dati su ≥500 atleti; report post-evento |
 | D3 | Web App EMSy accessibile da browser mobile | 1 | Web App live, ottimizzata per mobile, accessibile senza installazione |
-| D4 | Sistema AI Data Expert integrato (4 moduli) | 2 | Test su ≥100 casi clinici reali documentati |
+| D4 | Sistema AI Data Expert integrato (3 moduli) | 2 | Test su ≥100 casi clinici reali documentati |
 | D5 | Validazione clinica OHCA su dataset europei medicalizzati pubblici | 2 | AUC su dataset europeo; report di validazione |
 | D6 | Prototipo interfaccia AR su display XREAL 1S | 2 | Overlay clinico funzionante, architettura visiva documentata |
 | D7 | Assessment tecnologico esterno | 2 | Report consegnato entro mese 12 |
