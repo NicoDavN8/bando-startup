@@ -123,7 +123,7 @@ Questa fase produce i design pattern, le specifiche di interazione e i criteri d
 | AI Orchestrazione | LangChain + LangGraph | In produzione (da estendere) |
 | LLM routing | OpenRouter (multi-model) | In produzione |
 | ML service | Python FastAPI + XGBoost/PyTorch | Da sviluppare |
-| Web App | PWA (Progressive Web App — applicazione web fruibile da browser mobile senza necessità di app store) | Da sviluppare |
+| Web App | PWA (Progressive Web App — applicazione web fruibile da browser mobile senza installazione) | Da sviluppare |
 | AR interface | XREAL SDK + adattamento UI | Da sviluppare |
 | Cloud compute | AWS SageMaker + NVIDIA credits | Crediti disponibili |
 | Privacy/GDPR | OpenMed NER (Named Entity Recognition — riconoscimento automatico di entità sensibili nel testo) + pipeline PII (Personally Identifiable Information — dati personali identificabili) | In produzione |
