@@ -109,7 +109,7 @@ Il riconoscimento da parte di Amazon e NVIDIA attraverso i rispettivi programmi 
 ## 7. Tecnologia e innovazione
 
 **Stack tecnologico:**
-Next.js/TypeScript, PostgreSQL/Prisma, Pinecone (vector DB), LangChain/LangGraph, OpenRouter (multi-LLM), Python FastAPI, Capacitor (iOS/Android), AWS, Google Cloud.
+Next.js/TypeScript, PostgreSQL/Prisma, Pinecone (vector DB), LangChain/LangGraph, OpenRouter (multi-LLM), Python FastAPI, AWS, Google Cloud.
 
 **Compliance e sicurezza:**
 La piattaforma gestisce dati clinici sensibili con un sistema di anonimizzazione PII a 3 layer indipendenti già in produzione (regex medico-italiano + modello NER clinico OpenMed 66M parametri + system prompt GDPR), con tutta l'infrastruttura localizzata in regioni EU (Google Cloud `europe-west1`, Vercel EU). Nessun dato grezzo lascia l'Unione Europea.
