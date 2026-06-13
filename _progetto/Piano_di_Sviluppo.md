@@ -365,7 +365,7 @@ La S3 identifica nella digitalizzazione e nell'AI una leva strategica per valori
 
 **Come EMSy contribuisce:**
 - L'AI Data Expert è un sistema progettato esplicitamente per le criticità del contesto alpino: funziona con connettività ridotta o instabile, è ottimizzato per l'uso con i guanti, in condizioni meteo avverse, da parte di operatori sotto stress
-- Il sistema multi-agente integra intelligenza artificiale avanzata (LLM, ML predittivo, Deep Learning su segnali biomedici) in un contesto operativo — il soccorso in montagna — in cui nessun prodotto analogo esiste oggi sul mercato
+- Il sistema multi-agente integra intelligenza artificiale avanzata (LLM, ML predittivo) in un contesto operativo — il soccorso in montagna — in cui nessun prodotto analogo esiste oggi sul mercato
 - La prototipazione dell'interfaccia AR su display binoculare XREAL 1S introduce un paradigma di visualizzazione uomo-AI inedito per la medicina d'emergenza alpina, con design patterns trasferibili in futuro su dispositivi da campo per il soccorso alpino e speleologico valdostano (SAVALP)
 - Il sistema raccoglie e analizza dati clinici provenienti da interventi reali in ambiente montano, creando un patrimonio informativo unico per la ricerca applicata al territorio
 
