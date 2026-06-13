@@ -233,13 +233,6 @@ Questa fase produce i design pattern, le specifiche di interazione e i criteri d
 - Documentazione tecnica del prototipo e specifiche per futuro deployment su dispositivi da campo
 - *Responsabile:* Simon + Nicolò (coordinamento)
 
-**WP2.4 — Modulo 3: Deep Learning su segnali ECG/EEG (mesi 10-16)**
-- Accesso dataset I-CARE/PhysioNet (EEG post-ROSC, 607-1.020 casi)
-- Accesso dataset Cardially Brescia (ECG OHCA italiano, 260 casi)
-- Training modelli PyTorch su GPU (crediti NVIDIA/AWS SageMaker)
-- Integrazione come modulo aggiuntivo in LangGraph
-- *Responsabile:* Collaboratore Co.Co.Co + Simon
-
 **WP2.5 — Espansione secondo dominio clinico (mesi 14-18)**
 - Adattamento architettura ML a dataset STEMI o trauma preospedaliero
 - Identificazione e coinvolgimento ≥1 partner clinico validatore
