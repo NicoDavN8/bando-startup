@@ -211,7 +211,7 @@ Questa fase produce i design pattern, le specifiche di interazione e i criteri d
 **WP2.1 — Integrazione LangGraph multi-modulo (mesi 7-10)**
 - Sviluppo tool LangGraph: `query_dataset`, `predict_ohca`, `explain_prediction`, `generate_chart`
 - Aggiornamento classifier per routing automatico (domande analitiche vs. letteratura)
-- Integrazione Modulo 4 (LLM Reasoning): sintesi output ML + RAG in risposta unica
+- Integrazione Modulo 3 (LLM Reasoning): sintesi output ML + RAG in risposta unica
 - Test end-to-end sistema integrato su casi clinici documentati
 - *Responsabile:* Collaboratore Co.Co.Co + Simon
 
