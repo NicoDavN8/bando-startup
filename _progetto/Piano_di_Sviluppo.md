@@ -79,15 +79,15 @@ Il cuore del Piano di sviluppo è l'*AI Data Expert*, un sistema che integra tre
                    [LangGraph Orchestrator]
                     Analizza la domanda e
                     attiva i moduli pertinenti
-                   /          |          \
-                  /           |           \
-          MODULO 1        MODULO 2      MODULO 3
-          LLM + RAG       ML classico   Deep Learning
-          Letteratura     Dati OHCA     Segnali ECG/EEG
-          scientifica     tabulari
-                  \           |           /
-                   \          |          /
-                   [MODULO 4 — LLM Reasoning]
+                        /           \
+                       /             \
+               MODULO 1          MODULO 2
+               LLM + RAG         ML classico
+               Letteratura       Dati OHCA
+               scientifica       tabulari
+                        \           /
+                         \         /
+                   [MODULO 3 — LLM Reasoning]
                     Sintesi clinica contestualizzata
                     in linguaggio naturale
 ```
