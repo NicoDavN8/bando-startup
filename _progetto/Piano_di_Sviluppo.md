@@ -305,7 +305,7 @@ Questa fase produce i design pattern, le specifiche di interazione e i criteri d
 | D2 | EMSy Events attivo su GTC® e TORX® 2027 | 2 | Sistema live; dati su ≥500 atleti; report post-evento |
 | D3 | Web App EMSy accessibile da browser mobile | 1 | Web App live, ottimizzata per mobile, accessibile senza installazione |
 | D4 | Sistema AI Data Expert integrato (4 moduli) | 2 | Test su ≥100 casi clinici reali documentati |
-| D5 | Validazione clinica OHCA su dati 118 italiani | 2 | AUC su dataset europeo; report di validazione |
+| D5 | Validazione clinica OHCA su dataset europei medicalizzati pubblici | 2 | AUC su dataset europeo; report di validazione |
 | D6 | Prototipo interfaccia AR su display XREAL 1S | 2 | Overlay clinico funzionante, architettura visiva documentata |
 | D7 | Assessment tecnologico esterno | 2 | Report consegnato entro mese 12 |
 | D8 | Fascicolo GDPR validato | 2 | Audit completato; data retention policy formalizzata |
