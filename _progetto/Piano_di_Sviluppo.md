@@ -171,7 +171,7 @@ Questa fase produce i design pattern, le specifiche di interazione e i criteri d
 - Sviluppo e ottimizzazione interfaccia Web App (PWA) per browser mobile (iOS Safari, Android Chrome)
 - Ottimizzazione UX (User Experience — esperienza utente) per uso su smartphone in condizioni di campo
 - Test di compatibilità cross-browser e cross-device
-- Rilascio pubblico accessibile via URL senza necessità di installazione da store
+- Rilascio pubblico accessibile via URL senza necessità di installazione
 - *Responsabile:* Simon + Nicolò
 
 #### Milestone Fase 1
