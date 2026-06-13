@@ -239,7 +239,7 @@ La piattaforma principale già in produzione (400+ utenti, 50+ paesi, 1.000+ con
 
 Nel Piano di sviluppo: espansione della base di conoscenza, miglioramento dell'orchestrazione multi-modello, integrazione con il modulo AI Data Expert (Componente B).
 
-**Stack:** Next.js/TypeScript, PostgreSQL/Prisma, Pinecone (vector DB), LangChain/LangGraph, Python FastAPI, app mobile iOS/Android (Capacitor)
+**Stack:** Next.js/TypeScript, PostgreSQL/Prisma, Pinecone (vector DB), LangChain/LangGraph, Python FastAPI, Web App PWA (accessibile da browser mobile)
 
 ---
 
