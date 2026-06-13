@@ -245,7 +245,7 @@ Nel Piano di sviluppo: espansione della base di conoscenza, miglioramento dell'o
 
 #### Componente B — AI Data Expert: sistema AI multi-agente a moduli specializzati (sviluppo principale)
 
-Il cuore del Piano di sviluppo. Un'architettura originale che integra quattro moduli AI specializzati orchestrati da LangGraph, progettata per colmare un gap scientifico documentato: **nessun modello predittivo ML prehospitaliero esiste oggi validato su sistema EMS medicalizzato europeo**.
+Il cuore del Piano di sviluppo. Un'architettura originale che integra tre moduli AI specializzati orchestrati da LangGraph, progettata per colmare un gap scientifico documentato: **nessun modello predittivo ML prehospitaliero esiste oggi validato su sistema EMS medicalizzato europeo**.
 
 ```
 Modulo letteratura — RAG       Modulo predittivo — ML su dati clinici
