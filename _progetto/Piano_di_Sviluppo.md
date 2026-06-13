@@ -319,7 +319,7 @@ Questa fase produce i design pattern, le specifiche di interazione e i criteri d
 | Nome | Ruolo nel Piano | Ore/mese | Competenze specifiche |
 |------|----------------|----------|----------------------|
 | **Simon Grosjean** | Ideatore del progetto, sviluppo architettura AI, LangGraph, ML service, AR SDK | ~15 h/mese | Medico del 118, fullstack senior, Python ML, LangChain/LangGraph |
-| **Damiano Presciani** | Validazione clinica modelli, protocolli, dataset 118 | ~8 h/mese | Medico del 118, ideatore di EMSy Events, EMS medicalizzato, standard Utstein, OHCA |
+| **Damiano Presciani** | Validazione clinica modelli, protocolli operativi, standard Utstein | ~8 h/mese | Medico del 118, ideatore di EMSy Events, EMS medicalizzato, standard Utstein, OHCA |
 | **Nicolò Balzani** | Marketing, comunicazione, gestione operativa del progetto, referente societario FESR | ~4 h/mese | Coordinamento operativo, marketing, comunicazione, compliance |
 
 ### Collaboratore Co.Co.Co
