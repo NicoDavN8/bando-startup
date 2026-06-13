@@ -12,7 +12,7 @@
 
 **EMSy S.r.l.** è una startup innovativa con sede operativa in Valle d'Aosta, iscritta alla sezione speciale del registro delle imprese ai sensi della L.R. 14/2011. L'azienda sviluppa strumenti software basati su intelligenza artificiale per la medicina d'emergenza preospedaliera — un settore ad alta criticità in cui ogni decisione clinica può fare la differenza tra la vita e la morte.
 
-La piattaforma EMSy è già in produzione e conta oggi **oltre 400 utenti registrati in più di 50 paesi**, con **più di 1.000 consultazioni giornaliere** effettuate da medici di emergenza, infermieri del 118 e soccorritori professionali.
+La piattaforma EMSy è già in produzione e conta oggi **oltre 800 utenti registrati in più di 50 paesi**, con **più di 1.000 consultazioni giornaliere** effettuate da medici di emergenza, infermieri del 118 e soccorritori professionali.
 
 ---
 
