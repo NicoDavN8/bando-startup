@@ -1,7 +1,7 @@
 # Budget Progetto FESR — EMSy S.r.l.
 **Bando:** DGR 575/2025 — Sostegno alle startup innovative (Valle d'Aosta)  
 **Budget totale progetto:** €80.000 — Durata: 18 mesi  
-**Contributo atteso (70%):** €52.800 — Cofinanziamento EMSy (30%): €27.200
+**Contributo atteso (70%):** €56.000 — Cofinanziamento EMSy (30%): €24.000
 
 ---
 
