@@ -41,7 +41,7 @@ Il Presidente informa il Consiglio che la società intende presentare domanda di
 
 > **"Sistema AI multi-agente per il supporto informativo all'emergenza preospedaliera in ambiente montano"**
 
-per un costo totale di progetto pari a **€ 80.000,00** (ottantamila/00), con richiesta di contributo pubblico massimo pari a **€ 52.800,00** (cinquantaduemilaottocento/00), corrispondente al 70% delle spese ammissibili (60% base + 10% bonus iscrizione registro startup L.R. 14/2011), e cofinanziamento aziendale pari a **€ 27.200,00** (ventisettemiladuecento/00).
+per un costo totale di progetto pari a **€ 80.000,00** (ottantamila/00), con richiesta di contributo pubblico massimo pari a **€ 56.000,00** (cinquantaseimila/00), corrispondente al 70% delle spese ammissibili (60% base + 10% bonus iscrizione registro startup innovative ai sensi dell'art. 25 D.L. 179/2012, conv. L. 221/2012), e cofinanziamento aziendale pari a **€ 24.000,00** (ventiquattromila/00).
 
 La durata del progetto è di **18 mesi**, articolato in due fasi:
 - **Fase 1** (mesi 1–6): costo € 27.210,00
