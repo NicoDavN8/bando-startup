@@ -312,9 +312,9 @@ Go-live della piattaforma EMSy Events in contesto reale valdostano con partner c
 - **TORX® with Kailas** (11–20 settembre 2026) — gestione medica in tempo reale
 - **Metrica:** sistema attivo durante entrambi gli eventi; raccolta dati sanitari su ≥ 500 atleti partecipanti; report post-evento
 
-**D3 — App mobile EMSy: rilascio pubblico iOS e Android**
-Pubblicazione versione 1.0 certificata della app EMSy su App Store (Apple) e Google Play Store.
-- **Metrica:** app live su entrambi gli store ufficiali con ≥ 400 utenti registrati
+**D3 — Web App EMSy: rilascio pubblico accessibile da browser mobile**
+Pubblicazione versione 1.0 della Web App EMSy accessibile da browser senza installazione.
+- **Metrica:** Web App live su browser iOS e Android con ≥ 800 utenti registrati
 
 ---
 
