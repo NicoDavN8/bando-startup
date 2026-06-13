@@ -119,7 +119,7 @@ Questa fase produce i design pattern, le specifiche di interazione e i criteri d
 | Vector DB | Pinecone | In produzione |
 | AI Orchestrazione | LangChain + LangGraph | In produzione (da estendere) |
 | LLM routing | OpenRouter (multi-model) | In produzione |
-| ML service | Python FastAPI + XGBoost/PyTorch | Da sviluppare |
+| ML service | Python FastAPI + XGBoost | Da sviluppare |
 | Web App | PWA (Progressive Web App — applicazione web fruibile da browser mobile senza installazione) | Da sviluppare |
 | AR interface | XREAL SDK + adattamento UI | Da sviluppare |
 | Cloud compute | AWS SageMaker + NVIDIA credits | Crediti disponibili |
