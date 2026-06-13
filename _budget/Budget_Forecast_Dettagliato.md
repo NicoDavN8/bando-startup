@@ -10,8 +10,8 @@
 | | Fase 1 (mesi 1–6) | Fase 2 (mesi 7–18) | TOTALE |
 |---|---|---|---|
 | **Costo progetto** | €27.210 | €52.790 | **€80.000** |
-| **Contributo FESR (70%)** | €19.047 | €36.953 | **€52.800** (arrotondato) |
-| **Cofinanziamento EMSy (30%)** | €8.163 | €15.837 | **€27.200** |
+| **Contributo FESR (70%)** | €19.047 | €36.953 | **€56.000** |
+| **Cofinanziamento EMSy (30%)** | €8.163 | €15.837 | **€24.000** |
 
 ---
 
