@@ -99,7 +99,7 @@ La piattaforma è già presente in **50+ paesi** a meno di 2 anni dal lancio, co
 
 ### Sovvenzioni e programmi startup internazionali (già ricevute)
 - **Amazon AWS Activate** — crediti cloud per sviluppo AI (SageMaker, Lambda, S3)
-- **NVIDIA Startup Program** — crediti GPU per training modelli Deep Learning
+- **NVIDIA Startup Program** — crediti GPU per inferenza e training modelli ML/LLM
 
 Il riconoscimento da parte di Amazon e NVIDIA attraverso i rispettivi programmi startup valida la qualità tecnologica del progetto a livello internazionale.
 
