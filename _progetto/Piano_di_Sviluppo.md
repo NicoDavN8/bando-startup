@@ -277,7 +277,7 @@ Questa fase produce i design pattern, le specifiche di interazione e i criteri d
 | Voce | Importo |
 |------|---------|
 | Co.Co.Co (€1.800 × 12 mesi) | €21.600 |
-| Prestazioni soci (67% del totale) | €10.680 |
+| Prestazioni soci | €10.680 |
 | Spese generali (15% × €21.600) | €3.240 |
 | Software / Licenze LLM (€800 × 12 mesi) | €9.600 |
 | Assessment tecnologico | €4.500 |
