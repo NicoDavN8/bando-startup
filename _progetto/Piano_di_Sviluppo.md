@@ -218,9 +218,9 @@ Questa fase produce i design pattern, le specifiche di interazione e i criteri d
 - Test end-to-end sistema integrato su casi clinici documentati
 - *Responsabile:* Collaboratore Co.Co.Co + Simon
 
-**WP2.2 — Validazione clinica modello OHCA su dati proprietari (mesi 8-12)**
-- Accesso e preparazione dataset proprietario di Damiano (centinaia di casi reali da attività clinica personale, sistema EMS europeo medicalizzato — non dataset istituzionale 118)
-- External validation modello OHCA: calcolo AUC su dati italiani
+**WP2.2 — Validazione clinica modello OHCA su dataset europei pubblici (mesi 8-12)**
+- External validation modello OHCA su holdout set ROC Epistry v3 e dataset secondari (WACAR Mendeley, 814 casi; DCAPS Korea, 36k casi)
+- Calcolo AUC su dataset europei medicalizzati
 - Calibrazione modello e implementazione guardrail (confidence intervals — intervalli di confidenza, warning campioni piccoli, k-anonymity)
 - Confronto performance vs. score clinici esistenti
 - Produzione report di validazione clinica
