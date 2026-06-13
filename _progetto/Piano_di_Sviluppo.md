@@ -239,7 +239,7 @@ Questa fase produce i design pattern, le specifiche di interazione e i criteri d
 - Primo modello funzionante su secondo dominio
 - *Responsabile:* Damiano + Collaboratore Co.Co.Co
 
-**WP2.8 — EMSy Events: attivazione operativa GTC® e TORX® 2027 (mesi 7-11)**
+**WP2.5 — EMSy Events: attivazione operativa GTC® e TORX® 2027 (mesi 7-11)**
 - Coordinamento finale con VDA Trailers per GTC® (luglio 2027) e TORX® with Kailas (settembre 2027)
 - Attivazione sistema Events in condizioni reali di gara
 - Raccolta dati sanitari de-identificati per validazione sistema
