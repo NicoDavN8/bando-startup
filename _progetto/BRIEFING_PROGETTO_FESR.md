@@ -232,7 +232,7 @@ EMSy S.r.l. sviluppa una **piattaforma software AI per la medicina d'emergenza p
 
 #### Componente A — EMSy Platform: AI Assistant e strumenti clinici
 
-La piattaforma principale già in produzione (400+ utenti, 50+ paesi, 1.000+ consultazioni/giorno) integra:
+La piattaforma principale già in produzione (800+ utenti, 50+ paesi, 2.000+ consultazioni/giorno) integra:
 - **AI Assistant** con architettura RAG (Retrieval-Augmented Generation) su base di conoscenza medica specializzata: linee guida ERC/ILCOR/AHA, protocolli 118, farmaci EMA/FDA, letteratura PubMed. Il sistema è multi-modello (OpenRouter: Anthropic Claude, Google Gemini, Meta Llama) con orchestrazione LangChain/LangGraph.
 - **Calcolatori clinici** validati da medici per uso sul campo (MGAP, HEART Score, NEXUS, APGAR, dosaggi farmaci critici)
 - **EMSy Arena** — ambiente di simulazione e formazione per operatori del soccorso
