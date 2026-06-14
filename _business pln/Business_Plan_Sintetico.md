@@ -92,8 +92,6 @@ La piattaforma è già presente in **50+ paesi** a meno di 2 anni dal lancio, co
 ### Partner contrattuali (contratti firmati)
 - **UTMB Italia** — partner per validazione clinica della piattaforma in contesti di medicina d'emergenza ad alta complessità (trail running in alta quota, condizioni estreme)
 - **VDA Trailers** — partner per attivazione operativa di EMSy Events su Gran Trail Courmayeur GTC® e TORX® with Kailas 2027, entrambi eventi valdostani di rilevanza internazionale con Piano Sanitario approvato dall'AUSL Valle d'Aosta
-- **Dott. Luca Carenzo** — Anestesista-rianimatore, esperto in medicina d'emergenza ed elisoccorso (HEMS — Helicopter Emergency Medical Services). Validatore clinico esterno indipendente: testerà la piattaforma in contesti reali durante eventi e manifestazioni, con possibilità di produrre pubblicazioni scientifiche o presentazioni a convegni medici sull'efficacia del sistema
-
 ### Collaborazioni operative in Valle d'Aosta
 - **Valpelline** — collaborazione con i volontari del soccorso locale, documentata da rapporto economico formale. Testimonianza diretta del radicamento operativo sul territorio valdostano.
 
