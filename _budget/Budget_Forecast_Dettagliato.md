@@ -25,9 +25,9 @@
 | Prestazioni soci (UCS) | €5.320 | €10.680 | €16.000 |
 | Spese generali (15%) | €1.620 | €3.240 | €4.860 |
 | Hardware (quota ammortamento) | €3.275 | €0 | €3.275 |
-| Software / Licenze LLM | €4.800 | €9.600 | €14.400 |
+| Software / Licenze LLM | €6.195 | €9.600 | €15.795 |
 | Assessment tecnologico | €0 | €4.500 | €4.500 |
-| Margine di riserva | €1.395 | €3.170 | €4.565 |
+| Consulenze specialistiche | €0 | €3.170 | €3.170 |
 | **TOTALE** | **€27.210** | **€52.790** | **€80.000** |
 
 ---
