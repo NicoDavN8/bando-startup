@@ -63,10 +63,10 @@ Questi sono importanti per il criterio "Capacità economico-finanziaria del prop
 | **Co.Co.Co sviluppatore AI** | €32.400 | Collaboratore a progetto per sviluppo sistema AI multi-agente, microservizi ML e integrazione LangGraph. ~13 ore/settimana per 18 mesi a €1.800/mese lordi. |
 | **Prestazioni soci** | €16.000 | Ore lavoro dei 3 fondatori rendicontate al tasso fisso UCS €33/ora: Simon (sviluppo, 55%), Damiano (validazione clinica, 30%), Nicolò (progettazione, 15%). |
 | **Spese generali** | €4.860 | Quota forfettaria 15% sui costi del collaboratore. Copre commercialista, utenze, amministrazione e rendicontazione FESR. Nessuna fattura richiesta. |
-| **Hardware** | €1.500 | Quota ammortamento (18/60) su MacBook Pro 16" M4 Pro (sviluppo AI) e RealWear Navigator 520 (prototipazione interfaccia AR per operatori del soccorso). |
-| **Software / Licenze LLM** | €14.400 | Abbonamenti mensili per infrastruttura e modelli AI: database Neon, deployment Vercel, API LLM (OpenRouter, AWS Bedrock, Claude), servizi cloud accessori. |
+| **Hardware** | €3.275 | Quota ammortamento (18/60) su Server GPU dedicato per inferenza LLM on-premise h24 (€10.000) e 2× display AR binoculare XREAL 1S per prototipazione interfaccia clinica in AR (€918). |
+| **Software / Licenze LLM** | €15.795 | Abbonamenti mensili per infrastruttura e modelli AI: database Neon, deployment Vercel, API LLM (OpenRouter, AWS Bedrock, Claude), servizi cloud accessori. Include €1.395 buffer Fase 1 per variabilità prezzi cloud. |
 | **Assessment tecnologico** | €4.500 | Valutazione indipendente obbligatoria da esperto esterno con ≥5 anni di esperienza, entro il mese 12 del progetto. |
-| **Margine di riserva** | €6.340 | Quota non pre-allocata per imprevisti, gestibile entro il 20% di scostamento per voce senza autorizzazione regionale. Da formalizzare con commercialista per la voce ammessa nel formulario SISPREG2014. |
+| **Consulenze specialistiche** | €3.170 | Validazione clinica indipendente (~€1.500), spese legali per certificazioni europee (~€1.000), test prodotto con operatori durante eventi/esercitazioni (~€670) — tutte in Fase 2. |
 | **TOTALE** | **€80.000** | |
 
 ### Prestazioni soci — al massimale (UCS €33/ora, tetto €16.000)
