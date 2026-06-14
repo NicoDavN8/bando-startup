@@ -21,7 +21,9 @@ consapevole delle responsabilità penali previste dall'art. 76 del D.P.R. 445/20
 
 ## DICHIARA
 
-che il Piano di sviluppo presentato nell'ambito del bando DGR 575/2025 prevede l'acquisto delle seguenti attrezzature tecnologiche nuove di fabbrica:
+che la società EMSy S.r.l. **non è in possesso** di certificazioni del sistema di gestione ambientale (EMAS, ISO 14001, ISO 14064, OEF) di cui all'art. 9, comma 2, lettera a) dell'Avviso, e pertanto rende la presente dichiarazione ai sensi dell'art. 9, comma 2, lettera b) dello stesso Avviso;
+
+e che il Piano di sviluppo presentato nell'ambito del bando DGR 575/2025 prevede l'acquisto delle seguenti attrezzature tecnologiche nuove di fabbrica:
 
 | Attrezzatura | Utilizzo nel Piano |
 |---|---|
