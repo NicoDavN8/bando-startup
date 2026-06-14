@@ -135,23 +135,16 @@ Copertura forfettaria: commercialista, rendicontazione FESR, utenze, amministraz
 
 ---
 
-## 9. Margine di Riserva
+## 9. Consulenze Specialistiche
 
-| | Fase 1 | Fase 2 | Totale |
-|---|---|---|---|
-| Margine di riserva | €1.395 | €3.170 | **€4.565** |
+| Voce | Fase | Importo |
+|------|------|---------|
+| Validazione clinica indipendente (esperto esterno medicina d'emergenza) | Fase 2 | ~€1.500 |
+| Spese legali per certificazioni europee applicabili (MDR, cybersec) | Fase 2 | ~€1.000 |
+| Test prodotto con operatori durante eventi/esercitazioni | Fase 2 | ~€670 |
+| **Totale Consulenze specialistiche** | **Fase 2** | **€3.170** |
 
-Il margine copre variazioni di costo entro il **20% per voce per fase** senza necessità di autorizzazione preventiva (Art. 10, comma 7 dell'Avviso). Da formalizzare con il commercialista per l'allocazione nella categoria ammessa del formulario SISPREG2014.
-
-### Destinazione prevista del margine di riserva
-
-| Voce | Fase | Importo stimato |
-|------|------|----------------|
-| Buffer per variazioni costi hardware/software Fase 1 | Fase 1 | €1.395 |
-| Spese legali per certificazioni europee applicabili | Fase 2 | ~€1.000 |
-| Consulenza Dott. Luca Carenzo (validazione clinica indipendente) | Fase 2 | ~€1.500 |
-| Spese di ricerca medica — test prodotto con operatori durante eventi | Fase 2 | ~€670 |
-| **Totale** | | **€4.565** |
+Tutte le consulenze sono imputate a Fase 2, dove si concentrano le attività di validazione e scaling. Importi soggetti a conferma preventivi — entro il ±20% per voce non è richiesta autorizzazione preventiva (Art. 10 Avviso).
 
 ---
 
