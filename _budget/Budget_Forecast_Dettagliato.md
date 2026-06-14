@@ -112,8 +112,12 @@ Copertura forfettaria: commercialista, rendicontazione FESR, utenze, amministraz
 | Google & servizi minori | Vari SaaS | €5 | €30 | €60 | €90 |
 | Margine crescita (+10%) | Buffer | €75 | €450 | €900 | €1.350 |
 | **Totale mensile stimato** | | **€800** | **€4.800** | **€9.600** | **€14.400** |
+| Buffer variabilità cloud (+€1.395 Fase 1) | Contingenza | — | **€1.395** | — | **€1.395** |
+| **Totale Software/Licenze** | | | **€6.195** | **€9.600** | **€15.795** |
 
 > Nota: i crediti AWS Activate e NVIDIA già ricevuti coprono parte dei costi nella fase iniziale, riducendo l'esborso effettivo nei primi mesi. Il budget è calcolato in scenario conservativo (crediti esauriti).
+
+> Il buffer di €1.395 in Fase 1 copre la variabilità dei prezzi cloud (AWS Bedrock, OpenRouter), soggetti a repricing trimestrale, senza necessità di autorizzazione preventiva (±20% per voce, Art. 10 Avviso).
 
 > Neon e Vercel sono al 100% imputabili al progetto: EMSy è un'azienda mono-prodotto e tali servizi supportano esclusivamente la piattaforma oggetto del Piano di sviluppo.
 
