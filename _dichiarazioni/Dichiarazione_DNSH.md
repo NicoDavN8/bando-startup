@@ -36,7 +36,7 @@ e che tali attrezzature, al momento dell'acquisto, rispetteranno i seguenti requ
 Le attrezzature non conterranno sostanze vietate elencate nell'Allegato II della Direttiva 2011/65/UE (RoHS 2) e successive modificazioni.
 
 **b) Efficienza energetica e conformità Ecodesign**
-Le attrezzature sono conformi agli standard di efficienza energetica e alle normative comunitarie Ecodesign applicabili, in particolare:
+Le attrezzature e le relative procedure di gestione sono in linea con gli standard più aggiornati in termini di efficienza energetica e conformi alle normative comunitarie e nazionali, inclusa la Direttiva Ecodesign (2009/125/CE) e i relativi regolamenti attuativi, in particolare:
 - Reg. (UE) n. 617/2013 (computers and computer servers)
 - Reg. (UE) n. 2019/2021 (electronic displays)
 - Reg. (UE) n. 2019/424 (servers and data storage products)
