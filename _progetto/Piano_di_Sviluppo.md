@@ -330,8 +330,8 @@ Sviluppatore AI junior (profilo studente universitario, nessun altro impiego), i
 | Dataset ROC Epistry v3 non disponibile nei tempi | Media | Alto | Dataset WACAR (Mendeley, 814 casi) e DCAPS Korea (36k) già scaricabili come alternativa per avvio training |
 | AUC < 0.75 al primo training | Media | Medio | Feature engineering iterativo; possibilità di abbassare soglia a 0.70 con motivazione clinica; Damiano disponibile per revisione variabili |
 | Difficoltà integrazione SDK XREAL | Bassa | Medio | SDK ben documentato; fallback su WebXR browser-based come alternativa |
-| Scostamento costi LLM oltre budget | Bassa | Basso | Crediti AWS Activate e NVIDIA coprono i picchi iniziali; server GPU on-premise riduce dipendenza da API cloud; margine di riserva €4.565 disponibile |
-| Mancata disponibilità Dott. Carenzo per test | Bassa | Medio | Identificare in anticipo un secondo profilo clinico alternativo di pari livello |
+| Scostamento costi LLM oltre budget | Bassa | Basso | Crediti AWS Activate e NVIDIA coprono i picchi iniziali; server GPU on-premise riduce dipendenza da API cloud; buffer €1.395 in voce Software/Licenze Fase 1 disponibile |
+| Mancata disponibilità esperto clinico per validazione | Bassa | Medio | Identificare in anticipo un secondo profilo clinico alternativo di pari livello |
 | Indisponibilità dataset secondari per validazione | Bassa | Medio | Dataset WACAR (Mendeley) e DCAPS Korea già scaricabili come alternativa; holdout ROC Epistry v3 garantisce validazione minima |
 
 ---
