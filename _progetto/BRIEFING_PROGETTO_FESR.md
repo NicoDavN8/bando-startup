@@ -417,12 +417,12 @@ La piattaforma EMSy utilizza un'architettura multi-modello che richiede accesso 
 | Margine +10% | Buffer crescita utenti/costi | €73 |
 | **Totale mensile stimato** | | **€800/mese** |
 
-**Totale 18 mesi: €14.400**
+**Totale 18 mesi: €14.400 (base) + €1.395 buffer variabilità cloud Fase 1 = €15.795**
 
 Note:
 - Neon e Vercel coprono al 100% la piattaforma EMSy (unico prodotto aziendale) → 100% imputabile al progetto
 - I crediti AWS Activate e NVIDIA già ricevuti coprono parte dei costi LLM nella fase iniziale, riducendo l'esborso reale dei primi mesi
-- Il budget allocato è €21.240 — margine residuo di €6.840 (~32%) per picchi di utilizzo o nuovi servizi AI nel corso del Piano
+- Il buffer di €1.395 in Fase 1 copre la variabilità dei prezzi cloud (AWS Bedrock, OpenRouter), senza necessità di autorizzazione preventiva (±20% per voce, Art. 10 Avviso)
 
 ---
 
