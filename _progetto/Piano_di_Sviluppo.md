@@ -222,8 +222,8 @@ Questa fase produce i design pattern, le specifiche di interazione e i criteri d
 - Confronto performance vs. score clinici esistenti
 - Produzione report di validazione clinica
 - Test di usabilità della piattaforma EMSy con operatori sanitari durante eventi e manifestazioni sportive in montagna (non deployment istituzionale 118 per motivi burocratici)
-- Coinvolgimento Dott. Luca Carenzo per validazione clinica indipendente
-- *Responsabile:* Damiano (Medical Director) + Dott. Carenzo (validatore esterno) + Collaboratore Co.Co.Co
+- Coinvolgimento di esperto esterno per validazione clinica indipendente
+- *Responsabile:* Damiano (Medical Director) + esperto clinico esterno (validatore) + Collaboratore Co.Co.Co
 
 **WP2.3 — Prototipo interfaccia AR su XREAL 1S (mesi 9-14)**
 - Setup XREAL 1S e ambiente di sviluppo AR (XREAL SDK)
