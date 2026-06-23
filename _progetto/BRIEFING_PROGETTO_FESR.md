@@ -366,33 +366,28 @@ I 3 soci lavoreranno al progetto? Se sì, quante ore/settimana ciascuno dedica?
 
 ---
 
-### 4️⃣ HARDWARE — GPU e specifiche tecniche
+### 4️⃣ HARDWARE — Server GPU e specifiche tecniche
 
 **Risposta:**
 
-**MacBook Pro 16" — Apple M4 Pro**
+**Server GPU dedicato + Display AR binoculare XREAL 1S**
 
-| Specifica | Dettaglio |
-|-----------|-----------|
-| CPU | Apple M4 Pro — 14 core (10 performance + 4 efficiency) |
-| GPU | Apple M4 Pro — 20-core GPU integrata |
-| Neural Engine | 38 TOPS — inference locale LLM e modelli ML |
-| RAM | 24 GB memoria unificata (CPU+GPU condivisa) |
-| Storage | 512 GB SSD NVMe |
-| **Prezzo acquisto** | **~€3.200** |
+| Dispositivo | Dettaglio | Prezzo acquisto |
+|-------------|-----------|-----------------|
+| Server GPU dedicato | Schede video per inferenza LLM on-premise h24, training modelli ML | €10.000 |
+| 2× Display AR binoculare XREAL 1S | Micro-OLED, 1920×1200/occhio, 52° FoV — prototipazione interfaccia clinica in AR | €918 |
+| **Totale** | | **€10.918** |
 
 **Scelta giustificata dal Piano di sviluppo:**
-- Neural Engine 38 TOPS: inference locale dei modelli ML (Modulo predittivo) e test LLM senza dipendenza da cloud
-- 24 GB RAM unificata: sufficiente per training XGBoost/Random Forest su dataset OHCA e sviluppo LangGraph
-- Inferenza LLM locale e training XGBoost su GPU server on-premise (già in budget FESR); crediti cloud NVIDIA/AWS Activate coprono eventuali picchi di compute
-- Forma laptop: necessario per presenza documentata in Valle d'Aosta (80% ore in sede VdA come richiesto dal bando)
+- Server GPU on-premise: inferenza LLM locale h24 e training XGBoost/Random Forest su dataset OHCA, riducendo la dipendenza da API cloud esterne e i costi operativi a lungo termine
+- XREAL 1S: prototipazione dell'architettura visiva dell'interfaccia clinica in realtà aumentata (WP2.3), base per il futuro deployment su dispositivi da campo
 
-**Certificazioni ambientali:** nella selezione del fornitore si darà priorità a modelli certificati Ecodesign ESPR, ove disponibili → criterio per **premialità +5 punti** del bando; certificazione specifica definita solo al momento dell'acquisto
+**Certificazioni ambientali:** nella selezione del fornitore del Server GPU si darà priorità a modelli certificati Ecodesign ESPR, ove disponibili → criterio per **premialità +5 punti** del bando; certificazione specifica definita solo al momento dell'acquisto. XREAL 1S: certificato CE/RoHS.
 
 **Calcolo ammortamento bando:**
-- Prezzo: €3.200
-- Quota ammessa (18 mesi su 60): €3.200 × 18/60 = **€960**
-- Voce hardware nel budget: €1.000 (scostamento -4% → nessuna autorizzazione richiesta)
+- Prezzo totale: €10.918
+- Quota ammessa (18 mesi su 60): €10.918 × 18/60 = **€3.275**
+- Voce hardware nel budget: €3.275 (coincide esattamente)
 
 ---
 
