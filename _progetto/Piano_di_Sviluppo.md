@@ -344,10 +344,10 @@ Sistema di anonimizzazione PII già in produzione con architettura a 3 layer ind
 EMSy è classificato come strumento informativo ed educativo per professionisti sanitari. Rischio limitato (Art. 50): obbligo di trasparenza verso l'utente che il sistema è AI-assistito. Già rispettato nell'interfaccia corrente.
 
 ### DNSH — Do No Significant Harm
-Il progetto è software-first: nessuna produzione manifatturiera, nessuna emissione diretta. Hardware acquistato da fornitori certificati RoHS (Direttiva 2011/65/UE) e WEEE (Direttiva 2012/19/UE). Il Server GPU dedicato è certificato Energy Star e conforme agli standard Ecodesign (ESPR); il display XREAL 1S è certificato CE e RoHS.
+Il progetto è software-first: nessuna produzione manifatturiera, nessuna emissione diretta. Le attrezzature da acquistare rispetteranno i requisiti RoHS (Direttiva 2011/65/UE), Ecodesign (Reg. UE 617/2013 e Reg. UE 2019/424) e WEEE (Direttiva 2012/19/UE), come dichiarato nella Dichiarazione sostitutiva DNSH (Art. 9 dell'Avviso).
 
 ### ESPR — Ecodesign for Sustainable Products (Reg. UE 2024/1781)
-L'hardware acquistato nel Piano è certificato Ecodesign, condizione per l'ottenimento della **premialità +5 punti** prevista dal bando.
+Nella selezione del fornitore del Server GPU, EMSy darà priorità a modelli certificati secondo i principi ESPR (Reg. UE 2024/1781), ove disponibili sul mercato al momento dell'acquisto, come criterio di scelta per l'ottenimento della **premialità +5 punti** prevista dal bando. La certificazione specifica del prodotto sarà definita solo in fase di acquisto, successiva alla selezione del fornitore.
 
 ---
 
