@@ -36,13 +36,11 @@ e che tali attrezzature, al momento dell'acquisto, rispetteranno i seguenti requ
 Le attrezzature non conterranno sostanze vietate elencate nell'Allegato II della Direttiva 2011/65/UE (RoHS 2) e successive modificazioni.
 
 **b) Efficienza energetica e conformità Ecodesign**
-Le attrezzature e le relative procedure di gestione sono in linea con gli standard più aggiornati in termini di efficienza energetica e conformi alle normative comunitarie e nazionali, inclusa la Direttiva Ecodesign (2009/125/CE) e i relativi regolamenti attuativi, in particolare:
-- Reg. (UE) n. 617/2013 (computers and computer servers)
-- Reg. (UE) n. 2019/2021 (electronic displays)
-- Reg. (UE) n. 2019/424 (servers and data storage products)
-- Reg. (UE) 2024/1781 (ESPR — Ecodesign for Sustainable Products)
+Le attrezzature e le relative procedure di gestione sono in linea con gli standard più aggiornati in termini di efficienza energetica e conformi alle normative comunitarie e nazionali, inclusa la Direttiva Ecodesign (2009/125/CE) e i relativi regolamenti attuativi, in particolare il Reg. (UE) n. 617/2013 (computers and computer servers) e il Reg. (UE) 2019/424 (servers and data storage products).
 
-Il Server GPU dedicato è certificato **Energy Star** e conforme agli standard **ESPR (Reg. UE 2024/1781)**; il display XREAL 1S è certificato **CE e RoHS**.
+Il server sarà selezionato tra modelli certificati **Energy Star** e conformi ai regolamenti Ecodesign sopra richiamati applicabili ai server; il display XREAL 1S è dotato di marcatura **CE** e conforme alla Direttiva **RoHS**.
+
+> *Nota: la certificazione specifica ESPR (Reg. UE 2024/1781) non è qui dichiarata in modo vincolante, in quanto il prodotto definitivo non è ancora stato selezionato. La priorità a fornitori ESPR-compliant è indicata come criterio di selezione nel Piano di sviluppo, ai fini della premialità +5 punti.*
 
 **c) Gestione a fine vita (WEEE)**
 Sono previste procedure, a fine vita delle attrezzature, per la preparazione al riuso, al recupero, al riciclo e all'adeguato trattamento in conformità all'Allegato VII della Direttiva 2012/19/UE (WEEE) e alla normativa nazionale di recepimento.
