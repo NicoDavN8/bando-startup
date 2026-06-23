@@ -404,12 +404,12 @@ La piattaforma EMSy utilizza un'architettura multi-modello che richiede accesso 
 | Servizio | Tipologia | €/mese stimato |
 |---|---|---|
 | NEON (PostgreSQL hosted) | Database cloud | €100 |
-| OpenRouter (routing multi-LLM) | API LLM — Anthropic, Meta, Mistral, ecc. | €33 |
 | Vercel (deployment + edge) | Hosting/CDN | €40 |
+| OpenRouter (routing multi-LLM) | API LLM — Anthropic, Meta, Mistral, ecc. | €30 |
 | AWS Bedrock (LLM compute) | API LLM — scadenza crediti AWS Activate | €450 |
 | Claude Max aziendale (Anthropic) | Piano AI aziendale sviluppo | €100 |
 | Google & servizi minori | Misc. SaaS | €5 |
-| Margine +10% | Buffer crescita utenti/costi | €73 |
+| Margine crescita (+10%) | Buffer crescita utenti/costi | €75 |
 | **Totale mensile stimato** | | **€800/mese** |
 
 **Totale 18 mesi: €14.400 (base) + €1.395 buffer variabilità cloud Fase 1 = €15.795**
