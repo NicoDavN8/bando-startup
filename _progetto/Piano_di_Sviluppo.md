@@ -392,7 +392,7 @@ La S3 promuove modelli di sviluppo economico compatibili con la fragilità dell'
 **Come EMSy contribuisce:**
 - Il modello di business è interamente **software-first e cloud-based**: nessuna produzione manifatturiera, nessuna supply chain fisica, zero emissioni operative dirette legate allo sviluppo del prodotto
 - L'infrastruttura cloud (Vercel EU, Neon, AWS) è ospitata in data center con certificazioni di efficienza energetica, localizzati in regioni EU con mix energetico a basse emissioni
-- L'hardware acquistato nel Piano (Server GPU dedicato, XREAL 1S) è conforme agli standard **RoHS/WEEE**; il Server GPU è certificato **Energy Star** e **Ecodesign (ESPR, Reg. UE 2024/1781)** — condizione per l'ottenimento della premialità +5 punti prevista dal bando
+- L'hardware acquistato nel Piano (Server GPU dedicato, XREAL 1S) rispetterà gli standard **RoHS/WEEE**; nella selezione del fornitore del Server GPU si darà priorità a modelli certificati **Ecodesign (ESPR, Reg. UE 2024/1781)**, ove disponibili — criterio di scelta per l'ottenimento della premialità +5 punti prevista dal bando
 - La piattaforma distribuisce conoscenza clinica in modalità digitale, eliminando la necessità di spostamenti fisici per la formazione continua degli operatori del soccorso (ECM digitale), con ricaduta diretta sulla riduzione delle emissioni legate alla mobilità formativa
 - Il sistema di anonimizzazione PII a 3 layer garantisce che nessun dato sanitario grezzo lasci l'Unione Europea, in linea con i principi di sovranità digitale europea promossi dalla strategia GAIA-X
 
