@@ -308,8 +308,8 @@ Sviluppo del modulo di machine learning predittivo su dati clinici strutturati, 
 
 **D2 — EMSy Events: attivazione operativa su eventi VDA 2027**
 Go-live della piattaforma EMSy Events in contesto reale valdostano con partner contrattuale VDA Trailers:
-- **Gran Trail Courmayeur GTC®** (10–12 luglio 2027) — gestione medica in tempo reale
-- **TORX® with Kailas** (11–20 settembre 2027) — gestione medica in tempo reale
+- **Gran Trail Courmayeur GTC®** (luglio 2027, date esatte non ancora ufficiali — atteso nelle settimane corrispondenti all'edizione 2026) — gestione medica in tempo reale
+- **TORX® with Kailas** (settembre 2027, date esatte non ancora ufficiali — atteso nelle settimane corrispondenti all'edizione 2026) — gestione medica in tempo reale
 - **Metrica:** sistema attivo durante entrambi gli eventi; raccolta dati sanitari su ≥ 500 atleti partecipanti; report post-evento
 
 **D3 — Web App EMSy: rilascio pubblico accessibile da browser mobile**
