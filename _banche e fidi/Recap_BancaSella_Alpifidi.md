@@ -58,7 +58,7 @@ La banca richiede una **fideiussione personale** da tutti i soci come garanzia. 
 
 - [ ] **Dichiarazioni dei redditi** di tutti i soci
 - [ ] **Preventivi di spesa** — la banca li chiede esplicitamente
-- [ ] **Business Plan sintetico** — no proiezioni, solo certezze attuali: cosa abbiamo fatto, chi sono le controparti importanti (UTMB, TorX, Valpelline, ArRC), risultati raggiunti (400+ utenti, 50+ paesi, 1.000+ consultazioni/giorno), **reputation**
+- [ ] **Business Plan sintetico** — no proiezioni, solo certezze attuali: cosa abbiamo fatto, chi sono le controparti importanti (UTMB, TorX, Valpelline, ArRC), risultati raggiunti (800+ utenti, 50+ paesi, 2.000+ consultazioni/giorno), **reputation**
 - [ ] **Visione futura** — come vediamo lo sviluppo aziendale e dove pensiamo di essere nei prossimi anni (sezione dedicata nel BP)
 - [ ] **Descrizione progetto bando** — cosa ci servono i soldi, quante persone coinvolte, impatto sul territorio VdA
 - [ ] **Relazione sull'impresa** — chi siamo, il nostro CDA, come siamo arrivati a questo progetto
