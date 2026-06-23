@@ -306,10 +306,10 @@ Sviluppo del modulo di machine learning predittivo su dati clinici strutturati, 
 - Microservizio Python FastAPI con endpoint `/predict`, `/explain` (SHAP values), `/stats`
 - **Metrica:** AUC ≥ 0.75 su validation set; 100% delle predizioni con SHAP explainability visibile al clinico
 
-**D2 — EMSy Events: attivazione operativa su eventi VDA 2026**
+**D2 — EMSy Events: attivazione operativa su eventi VDA 2027**
 Go-live della piattaforma EMSy Events in contesto reale valdostano con partner contrattuale VDA Trailers:
-- **Gran Trail Courmayeur GTC®** (10–12 luglio 2026) — gestione medica in tempo reale
-- **TORX® with Kailas** (11–20 settembre 2026) — gestione medica in tempo reale
+- **Gran Trail Courmayeur GTC®** (10–12 luglio 2027) — gestione medica in tempo reale
+- **TORX® with Kailas** (11–20 settembre 2027) — gestione medica in tempo reale
 - **Metrica:** sistema attivo durante entrambi gli eventi; raccolta dati sanitari su ≥ 500 atleti partecipanti; report post-evento
 
 **D3 — Web App EMSy: rilascio pubblico accessibile da browser mobile**
