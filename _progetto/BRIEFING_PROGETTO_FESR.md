@@ -387,7 +387,7 @@ I 3 soci lavoreranno al progetto? Se sì, quante ore/settimana ciascuno dedica?
 - Inferenza LLM locale e training XGBoost su GPU server on-premise (già in budget FESR); crediti cloud NVIDIA/AWS Activate coprono eventuali picchi di compute
 - Forma laptop: necessario per presenza documentata in Valle d'Aosta (80% ore in sede VdA come richiesto dal bando)
 
-**Certificazioni ambientali:** Energy Star + ESPR Ecodesign → ammissibile per **premialità +5 punti** del bando
+**Certificazioni ambientali:** nella selezione del fornitore si darà priorità a modelli certificati Ecodesign ESPR, ove disponibili → criterio per **premialità +5 punti** del bando; certificazione specifica definita solo al momento dell'acquisto
 
 **Calcolo ammortamento bando:**
 - Prezzo: €3.200
