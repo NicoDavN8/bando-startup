@@ -492,7 +492,7 @@ Per l'hardware acquistato (workstation sviluppo): acquisto da fornitori certific
 
 #### ⭐ ESPR — Ecodesign for Sustainable Products (Reg. UE 2024/1781) — PREMIALITÀ +5 PUNTI
 
-Applicabile per l'hardware acquistato nel Piano di sviluppo. L'acquisto di workstation con certificazione Ecodesign (efficienza energetica, durabilità, riparabilità) attiva la **premialità +5 punti** prevista dal bando. Da documentare con scheda tecnica del prodotto al momento dell'acquisto.
+Applicabile per l'hardware acquistato nel Piano di sviluppo. Nella selezione del fornitore del Server GPU, EMSy darà priorità a modelli certificati Ecodesign (efficienza energetica, durabilità, riparabilità), ove disponibili, come criterio di scelta per attivare la **premialità +5 punti** prevista dal bando. La certificazione specifica del prodotto sarà definita e documentata con scheda tecnica solo al momento dell'acquisto, successivo alla concessione del contributo.
 
 ---
 
