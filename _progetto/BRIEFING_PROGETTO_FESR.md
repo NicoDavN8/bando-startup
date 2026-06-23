@@ -320,7 +320,7 @@ Pubblicazione versione 1.0 della Web App EMSy accessibile da browser senza insta
 
 #### FASE 2 — Mesi 7–18 (budget max €120.000)
 
-**D4 — AI Data Expert: integrazione LangGraph (Cervelli 1+2+4 integrati)**
+**D4 — AI Data Expert: integrazione LangGraph (3 moduli integrati)**
 Orchestrazione multi-intelligenza: il sistema decide autonomamente quale modulo attivare in base alla domanda clinica e sintetizza le risposte in un unico output contestualizzato.
 - Tool LangGraph operativi: `query_dataset`, `predict_ohca`, `explain_prediction`, `generate_chart`
 - Modulo di sintesi (LLM Reasoning): sintesi di output ML + letteratura RAG in risposta clinica azionabile
