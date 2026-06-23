@@ -274,8 +274,8 @@ Modulo specializzato per la gestione sanitaria in tempo reale di eventi di trail
 Funzionalità: tracciamento atleti, gestione emergenze in tempo reale, coordinamento équipe medica distribuita su percorsi in alta quota, raccolta dati sanitari su campo.
 
 **Attivazione operativa confermato nel Piano di sviluppo** con partner contrattuali:
-- **Gran Trail Courmayeur GTC®** (VDA Trailers, luglio 2026) — imponente macchina di sicurezza con medici, guide alpine, soccorso alpino, Piano Sanitario AUSL VdA
-- **TORX® with Kailas** (VDA Trailers, settembre 2026) — evento di rilevanza internazionale
+- **Gran Trail Courmayeur GTC®** (VDA Trailers, luglio 2027) — imponente macchina di sicurezza con medici, guide alpine, soccorso alpino, Piano Sanitario AUSL VdA
+- **TORX® with Kailas** (VDA Trailers, settembre 2027) — evento di rilevanza internazionale
 
 EMSy Events porta la piattaforma in un contesto operativo reale, valdostano, con dati clinici autentici che alimentano il miglioramento continuo del sistema AI.
 
