@@ -82,7 +82,7 @@ Orari: lunedì–venerdì 9:00–14:00
 ### Documenti da consegnare entro 5-7 giugno ⚠️
 
 - [ ] Dichiarazioni dei redditi di tutti i soci
-- [ ] Business Plan — no proiezioni, solo certezze attuali: cosa abbiamo fatto, chi sono le controparti coinvolte (UTMB, TorX, Valpelline, ArRC), risultati raggiunti (400+ utenti, 50+ paesi, 1.000+ consultazioni/giorno)
+- [ ] Business Plan — no proiezioni, solo certezze attuali: cosa abbiamo fatto, chi sono le controparti coinvolte (UTMB, TorX, Valpelline, ArRC), risultati raggiunti (800+ utenti, 50+ paesi, 2.000+ consultazioni/giorno)
 - [ ] Descrizione progetto bando — cosa ci servono i soldi, quante persone coinvolte, impatto sul territorio VdA
 - [ ] Relazione sull'impresa — come siamo arrivati a questo progetto e come pensiamo di andare avanti
 - [ ] Provvisorio 2025 e provvisorio 2026 (inizio anno) → da richiedere al commercialista
